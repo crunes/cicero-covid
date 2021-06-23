@@ -1,0 +1,219 @@
+body {
+  background-color: #ffffff;
+  max-width: 1050px;
+  margin: 0 auto;
+}
+
+.chart-container {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+svg {
+    overflow: visible;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    left: 20%;
+    -webkit-transform: translateX(-20%);
+    -ms-transform: translateX(-20%);
+    transform: translateX(-20%);
+}
+
+.pop-up {
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 1px;
+    line-height: 1.2;
+    width: 200px;
+    pointer-events: none;
+    background-color: white;
+    padding: 10px;
+    opacity: 0;
+}
+
+.spacer {
+    height: 50px;
+}
+
+.filler {
+  text-align: center;
+}
+
+#legend-title {
+  text-align: center;
+  margin-bottom: 1rem;;
+}
+
+p.source {
+  margin-top: 2rem;
+  font-size: 12px;
+  text-align: center;
+}
+
+.filler h2, #hed {
+  font-family: 'Baskervville', serif;
+  font-weight: 400;
+  font-size: 48px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.filler h4 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 auto;
+  line-height: 1.5;
+  max-width: 600px;
+}
+
+.filler p {
+  font-family: 'Baskervville', serif;
+  font-size: 16px;
+  text-align: justify;
+  margin: 20px auto;
+  line-height: 1.5;
+  max-width: 600px;
+  color: #161616;
+}
+
+.grid {
+    max-width: 1050px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+#legend {
+  max-width: 30%;
+  display: block;
+  margin: 2rem auto;
+}
+
+hr {
+  color: #eee;
+}
+
+p.axis-label {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+  max-width: 60rem;
+  text-align: left;
+}
+
+p.byline {
+  text-align: center;
+}
+
+p.dek {
+  color: #888;
+  text-align: center;
+}
+
+p.chart-label {
+  color: #696969;
+}
+
+#scrolly-overlay .scrolly {
+    font-family: 'Baskervville', serif;
+    font-size: 18px;
+    max-width: 60rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    position: relative;
+}
+
+#scrolly-overlay .scrolly article {
+    padding: 0;
+    max-width: 30rem;
+    margin: 0 auto;
+    position: relative;
+}
+
+#scrolly-overlay .scrolly article .step {
+    min-height: 50vh;
+    margin-bottom: 1rem;
+}
+
+#scrolly-overlay .scrolly article .step:last-of-type {
+    margin-bottom: 0;
+}
+
+#scrolly-overlay .scrolly article .step.is-active p {
+    background-color: #ffffff;
+}
+
+#scrolly-overlay .scrolly article .step p {
+    margin: 0;
+    padding: 1rem;
+    text-align: left;
+    font-weight: 400;
+    background-color: #eee;
+    transition: background-color 250ms ease-in-out;
+    color: #21130d;
+}
+
+#scrolly-overlay .scrolly figure.sticky {
+    position: sticky;
+    width: 100%;
+    height: 50vh;
+    background: #ffffff;
+    margin: 0;
+    top: 5vh;
+    left: 0;
+    transition: stroke 50ms ease-in-out;
+}
+
+.x .tick line {
+    stroke: rgba(0, 0, 0, .2);
+}
+
+.y .tick line {
+    stroke: #ccc;
+    stroke-dasharray: 2 2;
+}
+
+.x .domain {
+    display: none;
+}
+
+.y .domain {
+    display: none;
+}
+
+.y .tick text {
+    font-size: 14px;
+    fill: #aaa;
+}
+
+.x .tick text {
+    font-size: 14px;
+    fill: #aaa;
+}
+
+.pop-up {
+  position: absolute;
+  border: 1px solid black;
+  border-radius: 1px;
+  line-height: 1.2;
+  width: 200px;
+  /* height: 100px; */
+  pointer-events: none;
+  background-color: white;
+  padding: 10px;
+}
+
+.topo path {
+  stroke: #fff;
+  stroke-width: .5px;
+  transition: fill 0.2s ease;
+}
+
+.topo path:hover {
+  fill: #ff6961;

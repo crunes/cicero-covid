@@ -1,0 +1,307 @@
+const container = d3.select('#scrolly-overlay');
+const stepSel = container.selectAll('.step');
+
+function updateChart(index) {
+    console.log("Updating with", index);
+    const sel = container.select(`[data-index='${index}']`);
+    stepSel.classed('is-active', (d, i) => i === index);
+    //
+    // if (index == "-1") {
+    //   container.select('#citywide').style("stroke-opacity", 0);
+    //   container.select('#averages').style("stroke-opacity", 0);
+    //   container.select("#cityLabel").style("opacity", 0);
+    //   container.select("#pcpAvgLabel").style("opacity", 0);
+    //   container.select("#nonPcpAvgLabel").style("opacity", 0);
+    //   container.select('#zips').style("stroke-opacity", 0);
+    //   container.select("#loopLabel").style("opacity", 0);
+    //   container.select("#englewoodLabel").style("opacity", 0);
+    //   container.select('#pcpZipLines').style("stroke-opacity", 1);
+    //
+    // } else if (index == "0") {
+    //   container.select('#citywide').style("stroke-opacity", 1);
+    //   container.select('#averages').style("stroke-opacity", 0);
+    //   container.select("#cityLabel").style("opacity", 1);
+    //   container.select("#pcpAvgLabel").style("opacity", 0);
+    //   container.select("#nonPcpAvgLabel").style("opacity", 0);
+    //   container.select('#zips').style("stroke-opacity", 0);
+    //   container.select("#loopLabel").style("opacity", 0);
+    //   container.select("#englewoodLabel").style("opacity", 0);
+    //   container.select('#pcpZipLines').style("stroke-opacity", 0);
+    //
+    // } else if (index == "1") {
+    //   container.select('#citywide').style("stroke-opacity", 0);
+    //   container.select('#averages').style("stroke-opacity", 1);
+    //   container.select("#cityLabel").style("opacity", 1);
+    //   container.select("#pcpAvgLabel").style("opacity", 1);
+    //   container.select("#nonPcpAvgLabel").style("opacity", 1);
+    //   container.select('#zips').style("stroke-opacity", 0);
+    //   container.select("#loopLabel").style("opacity", 0);
+    //   container.select("#englewoodLabel").style("opacity", 0);
+    //   container.select('#pcpZipLines').style("stroke-opacity", 0);
+    //
+    // } else if (index == "2") {
+    //   container.select('#citywide').style("stroke-opacity", 1);
+    //   container.select('#averages').style("stroke-opacity", 0);
+    //   container.select("#cityLabel").style("opacity", 1);
+    //   container.select("#pcpAvgLabel").style("opacity", 0);
+    //   container.select("#nonPcpAvgLabel").style("opacity", 0);
+    //   container.select('#zips').style("stroke-opacity", 0.5);
+    //   container.select("#loopLabel").style("opacity", 1);
+    //   container.select("#englewoodLabel").style("opacity", 1);
+    //   container.select('#pcpZipLines').style("stroke-opacity", 0);
+    //
+    // } else {
+    //   container.select('#citywide').style("stroke-opacity", 1);
+    //   container.select('#averages').style("stroke-opacity", 0);
+    //   container.select("#cityLabel").style("opacity", 1);
+    //   container.select("#pcpAvgLabel").style("opacity", 0);
+    //   container.select("#nonPcpAvgLabel").style("opacity", 0);
+    //   container.select('#zips').style("stroke-opacity", 0);
+    //   container.select("#loopLabel").style("opacity", 0);
+    //   container.select("#englewoodLabel").style("opacity", 0);
+    //   container.select('#pcpZipLines').style("stroke-opacity", 0.5);
+    // }
+}
+
+function init() {
+
+    enterView({
+        selector: stepSel.nodes(),
+        offset: 0.5,
+        enter: el => {
+            console.log(el, "entering view...")
+            const index = +d3.select(el).attr('data-index');
+            updateChart(index);
+        },
+        exit: el => {
+            let index = +d3.select(el).attr('data-index');
+            index = Math.max(0, index - 1);
+            updateChart(index);
+        }
+    });
+}
+
+
+init();
+
+let width = 800;
+let height = 500;
+let margin = { top: 30, right: 10, bottom: 10, left: 30 };
+let svg = d3.select("body").select("#line-chart")
+
+d3.csv('data/vax_rates.csv')
+  .then(function (data) {
+
+    console.log(data)
+
+    data.forEach(row => {
+      row.date = new Date(row.date)
+      row.fully_vax = +row.pct_complete_vax
+    });
+
+    data.sort(function(a, b) {
+      return d3.ascending(a.date, b.date)
+    })
+
+    let x = d3.scaleTime()
+        .domain(d3.extent(data.map(function (d) { return d.date })))
+        .range([margin.left, width - margin.right])
+
+    let y = d3.scaleLinear()
+        // .domain([0,1])
+        .domain(d3.extent(data.map(function (d) { return d.fully_vax })))
+        .range([height - margin.bottom, margin.top])
+
+    let yAxisSettings = d3.axisLeft(y)
+        .ticks(10)
+        .tickSize(-width)
+        .tickFormat(d3.format(".0%"))
+        .tickPadding(10)
+
+    let xAxisSettings = d3.axisBottom(x)
+        .ticks(6)
+        .tickSize(10)
+        .tickPadding(10)
+        .tickFormat(d3.timeFormat("%B"))
+
+    let bg = svg.append("rect")
+        .attr("x", margin.left)
+        .attr("y", 0)
+        .attr("width", width)
+        .attr("height", height)
+        .style("fill", "rgba(0, 0, 0, 0)")
+
+    let xAxisTicks = svg.append("g")
+        .attr("class", "x axis")
+        .call(xAxisSettings)
+        .attr("transform", `translate(0,${height - margin.bottom})`)
+
+    let yAxisTicks = svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxisSettings)
+        .attr("transform", `translate(${margin.left},0)`)
+
+    let line = d3.line()
+          .defined(d => !isNaN(d.fully_vax))
+          .x(d => x(d.date) )
+          .y(d => y(d.fully_vax) )
+          .curve(d3.curveMonotoneX)
+
+    let grouped_data = d3.group(data, d => d.city)
+    console.log(grouped_data)
+
+    let allFocus = ["Blue Island", "Calumet City", "Cicero", "Dolton", "Harvey", "Maywood", "Berwyn", "Stickney"]
+    let sswFocus = ["Blue Island", "Calumet City", "Harvey"]
+    let ciceroFocus = ["Berwyn", "Cicero", "Dolton", "Maywood", "Stickney"]
+
+    let focusVax = d3.filter(grouped_data, d => allFocus.includes(d[0]))
+    let ciceroVax = d3.filter(grouped_data, d => ciceroFocus.includes(d[0]))
+    let sswVax = d3.filter(grouped_data, d => sswFocus.includes(d[0]))
+
+    // let city = svg.append("g")
+    //   .attr("id", "citywide")
+    //   .selectAll(".line")
+    //   .data(citywide)
+    //   .join("path")
+    //   .attr("class", d => "line " +  d[0])
+    //   .attr("d", d => line(d[1]))
+    //   .style("fill", "none")
+    //   .style("stroke", "#161616")
+    //   .style("stroke-width", "2px")
+    //
+    // let cityLabel = svg.append("text")
+    //   .attr("text-anchor", "left")
+    //   .attr("id", "cityLabel")
+    //   .attr("x", 795)
+    //   .attr("y", 290)
+    //   .style("fill", "#161616")
+    //   .style("font-size", "14px")
+    //   .style("font-weight", "bold")
+    //   .text("Citywide")
+    //
+    // let pcpAvgLabel = svg.append("text")
+    //   .attr("text-anchor", "middle")
+    //   .attr("id", "pcpAvgLabel")
+    //   .attr("x", 700)
+    //   .attr("y", 410)
+    //   .style("fill", "#c51b7d")
+    //   .style("font-size", "14px")
+    //   .style("font-weight", "bold")
+    //   .text("Protect Chicago Plus")
+    //
+    // let nonPcpAvgLabel = svg.append("text")
+    //   .attr("text-anchor", "middle")
+    //   .attr("id", "nonPcpAvgLabel")
+    //   .attr("x", 745)
+    //   .attr("y", 260)
+    //   .style("fill", "#4d9221")
+    //   .style("font-size", "14px")
+    //   .style("font-weight", "bold")
+    //   .text("Rest of the city")
+    //
+    // let avgLines = svg.append("g")
+    //   .attr("id", "averages")
+    //   .selectAll(".line")
+    //   .data(averages)
+    //   .join("path")
+    //   .attr("class", d => "line " + d[0])
+    //   .attr("d", d => line(d[1]))
+    //   .style("fill", "none")
+    //   .style("stroke", function(d) {
+    //     if (d[0] == "Citywide") {
+    //       return "#bbb"
+    //     } else if (d[0] == "Non-Protect Chicago Plus") {
+    //       return "#4d9221"
+    //     } else {
+    //       return "#c51b7d"
+    //     }
+    //   })
+    //   .style("stroke-width", function(d) {
+    //     if (d[0] == "Citywide") {
+    //       return "1px"
+    //     } else {
+    //       return "2px"
+    //     }
+    //   })
+    //
+    let municipalities = svg.append("g")
+      .attr("id", "municipalities")
+      .selectAll("path")
+      .data(grouped_data)
+      .join("path")
+      .attr("class", d => "line " + d[0])
+      .attr("d", d => line(d[1]))
+      .style("fill", "none")
+      .style("stroke-opacity", 0.5)
+      .style("stroke", function(d) {
+        if (!ciceroFocus.includes(d[0]) && !sswFocus.includes(d[0])) {
+          return "#eee"
+          // return "#4d9221"
+        } else if (sswFocus.includes(d[0])) {
+          return "#c51b7d"
+        } else {
+          return "#4d9221"
+        }
+      })
+      .style("stroke-width", function(d) {
+        if (ciceroFocus.includes(d[0]) | sswFocus.includes(d[0])) {
+          return "2px"
+        } else {
+          return "1px"
+        }
+      })
+
+    // let loopLabel = svg.append("text")
+    //   .attr("text-anchor", "middle")
+    //   .attr("id", "loopLabel")
+    //   .attr("x", 750)
+    //   .attr("y", 20)
+    //   .style("fill", "#4d9221")
+    //   .style("font-size", "14px")
+    //   .style("font-weight", "bold")
+    //   .text("60603 (Loop)")
+    //
+    // let englewoodLabel = svg.append("text")
+    //   .attr("text-anchor", "middle")
+    //   .attr("id", "englewoodLabel")
+    //   .attr("x", 720)
+    //   .attr("y", 425)
+    //   .style("fill", "#c51b7d")
+    //   .style("font-size", "14px")
+    //   .style("font-weight", "bold")
+    //   .text("60621 (Englewood)")
+    //
+    // let pcpZipLines = svg.append("g")
+    //   .attr("id", "pcpZipLines")
+    //   .selectAll(".line")
+    //   .data(grouped_data)
+    //   .join("path")
+    //   .attr("class", d => "line " + d[0])
+    //   .attr("d", d => line(d[1]))
+    //   .style("fill", "none")
+    //   .style("stroke", function(d) {
+    //     if (pcpZipCodes.includes(d[0])) {
+    //       return "#c51b7d"
+    //     } else {
+    //       return "#ccc"
+    //     }
+    //   })
+    //   .style("stroke-width", function(d) {
+    //     if (pcpZipCodes.includes(d[0])) {
+    //       return "2px"
+    //     } else {
+    //       return "1px"
+    //     }
+    //   })
+
+    let baseline = svg.append("line")
+      .attr("x1", margin.left)
+      .attr("x2", width + margin.left)
+      .attr("y1", y(0))
+      .attr("y2", y(0))
+      .style("stroke", "#aaa")
+      .style("stroke-width", "2px")
+
+    // updateChart("-1") // Remove most labels to start
+
+  })

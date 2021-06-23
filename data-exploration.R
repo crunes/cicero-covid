@@ -99,6 +99,7 @@ cicero_vs_other <- full.total %>%
   summarize(total = sum(total)) %>% 
   arrange(cicero, date)
 
+# Stacked 100 percent chart
 ggplot(data=cicero_vs_other, 
        aes(date, total, fill=factor(cicero, levels=c("NA","Other", "Cicero")))) +
   geom_bar(position="fill", stat="identity") + 
@@ -113,6 +114,21 @@ ggplot(data=cicero_vs_other,
     panel.grid.minor = element_blank(),
     panel.border = element_blank(),
     panel.background = element_rect(fill = "white", colour = "white"))
+
+# Stack allow day-by-day variance
+ggplot(data=cicero_vs_other, 
+       aes(date, total, fill=factor(cicero, levels=c("NA","Other", "Cicero")))) +
+  geom_bar(position="stack", stat="identity") + 
+  scale_fill_viridis(discrete = T, name="", direction=-1) +
+  xlab("Date") + ylab("Total doses, by city and date") +
+  theme(
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_rect(fill = "white", colour = "white"))
+
 
 # Try a streamgraph?
 # Try a circular barplot? 

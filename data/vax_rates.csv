@@ -1,0 +1,2071 @@
+"date","city","pct_complete_vax"
+2021-01-03,"Alsip",0.004
+2021-01-10,"Alsip",0.007
+2021-01-17,"Alsip",0.009
+2021-01-24,"Alsip",0.012
+2021-01-31,"Alsip",0.017
+2021-02-07,"Alsip",0.028
+2021-02-14,"Alsip",0.039
+2021-02-21,"Alsip",0.061
+2021-02-28,"Alsip",0.078
+2021-03-07,"Alsip",0.102
+2021-03-14,"Alsip",0.122
+2021-03-21,"Alsip",0.14
+2021-03-28,"Alsip",0.16
+2021-04-04,"Alsip",0.195
+2021-04-11,"Alsip",0.224
+2021-04-18,"Alsip",0.25
+2021-04-25,"Alsip",0.274
+2021-05-02,"Alsip",0.294
+2021-01-03,"Arlington Heights",0.008
+2021-01-10,"Arlington Heights",0.011
+2021-01-17,"Arlington Heights",0.014
+2021-01-24,"Arlington Heights",0.024
+2021-01-31,"Arlington Heights",0.034
+2021-02-07,"Arlington Heights",0.043
+2021-02-14,"Arlington Heights",0.062
+2021-02-21,"Arlington Heights",0.099
+2021-02-28,"Arlington Heights",0.136
+2021-03-07,"Arlington Heights",0.188
+2021-03-14,"Arlington Heights",0.215
+2021-03-21,"Arlington Heights",0.233
+2021-03-28,"Arlington Heights",0.26
+2021-04-04,"Arlington Heights",0.319
+2021-04-11,"Arlington Heights",0.366
+2021-04-18,"Arlington Heights",0.417
+2021-04-25,"Arlington Heights",0.454
+2021-05-02,"Arlington Heights",0.483
+2021-01-03,"Barrington",0.018
+2021-01-10,"Barrington",0.024
+2021-01-17,"Barrington",0.027
+2021-01-24,"Barrington",0.045
+2021-01-31,"Barrington",0.05
+2021-02-07,"Barrington",0.06
+2021-02-14,"Barrington",0.082
+2021-02-21,"Barrington",0.132
+2021-02-28,"Barrington",0.203
+2021-03-07,"Barrington",0.281
+2021-03-14,"Barrington",0.327
+2021-03-21,"Barrington",0.357
+2021-03-28,"Barrington",0.4
+2021-04-04,"Barrington",0.476
+2021-04-11,"Barrington",0.55
+2021-04-18,"Barrington",0.62
+2021-04-25,"Barrington",0.684
+2021-05-02,"Barrington",0.738
+2021-01-03,"Barrington Hills",0
+2021-01-10,"Barrington Hills",0
+2021-01-17,"Barrington Hills",0
+2021-01-24,"Barrington Hills",0
+2021-01-31,"Barrington Hills",0
+2021-02-07,"Barrington Hills",0
+2021-01-03,"Bartlett",0.006
+2021-01-10,"Bartlett",0.009
+2021-01-17,"Bartlett",0.014
+2021-01-24,"Bartlett",0.019
+2021-01-31,"Bartlett",0.026
+2021-02-07,"Bartlett",0.042
+2021-02-14,"Bartlett",0.05
+2021-02-21,"Bartlett",0.065
+2021-02-28,"Bartlett",0.095
+2021-03-07,"Bartlett",0.141
+2021-03-14,"Bartlett",0.164
+2021-03-21,"Bartlett",0.181
+2021-03-28,"Bartlett",0.21
+2021-04-04,"Bartlett",0.252
+2021-04-11,"Bartlett",0.29
+2021-04-18,"Bartlett",0.331
+2021-04-25,"Bartlett",0.363
+2021-05-02,"Bartlett",0.406
+2021-01-17,"Bedford Park",0.021
+2021-01-31,"Bedford Park",0.036
+2021-02-14,"Bedford Park",0.057
+2021-02-21,"Bedford Park",0.088
+2021-02-28,"Bedford Park",0.109
+2021-03-07,"Bedford Park",0.15
+2021-03-14,"Bedford Park",0.169
+2021-03-21,"Bedford Park",0.195
+2021-03-28,"Bedford Park",0.226
+2021-04-04,"Bedford Park",0.284
+2021-04-11,"Bedford Park",0.324
+2021-04-18,"Bedford Park",0.36
+2021-04-25,"Bedford Park",0.376
+2021-05-02,"Bedford Park",0.403
+2021-01-03,"Bellwood",0.002
+2021-01-10,"Bellwood",0.003
+2021-01-17,"Bellwood",0.004
+2021-01-24,"Bellwood",0.007
+2021-01-31,"Bellwood",0.01
+2021-02-07,"Bellwood",0.013
+2021-02-14,"Bellwood",0.025
+2021-02-21,"Bellwood",0.036
+2021-02-28,"Bellwood",0.051
+2021-03-07,"Bellwood",0.069
+2021-03-14,"Bellwood",0.087
+2021-03-21,"Bellwood",0.102
+2021-03-28,"Bellwood",0.142
+2021-04-04,"Bellwood",0.179
+2021-04-11,"Bellwood",0.21
+2021-04-18,"Bellwood",0.244
+2021-04-25,"Bellwood",0.27
+2021-05-02,"Bellwood",0.29
+2021-01-03,"Berkeley",0.003
+2021-01-10,"Berkeley",0.005
+2021-01-17,"Berkeley",0.008
+2021-01-24,"Berkeley",0.011
+2021-01-31,"Berkeley",0.017
+2021-02-07,"Berkeley",0.022
+2021-02-14,"Berkeley",0.029
+2021-02-21,"Berkeley",0.049
+2021-02-28,"Berkeley",0.067
+2021-03-07,"Berkeley",0.095
+2021-03-14,"Berkeley",0.113
+2021-03-21,"Berkeley",0.13
+2021-03-28,"Berkeley",0.187
+2021-04-04,"Berkeley",0.226
+2021-04-11,"Berkeley",0.275
+2021-04-18,"Berkeley",0.328
+2021-04-25,"Berkeley",0.359
+2021-05-02,"Berkeley",0.385
+2021-01-03,"Berwyn",0.003
+2021-01-10,"Berwyn",0.006
+2021-01-17,"Berwyn",0.01
+2021-01-24,"Berwyn",0.015
+2021-01-31,"Berwyn",0.02
+2021-02-07,"Berwyn",0.027
+2021-02-14,"Berwyn",0.038
+2021-02-21,"Berwyn",0.054
+2021-02-28,"Berwyn",0.073
+2021-03-07,"Berwyn",0.093
+2021-03-14,"Berwyn",0.112
+2021-03-21,"Berwyn",0.131
+2021-03-28,"Berwyn",0.157
+2021-04-04,"Berwyn",0.195
+2021-04-11,"Berwyn",0.227
+2021-04-18,"Berwyn",0.267
+2021-04-25,"Berwyn",0.302
+2021-05-02,"Berwyn",0.332
+2021-01-03,"Blue Island",0.002
+2021-01-10,"Blue Island",0.003
+2021-01-17,"Blue Island",0.004
+2021-01-24,"Blue Island",0.006
+2021-01-31,"Blue Island",0.009
+2021-02-07,"Blue Island",0.015
+2021-02-14,"Blue Island",0.022
+2021-02-21,"Blue Island",0.034
+2021-02-28,"Blue Island",0.047
+2021-03-07,"Blue Island",0.062
+2021-03-14,"Blue Island",0.076
+2021-03-21,"Blue Island",0.091
+2021-03-28,"Blue Island",0.109
+2021-04-04,"Blue Island",0.137
+2021-04-11,"Blue Island",0.161
+2021-04-18,"Blue Island",0.187
+2021-04-25,"Blue Island",0.213
+2021-05-02,"Blue Island",0.237
+2021-01-03,"Bridgeview",0.003
+2021-01-10,"Bridgeview",0.005
+2021-01-17,"Bridgeview",0.007
+2021-01-24,"Bridgeview",0.017
+2021-01-31,"Bridgeview",0.025
+2021-02-07,"Bridgeview",0.031
+2021-02-14,"Bridgeview",0.039
+2021-02-21,"Bridgeview",0.06
+2021-02-28,"Bridgeview",0.073
+2021-03-07,"Bridgeview",0.092
+2021-03-14,"Bridgeview",0.105
+2021-03-21,"Bridgeview",0.119
+2021-03-28,"Bridgeview",0.135
+2021-04-04,"Bridgeview",0.16
+2021-04-11,"Bridgeview",0.187
+2021-04-18,"Bridgeview",0.208
+2021-04-25,"Bridgeview",0.231
+2021-05-02,"Bridgeview",0.253
+2021-01-03,"Broadview",0.002
+2021-01-10,"Broadview",0.004
+2021-01-17,"Broadview",0.007
+2021-01-24,"Broadview",0.012
+2021-01-31,"Broadview",0.016
+2021-02-07,"Broadview",0.021
+2021-02-14,"Broadview",0.027
+2021-02-21,"Broadview",0.041
+2021-02-28,"Broadview",0.06
+2021-03-07,"Broadview",0.079
+2021-03-14,"Broadview",0.099
+2021-03-21,"Broadview",0.118
+2021-03-28,"Broadview",0.159
+2021-04-04,"Broadview",0.197
+2021-04-11,"Broadview",0.229
+2021-04-18,"Broadview",0.262
+2021-04-25,"Broadview",0.287
+2021-05-02,"Broadview",0.309
+2021-01-03,"Brookfield",0.006
+2021-01-10,"Brookfield",0.011
+2021-01-17,"Brookfield",0.019
+2021-01-24,"Brookfield",0.024
+2021-01-31,"Brookfield",0.031
+2021-02-07,"Brookfield",0.04
+2021-02-14,"Brookfield",0.054
+2021-02-21,"Brookfield",0.08
+2021-02-28,"Brookfield",0.108
+2021-03-07,"Brookfield",0.139
+2021-03-14,"Brookfield",0.163
+2021-03-21,"Brookfield",0.182
+2021-03-28,"Brookfield",0.213
+2021-04-04,"Brookfield",0.257
+2021-04-11,"Brookfield",0.297
+2021-04-18,"Brookfield",0.342
+2021-04-25,"Brookfield",0.38
+2021-05-02,"Brookfield",0.41
+2021-01-03,"Buffalo Grove",0.005
+2021-01-10,"Buffalo Grove",0.008
+2021-01-17,"Buffalo Grove",0.009
+2021-01-24,"Buffalo Grove",0.014
+2021-01-31,"Buffalo Grove",0.02
+2021-02-07,"Buffalo Grove",0.027
+2021-02-14,"Buffalo Grove",0.04
+2021-02-21,"Buffalo Grove",0.063
+2021-02-28,"Buffalo Grove",0.095
+2021-03-07,"Buffalo Grove",0.148
+2021-03-14,"Buffalo Grove",0.174
+2021-03-21,"Buffalo Grove",0.192
+2021-03-28,"Buffalo Grove",0.218
+2021-04-04,"Buffalo Grove",0.266
+2021-04-11,"Buffalo Grove",0.309
+2021-04-18,"Buffalo Grove",0.351
+2021-04-25,"Buffalo Grove",0.38
+2021-05-02,"Buffalo Grove",0.406
+2021-01-10,"Burnham",0.002
+2021-01-24,"Burnham",0.046
+2021-01-31,"Burnham",0.047
+2021-02-07,"Burnham",0.051
+2021-02-14,"Burnham",0.059
+2021-02-21,"Burnham",0.064
+2021-02-28,"Burnham",0.069
+2021-03-07,"Burnham",0.078
+2021-03-14,"Burnham",0.088
+2021-03-21,"Burnham",0.098
+2021-03-28,"Burnham",0.107
+2021-04-04,"Burnham",0.121
+2021-04-11,"Burnham",0.135
+2021-04-18,"Burnham",0.144
+2021-04-25,"Burnham",0.154
+2021-05-02,"Burnham",0.168
+2021-01-03,"Burr Ridge",0.021
+2021-01-10,"Burr Ridge",0.03
+2021-01-17,"Burr Ridge",0.038
+2021-01-24,"Burr Ridge",0.045
+2021-01-31,"Burr Ridge",0.053
+2021-02-07,"Burr Ridge",0.069
+2021-02-14,"Burr Ridge",0.097
+2021-02-21,"Burr Ridge",0.136
+2021-02-28,"Burr Ridge",0.18
+2021-03-07,"Burr Ridge",0.213
+2021-03-14,"Burr Ridge",0.238
+2021-03-21,"Burr Ridge",0.259
+2021-03-28,"Burr Ridge",0.289
+2021-04-04,"Burr Ridge",0.335
+2021-04-11,"Burr Ridge",0.369
+2021-04-18,"Burr Ridge",0.396
+2021-04-25,"Burr Ridge",0.423
+2021-05-02,"Burr Ridge",0.442
+2021-01-03,"Calumet City",0.001
+2021-01-10,"Calumet City",0.003
+2021-01-17,"Calumet City",0.004
+2021-01-24,"Calumet City",0.007
+2021-01-31,"Calumet City",0.009
+2021-02-07,"Calumet City",0.016
+2021-02-14,"Calumet City",0.02
+2021-02-21,"Calumet City",0.03
+2021-02-28,"Calumet City",0.043
+2021-03-07,"Calumet City",0.057
+2021-03-14,"Calumet City",0.069
+2021-03-21,"Calumet City",0.085
+2021-03-28,"Calumet City",0.103
+2021-04-04,"Calumet City",0.128
+2021-04-11,"Calumet City",0.15
+2021-04-18,"Calumet City",0.172
+2021-04-25,"Calumet City",0.193
+2021-05-02,"Calumet City",0.213
+2021-01-03,"Calumet Park",0.002
+2021-01-10,"Calumet Park",0.003
+2021-01-17,"Calumet Park",0.005
+2021-01-24,"Calumet Park",0.008
+2021-01-31,"Calumet Park",0.011
+2021-02-07,"Calumet Park",0.018
+2021-02-14,"Calumet Park",0.025
+2021-02-21,"Calumet Park",0.036
+2021-02-28,"Calumet Park",0.05
+2021-03-07,"Calumet Park",0.07
+2021-03-14,"Calumet Park",0.088
+2021-03-21,"Calumet Park",0.11
+2021-03-28,"Calumet Park",0.134
+2021-04-04,"Calumet Park",0.159
+2021-04-11,"Calumet Park",0.187
+2021-04-18,"Calumet Park",0.204
+2021-04-25,"Calumet Park",0.224
+2021-05-02,"Calumet Park",0.242
+2021-01-03,"Chicago Heights",0.002
+2021-01-10,"Chicago Heights",0.004
+2021-01-17,"Chicago Heights",0.008
+2021-01-24,"Chicago Heights",0.01
+2021-01-31,"Chicago Heights",0.011
+2021-02-07,"Chicago Heights",0.02
+2021-02-14,"Chicago Heights",0.026
+2021-02-21,"Chicago Heights",0.043
+2021-02-28,"Chicago Heights",0.06
+2021-03-07,"Chicago Heights",0.07
+2021-03-14,"Chicago Heights",0.082
+2021-03-21,"Chicago Heights",0.092
+2021-03-28,"Chicago Heights",0.109
+2021-04-04,"Chicago Heights",0.133
+2021-04-11,"Chicago Heights",0.15
+2021-04-18,"Chicago Heights",0.184
+2021-04-25,"Chicago Heights",0.2
+2021-05-02,"Chicago Heights",0.22
+2021-01-03,"Chicago Ridge",0.003
+2021-01-10,"Chicago Ridge",0.005
+2021-01-17,"Chicago Ridge",0.012
+2021-01-24,"Chicago Ridge",0.021
+2021-01-31,"Chicago Ridge",0.024
+2021-02-07,"Chicago Ridge",0.032
+2021-02-14,"Chicago Ridge",0.04
+2021-02-21,"Chicago Ridge",0.053
+2021-02-28,"Chicago Ridge",0.068
+2021-03-07,"Chicago Ridge",0.082
+2021-03-14,"Chicago Ridge",0.096
+2021-03-21,"Chicago Ridge",0.108
+2021-03-28,"Chicago Ridge",0.12
+2021-04-04,"Chicago Ridge",0.143
+2021-04-11,"Chicago Ridge",0.167
+2021-04-18,"Chicago Ridge",0.191
+2021-04-25,"Chicago Ridge",0.212
+2021-05-02,"Chicago Ridge",0.233
+2021-01-03,"Cicero",0.001
+2021-01-10,"Cicero",0.002
+2021-01-17,"Cicero",0.003
+2021-01-24,"Cicero",0.006
+2021-01-31,"Cicero",0.009
+2021-02-07,"Cicero",0.013
+2021-02-14,"Cicero",0.022
+2021-02-21,"Cicero",0.035
+2021-02-28,"Cicero",0.049
+2021-03-07,"Cicero",0.064
+2021-03-14,"Cicero",0.078
+2021-03-21,"Cicero",0.094
+2021-03-28,"Cicero",0.113
+2021-04-04,"Cicero",0.141
+2021-04-11,"Cicero",0.178
+2021-04-18,"Cicero",0.208
+2021-04-25,"Cicero",0.239
+2021-05-02,"Cicero",0.261
+2021-01-03,"Country Club Hills",0.002
+2021-01-10,"Country Club Hills",0.004
+2021-01-17,"Country Club Hills",0.005
+2021-01-24,"Country Club Hills",0.009
+2021-01-31,"Country Club Hills",0.016
+2021-02-07,"Country Club Hills",0.021
+2021-02-14,"Country Club Hills",0.027
+2021-02-21,"Country Club Hills",0.043
+2021-02-28,"Country Club Hills",0.064
+2021-03-07,"Country Club Hills",0.105
+2021-03-14,"Country Club Hills",0.132
+2021-03-21,"Country Club Hills",0.155
+2021-03-28,"Country Club Hills",0.177
+2021-04-04,"Country Club Hills",0.203
+2021-04-11,"Country Club Hills",0.223
+2021-04-18,"Country Club Hills",0.242
+2021-04-25,"Country Club Hills",0.262
+2021-05-02,"Country Club Hills",0.285
+2021-01-03,"Countryside",0.007
+2021-01-10,"Countryside",0.01
+2021-01-17,"Countryside",0.013
+2021-01-24,"Countryside",0.017
+2021-01-31,"Countryside",0.023
+2021-02-07,"Countryside",0.029
+2021-02-14,"Countryside",0.041
+2021-02-21,"Countryside",0.062
+2021-02-28,"Countryside",0.089
+2021-03-07,"Countryside",0.134
+2021-03-14,"Countryside",0.164
+2021-03-21,"Countryside",0.181
+2021-03-28,"Countryside",0.214
+2021-04-04,"Countryside",0.254
+2021-04-11,"Countryside",0.289
+2021-04-18,"Countryside",0.321
+2021-04-25,"Countryside",0.358
+2021-05-02,"Countryside",0.39
+2021-01-03,"Crestwood",0.006
+2021-01-10,"Crestwood",0.01
+2021-01-17,"Crestwood",0.012
+2021-01-24,"Crestwood",0.019
+2021-01-31,"Crestwood",0.042
+2021-02-07,"Crestwood",0.049
+2021-02-14,"Crestwood",0.061
+2021-02-21,"Crestwood",0.088
+2021-02-28,"Crestwood",0.109
+2021-03-07,"Crestwood",0.134
+2021-03-14,"Crestwood",0.156
+2021-03-21,"Crestwood",0.177
+2021-03-28,"Crestwood",0.198
+2021-04-04,"Crestwood",0.239
+2021-04-11,"Crestwood",0.268
+2021-04-18,"Crestwood",0.292
+2021-04-25,"Crestwood",0.315
+2021-05-02,"Crestwood",0.34
+2021-02-07,"Deerfield",0.081
+2021-02-14,"Deerfield",0.145
+2021-01-03,"Des Plaines",0.008
+2021-01-10,"Des Plaines",0.013
+2021-01-17,"Des Plaines",0.019
+2021-01-24,"Des Plaines",0.031
+2021-01-31,"Des Plaines",0.046
+2021-02-07,"Des Plaines",0.064
+2021-02-14,"Des Plaines",0.082
+2021-02-21,"Des Plaines",0.114
+2021-02-28,"Des Plaines",0.149
+2021-03-07,"Des Plaines",0.212
+2021-03-14,"Des Plaines",0.246
+2021-03-21,"Des Plaines",0.27
+2021-03-28,"Des Plaines",0.302
+2021-04-04,"Des Plaines",0.37
+2021-04-11,"Des Plaines",0.438
+2021-04-18,"Des Plaines",0.493
+2021-04-25,"Des Plaines",0.535
+2021-05-02,"Des Plaines",0.573
+2021-02-14,"Dixmoor",0.007
+2021-02-21,"Dixmoor",0.012
+2021-02-28,"Dixmoor",0.019
+2021-03-07,"Dixmoor",0.024
+2021-03-14,"Dixmoor",0.03
+2021-03-21,"Dixmoor",0.035
+2021-03-28,"Dixmoor",0.042
+2021-04-04,"Dixmoor",0.053
+2021-04-11,"Dixmoor",0.061
+2021-04-18,"Dixmoor",0.067
+2021-04-25,"Dixmoor",0.078
+2021-05-02,"Dixmoor",0.086
+2021-01-03,"Dolton",0.001
+2021-01-10,"Dolton",0.003
+2021-01-17,"Dolton",0.005
+2021-01-24,"Dolton",0.008
+2021-01-31,"Dolton",0.014
+2021-02-07,"Dolton",0.02
+2021-02-14,"Dolton",0.025
+2021-02-21,"Dolton",0.037
+2021-02-28,"Dolton",0.051
+2021-03-07,"Dolton",0.066
+2021-03-14,"Dolton",0.08
+2021-03-21,"Dolton",0.098
+2021-03-28,"Dolton",0.115
+2021-04-04,"Dolton",0.139
+2021-04-11,"Dolton",0.159
+2021-04-18,"Dolton",0.177
+2021-04-25,"Dolton",0.197
+2021-05-02,"Dolton",0.214
+2021-01-24,"East Hazel Crest",0.008
+2021-01-31,"East Hazel Crest",0.011
+2021-02-07,"East Hazel Crest",0.016
+2021-02-14,"East Hazel Crest",0.023
+2021-02-21,"East Hazel Crest",0.035
+2021-02-28,"East Hazel Crest",0.051
+2021-03-07,"East Hazel Crest",0.069
+2021-03-14,"East Hazel Crest",0.087
+2021-03-21,"East Hazel Crest",0.099
+2021-03-28,"East Hazel Crest",0.113
+2021-04-04,"East Hazel Crest",0.143
+2021-04-11,"East Hazel Crest",0.175
+2021-04-18,"East Hazel Crest",0.194
+2021-04-25,"East Hazel Crest",0.216
+2021-05-02,"East Hazel Crest",0.233
+2021-01-03,"Elgin",0.004
+2021-01-10,"Elgin",0.005
+2021-01-17,"Elgin",0.007
+2021-01-24,"Elgin",0.009
+2021-01-31,"Elgin",0.016
+2021-02-07,"Elgin",0.021
+2021-02-14,"Elgin",0.028
+2021-02-21,"Elgin",0.039
+2021-02-28,"Elgin",0.051
+2021-03-07,"Elgin",0.085
+2021-03-14,"Elgin",0.104
+2021-03-21,"Elgin",0.124
+2021-03-28,"Elgin",0.147
+2021-04-04,"Elgin",0.185
+2021-04-11,"Elgin",0.215
+2021-04-18,"Elgin",0.248
+2021-04-25,"Elgin",0.279
+2021-05-02,"Elgin",0.317
+2021-01-03,"Elk Grove Village",0.008
+2021-01-10,"Elk Grove Village",0.011
+2021-01-17,"Elk Grove Village",0.013
+2021-01-24,"Elk Grove Village",0.019
+2021-01-31,"Elk Grove Village",0.025
+2021-02-07,"Elk Grove Village",0.031
+2021-02-14,"Elk Grove Village",0.043
+2021-02-21,"Elk Grove Village",0.065
+2021-02-28,"Elk Grove Village",0.096
+2021-03-07,"Elk Grove Village",0.145
+2021-03-14,"Elk Grove Village",0.173
+2021-03-21,"Elk Grove Village",0.192
+2021-03-28,"Elk Grove Village",0.214
+2021-04-04,"Elk Grove Village",0.295
+2021-04-11,"Elk Grove Village",0.332
+2021-04-18,"Elk Grove Village",0.367
+2021-04-25,"Elk Grove Village",0.395
+2021-05-02,"Elk Grove Village",0.448
+2021-01-03,"Elmwood Park",0.004
+2021-01-10,"Elmwood Park",0.007
+2021-01-17,"Elmwood Park",0.013
+2021-01-24,"Elmwood Park",0.017
+2021-01-31,"Elmwood Park",0.022
+2021-02-07,"Elmwood Park",0.029
+2021-02-14,"Elmwood Park",0.037
+2021-02-21,"Elmwood Park",0.052
+2021-02-28,"Elmwood Park",0.073
+2021-03-07,"Elmwood Park",0.103
+2021-03-14,"Elmwood Park",0.125
+2021-03-21,"Elmwood Park",0.143
+2021-03-28,"Elmwood Park",0.166
+2021-04-04,"Elmwood Park",0.199
+2021-04-11,"Elmwood Park",0.236
+2021-04-18,"Elmwood Park",0.267
+2021-04-25,"Elmwood Park",0.296
+2021-05-02,"Elmwood Park",0.321
+2021-01-03,"Evergreen Park",0.01
+2021-01-10,"Evergreen Park",0.014
+2021-01-17,"Evergreen Park",0.019
+2021-01-24,"Evergreen Park",0.024
+2021-01-31,"Evergreen Park",0.029
+2021-02-07,"Evergreen Park",0.041
+2021-02-14,"Evergreen Park",0.055
+2021-02-21,"Evergreen Park",0.085
+2021-02-28,"Evergreen Park",0.107
+2021-03-07,"Evergreen Park",0.136
+2021-03-14,"Evergreen Park",0.157
+2021-03-21,"Evergreen Park",0.175
+2021-03-28,"Evergreen Park",0.199
+2021-04-04,"Evergreen Park",0.237
+2021-04-11,"Evergreen Park",0.271
+2021-04-18,"Evergreen Park",0.299
+2021-04-25,"Evergreen Park",0.323
+2021-05-02,"Evergreen Park",0.348
+2021-01-03,"Flossmoor",0.008
+2021-01-10,"Flossmoor",0.016
+2021-01-17,"Flossmoor",0.019
+2021-01-24,"Flossmoor",0.024
+2021-01-31,"Flossmoor",0.029
+2021-02-07,"Flossmoor",0.041
+2021-02-14,"Flossmoor",0.07
+2021-02-21,"Flossmoor",0.11
+2021-02-28,"Flossmoor",0.147
+2021-03-07,"Flossmoor",0.194
+2021-03-14,"Flossmoor",0.226
+2021-03-21,"Flossmoor",0.253
+2021-03-28,"Flossmoor",0.286
+2021-04-04,"Flossmoor",0.341
+2021-04-11,"Flossmoor",0.38
+2021-04-18,"Flossmoor",0.412
+2021-04-25,"Flossmoor",0.437
+2021-05-02,"Flossmoor",0.468
+2021-02-07,"Ford Heights",0.005
+2021-02-14,"Ford Heights",0.008
+2021-02-21,"Ford Heights",0.016
+2021-03-07,"Ford Heights",0.029
+2021-03-14,"Ford Heights",0.037
+2021-03-21,"Ford Heights",0.039
+2021-03-28,"Ford Heights",0.044
+2021-04-04,"Ford Heights",0.052
+2021-04-11,"Ford Heights",0.06
+2021-04-18,"Ford Heights",0.066
+2021-04-25,"Ford Heights",0.079
+2021-05-02,"Ford Heights",0.087
+2021-01-03,"Forest Park",0.007
+2021-01-10,"Forest Park",0.014
+2021-01-17,"Forest Park",0.026
+2021-01-24,"Forest Park",0.035
+2021-01-31,"Forest Park",0.046
+2021-02-07,"Forest Park",0.059
+2021-02-14,"Forest Park",0.077
+2021-02-21,"Forest Park",0.097
+2021-02-28,"Forest Park",0.124
+2021-03-07,"Forest Park",0.154
+2021-03-14,"Forest Park",0.175
+2021-03-21,"Forest Park",0.197
+2021-03-28,"Forest Park",0.227
+2021-04-04,"Forest Park",0.266
+2021-04-11,"Forest Park",0.309
+2021-04-18,"Forest Park",0.36
+2021-04-25,"Forest Park",0.397
+2021-05-02,"Forest Park",0.429
+2021-01-03,"Franklin Park",0.003
+2021-01-10,"Franklin Park",0.004
+2021-01-17,"Franklin Park",0.006
+2021-01-24,"Franklin Park",0.009
+2021-01-31,"Franklin Park",0.013
+2021-02-07,"Franklin Park",0.018
+2021-02-14,"Franklin Park",0.024
+2021-02-21,"Franklin Park",0.038
+2021-02-28,"Franklin Park",0.06
+2021-03-07,"Franklin Park",0.088
+2021-03-14,"Franklin Park",0.112
+2021-03-21,"Franklin Park",0.13
+2021-03-28,"Franklin Park",0.15
+2021-04-04,"Franklin Park",0.187
+2021-04-11,"Franklin Park",0.227
+2021-04-18,"Franklin Park",0.262
+2021-04-25,"Franklin Park",0.296
+2021-05-02,"Franklin Park",0.32
+2021-01-03,"Glencoe",0.011
+2021-01-10,"Glencoe",0.017
+2021-01-17,"Glencoe",0.019
+2021-01-24,"Glencoe",0.022
+2021-01-31,"Glencoe",0.029
+2021-02-07,"Glencoe",0.042
+2021-02-14,"Glencoe",0.071
+2021-02-21,"Glencoe",0.111
+2021-02-28,"Glencoe",0.152
+2021-03-07,"Glencoe",0.196
+2021-03-14,"Glencoe",0.223
+2021-03-21,"Glencoe",0.244
+2021-03-28,"Glencoe",0.276
+2021-04-04,"Glencoe",0.331
+2021-04-11,"Glencoe",0.385
+2021-04-18,"Glencoe",0.44
+2021-04-25,"Glencoe",0.466
+2021-05-02,"Glencoe",0.489
+2021-01-03,"Glenview",0.013
+2021-01-10,"Glenview",0.02
+2021-01-17,"Glenview",0.026
+2021-01-24,"Glenview",0.034
+2021-01-31,"Glenview",0.047
+2021-02-07,"Glenview",0.061
+2021-02-14,"Glenview",0.089
+2021-02-21,"Glenview",0.134
+2021-02-28,"Glenview",0.176
+2021-03-07,"Glenview",0.231
+2021-03-14,"Glenview",0.267
+2021-03-21,"Glenview",0.291
+2021-03-28,"Glenview",0.327
+2021-04-04,"Glenview",0.395
+2021-04-11,"Glenview",0.448
+2021-04-18,"Glenview",0.51
+2021-04-25,"Glenview",0.549
+2021-05-02,"Glenview",0.582
+2021-01-03,"Glenwood",0.002
+2021-01-10,"Glenwood",0.004
+2021-01-17,"Glenwood",0.007
+2021-01-24,"Glenwood",0.01
+2021-01-31,"Glenwood",0.013
+2021-02-07,"Glenwood",0.019
+2021-02-14,"Glenwood",0.032
+2021-02-21,"Glenwood",0.055
+2021-02-28,"Glenwood",0.078
+2021-03-07,"Glenwood",0.104
+2021-03-14,"Glenwood",0.121
+2021-03-21,"Glenwood",0.142
+2021-03-28,"Glenwood",0.165
+2021-04-04,"Glenwood",0.233
+2021-04-11,"Glenwood",0.253
+2021-04-18,"Glenwood",0.271
+2021-04-25,"Glenwood",0.291
+2021-05-02,"Glenwood",0.308
+2021-01-24,"Golf",0.012
+2021-02-07,"Golf",0.03
+2021-02-14,"Golf",0.044
+2021-02-21,"Golf",0.072
+2021-02-28,"Golf",0.09
+2021-03-07,"Golf",0.118
+2021-03-14,"Golf",0.138
+2021-03-21,"Golf",0.156
+2021-03-28,"Golf",0.174
+2021-04-04,"Golf",0.214
+2021-04-11,"Golf",0.26
+2021-04-18,"Golf",0.3
+2021-05-02,"Golf",0.362
+2021-01-03,"Hanover Park",0.003
+2021-01-10,"Hanover Park",0.004
+2021-01-17,"Hanover Park",0.006
+2021-01-24,"Hanover Park",0.011
+2021-01-31,"Hanover Park",0.015
+2021-02-07,"Hanover Park",0.018
+2021-02-14,"Hanover Park",0.023
+2021-02-21,"Hanover Park",0.031
+2021-02-28,"Hanover Park",0.041
+2021-03-07,"Hanover Park",0.062
+2021-03-14,"Hanover Park",0.078
+2021-03-21,"Hanover Park",0.09
+2021-03-28,"Hanover Park",0.108
+2021-04-04,"Hanover Park",0.146
+2021-04-11,"Hanover Park",0.175
+2021-04-18,"Hanover Park",0.201
+2021-04-25,"Hanover Park",0.227
+2021-05-02,"Hanover Park",0.251
+2021-01-03,"Harvey",0.001
+2021-01-10,"Harvey",0.002
+2021-01-17,"Harvey",0.004
+2021-01-24,"Harvey",0.005
+2021-01-31,"Harvey",0.006
+2021-02-07,"Harvey",0.009
+2021-02-14,"Harvey",0.012
+2021-02-21,"Harvey",0.02
+2021-02-28,"Harvey",0.028
+2021-03-07,"Harvey",0.04
+2021-03-14,"Harvey",0.05
+2021-03-21,"Harvey",0.064
+2021-03-28,"Harvey",0.075
+2021-04-04,"Harvey",0.096
+2021-04-11,"Harvey",0.109
+2021-04-18,"Harvey",0.123
+2021-04-25,"Harvey",0.14
+2021-05-02,"Harvey",0.155
+2021-01-03,"Harwood Heights",0.005
+2021-01-10,"Harwood Heights",0.007
+2021-01-17,"Harwood Heights",0.009
+2021-01-24,"Harwood Heights",0.013
+2021-01-31,"Harwood Heights",0.02
+2021-02-07,"Harwood Heights",0.025
+2021-02-14,"Harwood Heights",0.034
+2021-02-21,"Harwood Heights",0.045
+2021-02-28,"Harwood Heights",0.061
+2021-03-07,"Harwood Heights",0.085
+2021-03-14,"Harwood Heights",0.104
+2021-03-21,"Harwood Heights",0.123
+2021-03-28,"Harwood Heights",0.142
+2021-04-04,"Harwood Heights",0.175
+2021-04-11,"Harwood Heights",0.205
+2021-04-18,"Harwood Heights",0.236
+2021-04-25,"Harwood Heights",0.263
+2021-05-02,"Harwood Heights",0.292
+2021-01-03,"Hazel Crest",0.001
+2021-01-10,"Hazel Crest",0.003
+2021-01-17,"Hazel Crest",0.004
+2021-01-24,"Hazel Crest",0.01
+2021-01-31,"Hazel Crest",0.011
+2021-02-07,"Hazel Crest",0.023
+2021-02-14,"Hazel Crest",0.034
+2021-02-21,"Hazel Crest",0.063
+2021-02-28,"Hazel Crest",0.08
+2021-03-07,"Hazel Crest",0.107
+2021-03-14,"Hazel Crest",0.125
+2021-03-21,"Hazel Crest",0.143
+2021-03-28,"Hazel Crest",0.157
+2021-04-04,"Hazel Crest",0.182
+2021-04-11,"Hazel Crest",0.202
+2021-04-18,"Hazel Crest",0.222
+2021-04-25,"Hazel Crest",0.239
+2021-05-02,"Hazel Crest",0.256
+2021-01-03,"Hickory Hills",0.004
+2021-01-10,"Hickory Hills",0.006
+2021-01-17,"Hickory Hills",0.008
+2021-01-24,"Hickory Hills",0.016
+2021-01-31,"Hickory Hills",0.02
+2021-02-07,"Hickory Hills",0.026
+2021-02-14,"Hickory Hills",0.034
+2021-02-21,"Hickory Hills",0.054
+2021-02-28,"Hickory Hills",0.075
+2021-03-07,"Hickory Hills",0.101
+2021-03-14,"Hickory Hills",0.118
+2021-03-21,"Hickory Hills",0.132
+2021-03-28,"Hickory Hills",0.15
+2021-04-04,"Hickory Hills",0.178
+2021-04-11,"Hickory Hills",0.213
+2021-04-18,"Hickory Hills",0.238
+2021-04-25,"Hickory Hills",0.263
+2021-05-02,"Hickory Hills",0.287
+2021-01-03,"Hillside",0.002
+2021-01-10,"Hillside",0.006
+2021-01-17,"Hillside",0.006
+2021-01-24,"Hillside",0.018
+2021-01-31,"Hillside",0.028
+2021-02-07,"Hillside",0.034
+2021-02-14,"Hillside",0.043
+2021-02-21,"Hillside",0.06
+2021-02-28,"Hillside",0.083
+2021-03-07,"Hillside",0.105
+2021-03-14,"Hillside",0.122
+2021-03-21,"Hillside",0.138
+2021-03-28,"Hillside",0.177
+2021-04-04,"Hillside",0.211
+2021-04-11,"Hillside",0.258
+2021-04-18,"Hillside",0.309
+2021-04-25,"Hillside",0.337
+2021-05-02,"Hillside",0.361
+2021-01-03,"Hinsdale",0.019
+2021-01-10,"Hinsdale",0.028
+2021-01-17,"Hinsdale",0.032
+2021-01-24,"Hinsdale",0.037
+2021-01-31,"Hinsdale",0.042
+2021-02-07,"Hinsdale",0.053
+2021-02-14,"Hinsdale",0.076
+2021-02-21,"Hinsdale",0.097
+2021-02-28,"Hinsdale",0.126
+2021-03-07,"Hinsdale",0.151
+2021-03-14,"Hinsdale",0.168
+2021-03-21,"Hinsdale",0.181
+2021-03-28,"Hinsdale",0.202
+2021-04-04,"Hinsdale",0.254
+2021-04-11,"Hinsdale",0.297
+2021-04-18,"Hinsdale",0.342
+2021-04-25,"Hinsdale",0.367
+2021-05-02,"Hinsdale",0.401
+2021-01-03,"Hodgkins",0.005
+2021-01-24,"Hodgkins",0.009
+2021-01-31,"Hodgkins",0.013
+2021-02-14,"Hodgkins",0.02
+2021-02-21,"Hodgkins",0.035
+2021-02-28,"Hodgkins",0.057
+2021-03-07,"Hodgkins",0.077
+2021-03-14,"Hodgkins",0.096
+2021-03-21,"Hodgkins",0.106
+2021-03-28,"Hodgkins",0.125
+2021-04-04,"Hodgkins",0.155
+2021-04-11,"Hodgkins",0.185
+2021-04-18,"Hodgkins",0.215
+2021-04-25,"Hodgkins",0.243
+2021-05-02,"Hodgkins",0.262
+2021-01-03,"Hoffman Estates",0.007
+2021-01-10,"Hoffman Estates",0.009
+2021-01-17,"Hoffman Estates",0.011
+2021-01-24,"Hoffman Estates",0.017
+2021-01-31,"Hoffman Estates",0.023
+2021-02-07,"Hoffman Estates",0.029
+2021-02-14,"Hoffman Estates",0.039
+2021-02-21,"Hoffman Estates",0.059
+2021-02-28,"Hoffman Estates",0.084
+2021-03-07,"Hoffman Estates",0.123
+2021-03-14,"Hoffman Estates",0.15
+2021-03-21,"Hoffman Estates",0.167
+2021-03-28,"Hoffman Estates",0.191
+2021-04-04,"Hoffman Estates",0.247
+2021-04-11,"Hoffman Estates",0.293
+2021-04-18,"Hoffman Estates",0.334
+2021-04-25,"Hoffman Estates",0.368
+2021-05-02,"Hoffman Estates",0.4
+2021-01-03,"Hometown",0.004
+2021-01-10,"Hometown",0.008
+2021-01-17,"Hometown",0.01
+2021-01-24,"Hometown",0.013
+2021-01-31,"Hometown",0.019
+2021-02-07,"Hometown",0.029
+2021-02-14,"Hometown",0.039
+2021-02-21,"Hometown",0.06
+2021-02-28,"Hometown",0.077
+2021-03-07,"Hometown",0.104
+2021-03-14,"Hometown",0.122
+2021-03-21,"Hometown",0.136
+2021-03-28,"Hometown",0.158
+2021-04-04,"Hometown",0.188
+2021-04-11,"Hometown",0.228
+2021-04-18,"Hometown",0.262
+2021-04-25,"Hometown",0.287
+2021-05-02,"Hometown",0.311
+2021-01-03,"Homewood",0.005
+2021-01-10,"Homewood",0.01
+2021-01-17,"Homewood",0.013
+2021-01-24,"Homewood",0.019
+2021-01-31,"Homewood",0.024
+2021-02-07,"Homewood",0.036
+2021-02-14,"Homewood",0.056
+2021-02-21,"Homewood",0.091
+2021-02-28,"Homewood",0.121
+2021-03-07,"Homewood",0.158
+2021-03-14,"Homewood",0.187
+2021-03-21,"Homewood",0.209
+2021-03-28,"Homewood",0.234
+2021-04-04,"Homewood",0.284
+2021-04-11,"Homewood",0.318
+2021-04-18,"Homewood",0.351
+2021-04-25,"Homewood",0.379
+2021-05-02,"Homewood",0.41
+2021-01-03,"Indian Head Park",0.01
+2021-01-10,"Indian Head Park",0.014
+2021-01-17,"Indian Head Park",0.021
+2021-01-24,"Indian Head Park",0.057
+2021-01-31,"Indian Head Park",0.065
+2021-02-07,"Indian Head Park",0.076
+2021-02-14,"Indian Head Park",0.103
+2021-02-21,"Indian Head Park",0.142
+2021-02-28,"Indian Head Park",0.182
+2021-03-07,"Indian Head Park",0.235
+2021-03-14,"Indian Head Park",0.276
+2021-03-21,"Indian Head Park",0.296
+2021-03-28,"Indian Head Park",0.338
+2021-04-04,"Indian Head Park",0.37
+2021-04-11,"Indian Head Park",0.412
+2021-04-18,"Indian Head Park",0.443
+2021-04-25,"Indian Head Park",0.479
+2021-05-02,"Indian Head Park",0.501
+2021-01-03,"Inverness",0.014
+2021-01-10,"Inverness",0.017
+2021-01-17,"Inverness",0.02
+2021-01-24,"Inverness",0.036
+2021-01-31,"Inverness",0.043
+2021-02-07,"Inverness",0.053
+2021-02-14,"Inverness",0.072
+2021-02-21,"Inverness",0.103
+2021-02-28,"Inverness",0.146
+2021-03-07,"Inverness",0.197
+2021-03-14,"Inverness",0.23
+2021-03-21,"Inverness",0.251
+2021-03-28,"Inverness",0.282
+2021-04-04,"Inverness",0.338
+2021-04-11,"Inverness",0.379
+2021-04-18,"Inverness",0.416
+2021-04-25,"Inverness",0.455
+2021-05-02,"Inverness",0.482
+2021-01-03,"Justice",0.002
+2021-01-10,"Justice",0.004
+2021-01-17,"Justice",0.006
+2021-01-24,"Justice",0.008
+2021-01-31,"Justice",0.012
+2021-02-07,"Justice",0.016
+2021-02-14,"Justice",0.02
+2021-02-21,"Justice",0.029
+2021-02-28,"Justice",0.041
+2021-03-07,"Justice",0.058
+2021-03-14,"Justice",0.07
+2021-03-21,"Justice",0.081
+2021-03-28,"Justice",0.096
+2021-04-04,"Justice",0.12
+2021-04-11,"Justice",0.144
+2021-04-18,"Justice",0.164
+2021-04-25,"Justice",0.187
+2021-05-02,"Justice",0.209
+2021-01-03,"Kenilworth",0.006
+2021-01-24,"Kenilworth",0.012
+2021-01-31,"Kenilworth",0.018
+2021-02-07,"Kenilworth",0.023
+2021-02-14,"Kenilworth",0.039
+2021-02-21,"Kenilworth",0.063
+2021-02-28,"Kenilworth",0.096
+2021-03-07,"Kenilworth",0.133
+2021-03-14,"Kenilworth",0.157
+2021-03-21,"Kenilworth",0.168
+2021-03-28,"Kenilworth",0.193
+2021-04-04,"Kenilworth",0.25
+2021-04-11,"Kenilworth",0.309
+2021-04-18,"Kenilworth",0.363
+2021-04-25,"Kenilworth",0.4
+2021-05-02,"Kenilworth",0.435
+2021-01-03,"La Grange",0.013
+2021-01-10,"La Grange",0.02
+2021-01-17,"La Grange",0.026
+2021-01-24,"La Grange",0.037
+2021-01-31,"La Grange",0.046
+2021-02-07,"La Grange",0.058
+2021-02-14,"La Grange",0.085
+2021-02-21,"La Grange",0.134
+2021-02-28,"La Grange",0.18
+2021-03-07,"La Grange",0.232
+2021-03-14,"La Grange",0.268
+2021-03-21,"La Grange",0.29
+2021-03-28,"La Grange",0.334
+2021-04-04,"La Grange",0.394
+2021-04-11,"La Grange",0.446
+2021-04-18,"La Grange",0.511
+2021-04-25,"La Grange",0.566
+2021-05-02,"La Grange",0.602
+2021-01-03,"La Grange Park",0.009
+2021-01-10,"La Grange Park",0.016
+2021-01-17,"La Grange Park",0.026
+2021-01-24,"La Grange Park",0.031
+2021-01-31,"La Grange Park",0.056
+2021-02-07,"La Grange Park",0.081
+2021-02-14,"La Grange Park",0.096
+2021-02-21,"La Grange Park",0.134
+2021-02-28,"La Grange Park",0.165
+2021-03-07,"La Grange Park",0.201
+2021-03-14,"La Grange Park",0.225
+2021-03-21,"La Grange Park",0.245
+2021-03-28,"La Grange Park",0.291
+2021-04-04,"La Grange Park",0.327
+2021-04-11,"La Grange Park",0.363
+2021-04-18,"La Grange Park",0.404
+2021-04-25,"La Grange Park",0.439
+2021-05-02,"La Grange Park",0.465
+2021-01-03,"Lansing",0.002
+2021-01-10,"Lansing",0.004
+2021-01-17,"Lansing",0.006
+2021-01-24,"Lansing",0.008
+2021-01-31,"Lansing",0.012
+2021-02-07,"Lansing",0.018
+2021-02-14,"Lansing",0.025
+2021-02-21,"Lansing",0.04
+2021-02-28,"Lansing",0.056
+2021-03-07,"Lansing",0.073
+2021-03-14,"Lansing",0.09
+2021-03-21,"Lansing",0.106
+2021-03-28,"Lansing",0.124
+2021-04-04,"Lansing",0.152
+2021-04-11,"Lansing",0.176
+2021-04-18,"Lansing",0.21
+2021-04-25,"Lansing",0.246
+2021-05-02,"Lansing",0.266
+2021-01-03,"Lemont",0.011
+2021-01-10,"Lemont",0.016
+2021-01-17,"Lemont",0.02
+2021-01-24,"Lemont",0.025
+2021-01-31,"Lemont",0.031
+2021-02-07,"Lemont",0.043
+2021-02-14,"Lemont",0.055
+2021-02-21,"Lemont",0.087
+2021-02-28,"Lemont",0.114
+2021-03-07,"Lemont",0.149
+2021-03-14,"Lemont",0.173
+2021-03-21,"Lemont",0.19
+2021-03-28,"Lemont",0.213
+2021-04-04,"Lemont",0.255
+2021-04-11,"Lemont",0.291
+2021-04-18,"Lemont",0.322
+2021-04-25,"Lemont",0.346
+2021-05-02,"Lemont",0.369
+2021-01-03,"Lincolnwood",0.008
+2021-01-10,"Lincolnwood",0.013
+2021-01-17,"Lincolnwood",0.02
+2021-01-24,"Lincolnwood",0.044
+2021-01-31,"Lincolnwood",0.056
+2021-02-07,"Lincolnwood",0.083
+2021-02-14,"Lincolnwood",0.102
+2021-02-21,"Lincolnwood",0.133
+2021-02-28,"Lincolnwood",0.171
+2021-03-07,"Lincolnwood",0.217
+2021-03-14,"Lincolnwood",0.244
+2021-03-21,"Lincolnwood",0.27
+2021-03-28,"Lincolnwood",0.3
+2021-04-04,"Lincolnwood",0.344
+2021-04-11,"Lincolnwood",0.39
+2021-04-18,"Lincolnwood",0.424
+2021-04-25,"Lincolnwood",0.452
+2021-05-02,"Lincolnwood",0.478
+2021-01-03,"Lynwood",0.001
+2021-01-10,"Lynwood",0.004
+2021-01-17,"Lynwood",0.005
+2021-01-24,"Lynwood",0.009
+2021-01-31,"Lynwood",0.013
+2021-02-07,"Lynwood",0.018
+2021-02-14,"Lynwood",0.026
+2021-02-21,"Lynwood",0.044
+2021-02-28,"Lynwood",0.061
+2021-03-07,"Lynwood",0.086
+2021-03-14,"Lynwood",0.103
+2021-03-21,"Lynwood",0.122
+2021-03-28,"Lynwood",0.143
+2021-04-04,"Lynwood",0.177
+2021-04-11,"Lynwood",0.199
+2021-04-18,"Lynwood",0.231
+2021-04-25,"Lynwood",0.266
+2021-05-02,"Lynwood",0.284
+2021-01-03,"Lyons",0.003
+2021-01-10,"Lyons",0.006
+2021-01-17,"Lyons",0.008
+2021-01-24,"Lyons",0.012
+2021-01-31,"Lyons",0.016
+2021-02-07,"Lyons",0.02
+2021-02-14,"Lyons",0.033
+2021-02-21,"Lyons",0.046
+2021-02-28,"Lyons",0.062
+2021-03-07,"Lyons",0.082
+2021-03-14,"Lyons",0.097
+2021-03-21,"Lyons",0.111
+2021-03-28,"Lyons",0.137
+2021-04-04,"Lyons",0.17
+2021-04-11,"Lyons",0.198
+2021-04-18,"Lyons",0.23
+2021-04-25,"Lyons",0.259
+2021-05-02,"Lyons",0.289
+2021-01-03,"Markham",0.001
+2021-01-10,"Markham",0.002
+2021-01-17,"Markham",0.003
+2021-01-24,"Markham",0.004
+2021-01-31,"Markham",0.006
+2021-02-07,"Markham",0.009
+2021-02-14,"Markham",0.015
+2021-02-21,"Markham",0.027
+2021-02-28,"Markham",0.04
+2021-03-07,"Markham",0.059
+2021-03-14,"Markham",0.073
+2021-03-21,"Markham",0.088
+2021-03-28,"Markham",0.102
+2021-04-04,"Markham",0.123
+2021-04-11,"Markham",0.14
+2021-04-18,"Markham",0.155
+2021-04-25,"Markham",0.174
+2021-05-02,"Markham",0.19
+2021-01-03,"Matteson",0.003
+2021-01-10,"Matteson",0.006
+2021-01-17,"Matteson",0.008
+2021-01-24,"Matteson",0.012
+2021-01-31,"Matteson",0.016
+2021-02-07,"Matteson",0.024
+2021-02-14,"Matteson",0.034
+2021-02-21,"Matteson",0.054
+2021-02-28,"Matteson",0.076
+2021-03-07,"Matteson",0.122
+2021-03-14,"Matteson",0.151
+2021-03-21,"Matteson",0.175
+2021-03-28,"Matteson",0.205
+2021-04-04,"Matteson",0.256
+2021-04-11,"Matteson",0.285
+2021-04-18,"Matteson",0.309
+2021-04-25,"Matteson",0.331
+2021-05-02,"Matteson",0.358
+2021-01-03,"Maywood",0.001
+2021-01-10,"Maywood",0.003
+2021-01-17,"Maywood",0.004
+2021-01-24,"Maywood",0.007
+2021-01-31,"Maywood",0.009
+2021-02-07,"Maywood",0.013
+2021-02-14,"Maywood",0.018
+2021-02-21,"Maywood",0.027
+2021-02-28,"Maywood",0.039
+2021-03-07,"Maywood",0.056
+2021-03-14,"Maywood",0.07
+2021-03-21,"Maywood",0.083
+2021-03-28,"Maywood",0.115
+2021-04-04,"Maywood",0.142
+2021-04-11,"Maywood",0.167
+2021-04-18,"Maywood",0.194
+2021-04-25,"Maywood",0.216
+2021-05-02,"Maywood",0.233
+2021-01-31,"McCook",0.031
+2021-02-07,"McCook",0.031
+2021-03-21,"McCook",0.18
+2021-03-28,"McCook",0.215
+2021-04-11,"McCook",0.268
+2021-04-25,"McCook",0.311
+2021-01-03,"Melrose Park",0.002
+2021-01-10,"Melrose Park",0.004
+2021-01-17,"Melrose Park",0.006
+2021-01-24,"Melrose Park",0.009
+2021-01-31,"Melrose Park",0.014
+2021-02-07,"Melrose Park",0.019
+2021-02-14,"Melrose Park",0.032
+2021-02-21,"Melrose Park",0.047
+2021-02-28,"Melrose Park",0.067
+2021-03-07,"Melrose Park",0.094
+2021-03-14,"Melrose Park",0.125
+2021-03-21,"Melrose Park",0.143
+2021-03-28,"Melrose Park",0.177
+2021-04-04,"Melrose Park",0.225
+2021-04-11,"Melrose Park",0.268
+2021-04-18,"Melrose Park",0.316
+2021-04-25,"Melrose Park",0.358
+2021-05-02,"Melrose Park",0.391
+2021-01-03,"Merrionette Park",0.004
+2021-01-10,"Merrionette Park",0.009
+2021-01-24,"Merrionette Park",0.016
+2021-01-31,"Merrionette Park",0.021
+2021-02-07,"Merrionette Park",0.026
+2021-02-14,"Merrionette Park",0.031
+2021-02-21,"Merrionette Park",0.047
+2021-02-28,"Merrionette Park",0.063
+2021-03-07,"Merrionette Park",0.083
+2021-03-14,"Merrionette Park",0.099
+2021-03-21,"Merrionette Park",0.12
+2021-03-28,"Merrionette Park",0.145
+2021-04-04,"Merrionette Park",0.177
+2021-04-11,"Merrionette Park",0.214
+2021-04-18,"Merrionette Park",0.241
+2021-04-25,"Merrionette Park",0.259
+2021-05-02,"Merrionette Park",0.276
+2021-01-03,"Midlothian",0.003
+2021-01-10,"Midlothian",0.005
+2021-01-17,"Midlothian",0.01
+2021-01-24,"Midlothian",0.015
+2021-01-31,"Midlothian",0.018
+2021-02-07,"Midlothian",0.025
+2021-02-14,"Midlothian",0.032
+2021-02-21,"Midlothian",0.05
+2021-02-28,"Midlothian",0.077
+2021-03-07,"Midlothian",0.093
+2021-03-14,"Midlothian",0.11
+2021-03-21,"Midlothian",0.14
+2021-03-28,"Midlothian",0.153
+2021-04-04,"Midlothian",0.181
+2021-04-11,"Midlothian",0.205
+2021-04-18,"Midlothian",0.226
+2021-04-25,"Midlothian",0.253
+2021-05-02,"Midlothian",0.275
+2021-01-03,"Morton Grove",0.009
+2021-01-10,"Morton Grove",0.018
+2021-01-17,"Morton Grove",0.022
+2021-01-24,"Morton Grove",0.035
+2021-01-31,"Morton Grove",0.046
+2021-02-07,"Morton Grove",0.056
+2021-02-14,"Morton Grove",0.081
+2021-02-21,"Morton Grove",0.107
+2021-02-28,"Morton Grove",0.14
+2021-03-07,"Morton Grove",0.192
+2021-03-14,"Morton Grove",0.227
+2021-03-21,"Morton Grove",0.25
+2021-03-28,"Morton Grove",0.279
+2021-04-04,"Morton Grove",0.336
+2021-04-11,"Morton Grove",0.392
+2021-04-18,"Morton Grove",0.437
+2021-04-25,"Morton Grove",0.472
+2021-05-02,"Morton Grove",0.5
+2021-01-03,"Mount Prospect",0.007
+2021-01-10,"Mount Prospect",0.011
+2021-01-17,"Mount Prospect",0.013
+2021-01-24,"Mount Prospect",0.02
+2021-01-31,"Mount Prospect",0.027
+2021-02-07,"Mount Prospect",0.035
+2021-02-14,"Mount Prospect",0.049
+2021-02-21,"Mount Prospect",0.071
+2021-02-28,"Mount Prospect",0.098
+2021-03-07,"Mount Prospect",0.144
+2021-03-14,"Mount Prospect",0.168
+2021-03-21,"Mount Prospect",0.187
+2021-03-28,"Mount Prospect",0.21
+2021-04-04,"Mount Prospect",0.262
+2021-04-11,"Mount Prospect",0.306
+2021-04-18,"Mount Prospect",0.345
+2021-04-25,"Mount Prospect",0.378
+2021-05-02,"Mount Prospect",0.404
+2021-01-03,"Niles",0.006
+2021-01-10,"Niles",0.01
+2021-01-17,"Niles",0.013
+2021-01-24,"Niles",0.027
+2021-01-31,"Niles",0.043
+2021-02-07,"Niles",0.053
+2021-02-14,"Niles",0.072
+2021-02-21,"Niles",0.095
+2021-02-28,"Niles",0.12
+2021-03-07,"Niles",0.156
+2021-03-14,"Niles",0.187
+2021-03-21,"Niles",0.235
+2021-03-28,"Niles",0.257
+2021-04-04,"Niles",0.293
+2021-04-11,"Niles",0.332
+2021-04-18,"Niles",0.367
+2021-04-25,"Niles",0.397
+2021-05-02,"Niles",0.419
+2021-01-03,"Norridge",0.004
+2021-01-10,"Norridge",0.006
+2021-01-17,"Norridge",0.017
+2021-01-24,"Norridge",0.022
+2021-01-31,"Norridge",0.04
+2021-02-07,"Norridge",0.052
+2021-02-14,"Norridge",0.06
+2021-02-21,"Norridge",0.077
+2021-02-28,"Norridge",0.1
+2021-03-07,"Norridge",0.133
+2021-03-14,"Norridge",0.156
+2021-03-21,"Norridge",0.173
+2021-03-28,"Norridge",0.198
+2021-04-04,"Norridge",0.232
+2021-04-11,"Norridge",0.267
+2021-04-18,"Norridge",0.299
+2021-04-25,"Norridge",0.331
+2021-05-02,"Norridge",0.356
+2021-01-03,"North Riverside",0.005
+2021-01-10,"North Riverside",0.011
+2021-01-17,"North Riverside",0.015
+2021-01-24,"North Riverside",0.022
+2021-01-31,"North Riverside",0.035
+2021-02-07,"North Riverside",0.042
+2021-02-14,"North Riverside",0.054
+2021-02-21,"North Riverside",0.076
+2021-02-28,"North Riverside",0.095
+2021-03-07,"North Riverside",0.118
+2021-03-14,"North Riverside",0.141
+2021-03-21,"North Riverside",0.156
+2021-03-28,"North Riverside",0.182
+2021-04-04,"North Riverside",0.203
+2021-04-11,"North Riverside",0.223
+2021-04-18,"North Riverside",0.245
+2021-04-25,"North Riverside",0.264
+2021-05-02,"North Riverside",0.279
+2021-01-03,"Northbrook",0.012
+2021-01-10,"Northbrook",0.019
+2021-01-17,"Northbrook",0.027
+2021-01-24,"Northbrook",0.033
+2021-01-31,"Northbrook",0.051
+2021-02-07,"Northbrook",0.082
+2021-02-14,"Northbrook",0.127
+2021-02-21,"Northbrook",0.189
+2021-02-28,"Northbrook",0.247
+2021-03-07,"Northbrook",0.312
+2021-03-14,"Northbrook",0.355
+2021-03-21,"Northbrook",0.381
+2021-03-28,"Northbrook",0.424
+2021-04-04,"Northbrook",0.487
+2021-04-11,"Northbrook",0.543
+2021-04-18,"Northbrook",0.616
+2021-04-25,"Northbrook",0.648
+2021-05-02,"Northbrook",0.674
+2021-01-03,"Northfield",0.012
+2021-01-10,"Northfield",0.019
+2021-01-17,"Northfield",0.022
+2021-01-24,"Northfield",0.026
+2021-01-31,"Northfield",0.035
+2021-02-07,"Northfield",0.046
+2021-02-14,"Northfield",0.065
+2021-02-21,"Northfield",0.104
+2021-02-28,"Northfield",0.155
+2021-03-07,"Northfield",0.208
+2021-03-14,"Northfield",0.238
+2021-03-21,"Northfield",0.261
+2021-03-28,"Northfield",0.293
+2021-04-04,"Northfield",0.353
+2021-04-11,"Northfield",0.409
+2021-04-18,"Northfield",0.47
+2021-04-25,"Northfield",0.505
+2021-05-02,"Northfield",0.535
+2021-01-03,"Northlake",0.003
+2021-01-10,"Northlake",0.005
+2021-01-17,"Northlake",0.006
+2021-01-24,"Northlake",0.009
+2021-01-31,"Northlake",0.028
+2021-02-07,"Northlake",0.032
+2021-02-14,"Northlake",0.038
+2021-02-21,"Northlake",0.062
+2021-02-28,"Northlake",0.093
+2021-03-07,"Northlake",0.12
+2021-03-14,"Northlake",0.15
+2021-03-21,"Northlake",0.163
+2021-03-28,"Northlake",0.191
+2021-04-04,"Northlake",0.235
+2021-04-11,"Northlake",0.27
+2021-04-18,"Northlake",0.304
+2021-04-25,"Northlake",0.338
+2021-05-02,"Northlake",0.365
+2021-01-03,"Oak Forest",0.007
+2021-01-10,"Oak Forest",0.011
+2021-01-17,"Oak Forest",0.014
+2021-01-24,"Oak Forest",0.018
+2021-01-31,"Oak Forest",0.022
+2021-02-07,"Oak Forest",0.031
+2021-02-14,"Oak Forest",0.042
+2021-02-21,"Oak Forest",0.071
+2021-02-28,"Oak Forest",0.094
+2021-03-07,"Oak Forest",0.12
+2021-03-14,"Oak Forest",0.142
+2021-03-21,"Oak Forest",0.16
+2021-03-28,"Oak Forest",0.179
+2021-04-04,"Oak Forest",0.217
+2021-04-11,"Oak Forest",0.25
+2021-04-18,"Oak Forest",0.277
+2021-04-25,"Oak Forest",0.306
+2021-05-02,"Oak Forest",0.33
+2021-01-03,"Oak Lawn",0.007
+2021-01-10,"Oak Lawn",0.011
+2021-01-17,"Oak Lawn",0.016
+2021-01-24,"Oak Lawn",0.021
+2021-01-31,"Oak Lawn",0.027
+2021-02-07,"Oak Lawn",0.036
+2021-02-14,"Oak Lawn",0.048
+2021-02-21,"Oak Lawn",0.075
+2021-02-28,"Oak Lawn",0.1
+2021-03-07,"Oak Lawn",0.128
+2021-03-14,"Oak Lawn",0.151
+2021-03-21,"Oak Lawn",0.17
+2021-03-28,"Oak Lawn",0.193
+2021-04-04,"Oak Lawn",0.228
+2021-04-11,"Oak Lawn",0.266
+2021-04-18,"Oak Lawn",0.299
+2021-04-25,"Oak Lawn",0.326
+2021-05-02,"Oak Lawn",0.351
+2021-01-03,"Olympia Fields",0.004
+2021-01-10,"Olympia Fields",0.009
+2021-01-17,"Olympia Fields",0.011
+2021-01-24,"Olympia Fields",0.015
+2021-01-31,"Olympia Fields",0.018
+2021-02-07,"Olympia Fields",0.03
+2021-02-14,"Olympia Fields",0.076
+2021-02-21,"Olympia Fields",0.111
+2021-02-28,"Olympia Fields",0.151
+2021-03-07,"Olympia Fields",0.198
+2021-03-14,"Olympia Fields",0.229
+2021-03-21,"Olympia Fields",0.26
+2021-03-28,"Olympia Fields",0.289
+2021-04-04,"Olympia Fields",0.327
+2021-04-11,"Olympia Fields",0.38
+2021-04-18,"Olympia Fields",0.402
+2021-04-25,"Olympia Fields",0.423
+2021-05-02,"Olympia Fields",0.445
+2021-01-03,"Orland Hills",0.008
+2021-01-10,"Orland Hills",0.013
+2021-01-17,"Orland Hills",0.018
+2021-01-24,"Orland Hills",0.024
+2021-01-31,"Orland Hills",0.028
+2021-02-07,"Orland Hills",0.036
+2021-02-14,"Orland Hills",0.045
+2021-02-21,"Orland Hills",0.063
+2021-02-28,"Orland Hills",0.08
+2021-03-07,"Orland Hills",0.102
+2021-03-14,"Orland Hills",0.124
+2021-03-21,"Orland Hills",0.141
+2021-03-28,"Orland Hills",0.157
+2021-04-04,"Orland Hills",0.193
+2021-04-11,"Orland Hills",0.225
+2021-04-18,"Orland Hills",0.269
+2021-04-25,"Orland Hills",0.289
+2021-05-02,"Orland Hills",0.337
+2021-01-03,"Orland Park",0.012
+2021-01-10,"Orland Park",0.018
+2021-01-17,"Orland Park",0.023
+2021-01-24,"Orland Park",0.032
+2021-01-31,"Orland Park",0.041
+2021-02-07,"Orland Park",0.056
+2021-02-14,"Orland Park",0.076
+2021-02-21,"Orland Park",0.122
+2021-02-28,"Orland Park",0.161
+2021-03-07,"Orland Park",0.207
+2021-03-14,"Orland Park",0.24
+2021-03-21,"Orland Park",0.27
+2021-03-28,"Orland Park",0.297
+2021-04-04,"Orland Park",0.342
+2021-04-11,"Orland Park",0.381
+2021-04-18,"Orland Park",0.426
+2021-04-25,"Orland Park",0.453
+2021-05-02,"Orland Park",0.486
+2021-01-03,"Palatine",0.007
+2021-01-10,"Palatine",0.008
+2021-01-17,"Palatine",0.01
+2021-01-24,"Palatine",0.019
+2021-01-31,"Palatine",0.024
+2021-02-07,"Palatine",0.03
+2021-02-14,"Palatine",0.042
+2021-02-21,"Palatine",0.06
+2021-02-28,"Palatine",0.088
+2021-03-07,"Palatine",0.135
+2021-03-14,"Palatine",0.164
+2021-03-21,"Palatine",0.179
+2021-03-28,"Palatine",0.203
+2021-04-04,"Palatine",0.258
+2021-04-11,"Palatine",0.303
+2021-04-18,"Palatine",0.346
+2021-04-25,"Palatine",0.383
+2021-05-02,"Palatine",0.412
+2021-01-03,"Palos Heights",0.013
+2021-01-10,"Palos Heights",0.017
+2021-01-17,"Palos Heights",0.025
+2021-01-24,"Palos Heights",0.032
+2021-01-31,"Palos Heights",0.045
+2021-02-07,"Palos Heights",0.069
+2021-02-14,"Palos Heights",0.095
+2021-02-21,"Palos Heights",0.156
+2021-02-28,"Palos Heights",0.207
+2021-03-07,"Palos Heights",0.261
+2021-03-14,"Palos Heights",0.3
+2021-03-21,"Palos Heights",0.329
+2021-03-28,"Palos Heights",0.358
+2021-04-04,"Palos Heights",0.408
+2021-04-11,"Palos Heights",0.448
+2021-04-18,"Palos Heights",0.48
+2021-04-25,"Palos Heights",0.51
+2021-05-02,"Palos Heights",0.534
+2021-01-03,"Palos Hills",0.004
+2021-01-10,"Palos Hills",0.007
+2021-01-17,"Palos Hills",0.014
+2021-01-24,"Palos Hills",0.018
+2021-01-31,"Palos Hills",0.022
+2021-02-07,"Palos Hills",0.028
+2021-02-14,"Palos Hills",0.037
+2021-02-21,"Palos Hills",0.06
+2021-02-28,"Palos Hills",0.081
+2021-03-07,"Palos Hills",0.109
+2021-03-14,"Palos Hills",0.128
+2021-03-21,"Palos Hills",0.144
+2021-03-28,"Palos Hills",0.165
+2021-04-04,"Palos Hills",0.197
+2021-04-11,"Palos Hills",0.227
+2021-04-18,"Palos Hills",0.251
+2021-04-25,"Palos Hills",0.275
+2021-05-02,"Palos Hills",0.3
+2021-01-03,"Palos Park",0.021
+2021-01-10,"Palos Park",0.03
+2021-01-17,"Palos Park",0.04
+2021-01-24,"Palos Park",0.052
+2021-01-31,"Palos Park",0.079
+2021-02-07,"Palos Park",0.099
+2021-02-14,"Palos Park",0.156
+2021-02-21,"Palos Park",0.293
+2021-02-28,"Palos Park",0.367
+2021-03-07,"Palos Park",0.447
+2021-03-14,"Palos Park",0.52
+2021-03-21,"Palos Park",0.567
+2021-03-28,"Palos Park",0.622
+2021-04-04,"Palos Park",0.706
+2021-01-03,"Park Forest",0.002
+2021-01-10,"Park Forest",0.004
+2021-01-17,"Park Forest",0.005
+2021-01-24,"Park Forest",0.008
+2021-01-31,"Park Forest",0.01
+2021-02-07,"Park Forest",0.019
+2021-02-14,"Park Forest",0.042
+2021-02-21,"Park Forest",0.065
+2021-02-28,"Park Forest",0.082
+2021-03-07,"Park Forest",0.102
+2021-03-14,"Park Forest",0.124
+2021-03-21,"Park Forest",0.14
+2021-03-28,"Park Forest",0.163
+2021-04-04,"Park Forest",0.194
+2021-04-11,"Park Forest",0.216
+2021-04-18,"Park Forest",0.239
+2021-04-25,"Park Forest",0.26
+2021-05-02,"Park Forest",0.283
+2021-01-03,"Park Ridge",0.009
+2021-01-10,"Park Ridge",0.013
+2021-01-17,"Park Ridge",0.017
+2021-01-24,"Park Ridge",0.027
+2021-01-31,"Park Ridge",0.036
+2021-02-07,"Park Ridge",0.047
+2021-02-14,"Park Ridge",0.071
+2021-02-21,"Park Ridge",0.102
+2021-02-28,"Park Ridge",0.138
+2021-03-07,"Park Ridge",0.187
+2021-03-14,"Park Ridge",0.22
+2021-03-21,"Park Ridge",0.24
+2021-03-28,"Park Ridge",0.268
+2021-04-04,"Park Ridge",0.318
+2021-04-11,"Park Ridge",0.371
+2021-04-18,"Park Ridge",0.417
+2021-04-25,"Park Ridge",0.452
+2021-05-02,"Park Ridge",0.481
+2021-02-07,"Phoenix",0.008
+2021-02-14,"Phoenix",0.012
+2021-02-21,"Phoenix",0.018
+2021-02-28,"Phoenix",0.031
+2021-03-07,"Phoenix",0.063
+2021-03-14,"Phoenix",0.082
+2021-03-21,"Phoenix",0.098
+2021-03-28,"Phoenix",0.127
+2021-04-04,"Phoenix",0.16
+2021-04-11,"Phoenix",0.171
+2021-04-18,"Phoenix",0.179
+2021-04-25,"Phoenix",0.19
+2021-05-02,"Phoenix",0.202
+2021-01-03,"Posen",0.001
+2021-01-10,"Posen",0.003
+2021-01-17,"Posen",0.004
+2021-01-24,"Posen",0.007
+2021-01-31,"Posen",0.01
+2021-02-07,"Posen",0.012
+2021-02-14,"Posen",0.019
+2021-02-21,"Posen",0.024
+2021-02-28,"Posen",0.046
+2021-03-07,"Posen",0.054
+2021-03-14,"Posen",0.064
+2021-03-21,"Posen",0.084
+2021-03-28,"Posen",0.099
+2021-04-04,"Posen",0.126
+2021-04-11,"Posen",0.147
+2021-04-18,"Posen",0.177
+2021-04-25,"Posen",0.202
+2021-05-02,"Posen",0.228
+2021-01-03,"Prospect Heights",0.004
+2021-01-10,"Prospect Heights",0.006
+2021-01-17,"Prospect Heights",0.008
+2021-01-24,"Prospect Heights",0.012
+2021-01-31,"Prospect Heights",0.021
+2021-02-07,"Prospect Heights",0.031
+2021-02-14,"Prospect Heights",0.041
+2021-02-21,"Prospect Heights",0.059
+2021-02-28,"Prospect Heights",0.082
+2021-03-07,"Prospect Heights",0.117
+2021-03-14,"Prospect Heights",0.137
+2021-03-21,"Prospect Heights",0.151
+2021-03-28,"Prospect Heights",0.17
+2021-04-04,"Prospect Heights",0.207
+2021-04-11,"Prospect Heights",0.243
+2021-04-18,"Prospect Heights",0.277
+2021-04-25,"Prospect Heights",0.307
+2021-05-02,"Prospect Heights",0.329
+2021-01-03,"Richton Park",0.002
+2021-01-10,"Richton Park",0.005
+2021-01-17,"Richton Park",0.006
+2021-01-24,"Richton Park",0.01
+2021-01-31,"Richton Park",0.013
+2021-02-07,"Richton Park",0.017
+2021-02-14,"Richton Park",0.023
+2021-02-21,"Richton Park",0.036
+2021-02-28,"Richton Park",0.05
+2021-03-07,"Richton Park",0.07
+2021-03-14,"Richton Park",0.09
+2021-03-21,"Richton Park",0.107
+2021-03-28,"Richton Park",0.128
+2021-04-04,"Richton Park",0.159
+2021-04-11,"Richton Park",0.181
+2021-04-18,"Richton Park",0.203
+2021-04-25,"Richton Park",0.221
+2021-05-02,"Richton Park",0.241
+2021-01-03,"River Forest",0.015
+2021-01-10,"River Forest",0.024
+2021-01-17,"River Forest",0.03
+2021-01-24,"River Forest",0.038
+2021-01-31,"River Forest",0.048
+2021-02-07,"River Forest",0.059
+2021-02-14,"River Forest",0.081
+2021-02-21,"River Forest",0.118
+2021-02-28,"River Forest",0.162
+2021-03-07,"River Forest",0.205
+2021-03-14,"River Forest",0.246
+2021-03-21,"River Forest",0.265
+2021-03-28,"River Forest",0.293
+2021-04-04,"River Forest",0.334
+2021-04-11,"River Forest",0.382
+2021-04-18,"River Forest",0.427
+2021-04-25,"River Forest",0.463
+2021-05-02,"River Forest",0.494
+2021-01-03,"River Grove",0.003
+2021-01-10,"River Grove",0.006
+2021-01-17,"River Grove",0.007
+2021-01-24,"River Grove",0.011
+2021-01-31,"River Grove",0.017
+2021-02-07,"River Grove",0.022
+2021-02-14,"River Grove",0.028
+2021-02-21,"River Grove",0.043
+2021-02-28,"River Grove",0.062
+2021-03-07,"River Grove",0.084
+2021-03-14,"River Grove",0.108
+2021-03-21,"River Grove",0.125
+2021-03-28,"River Grove",0.145
+2021-04-04,"River Grove",0.171
+2021-04-11,"River Grove",0.204
+2021-04-18,"River Grove",0.234
+2021-04-25,"River Grove",0.263
+2021-05-02,"River Grove",0.287
+2021-01-10,"Riverdale",0.001
+2021-01-17,"Riverdale",0.002
+2021-01-24,"Riverdale",0.004
+2021-01-31,"Riverdale",0.005
+2021-02-07,"Riverdale",0.009
+2021-02-14,"Riverdale",0.013
+2021-02-21,"Riverdale",0.019
+2021-02-28,"Riverdale",0.026
+2021-03-07,"Riverdale",0.033
+2021-03-14,"Riverdale",0.041
+2021-03-21,"Riverdale",0.052
+2021-03-28,"Riverdale",0.063
+2021-04-04,"Riverdale",0.079
+2021-04-11,"Riverdale",0.092
+2021-04-18,"Riverdale",0.107
+2021-04-25,"Riverdale",0.123
+2021-05-02,"Riverdale",0.137
+2021-01-03,"Riverside",0.01
+2021-01-10,"Riverside",0.02
+2021-01-17,"Riverside",0.027
+2021-01-24,"Riverside",0.034
+2021-01-31,"Riverside",0.043
+2021-02-07,"Riverside",0.054
+2021-02-14,"Riverside",0.073
+2021-02-21,"Riverside",0.114
+2021-02-28,"Riverside",0.151
+2021-03-07,"Riverside",0.195
+2021-03-14,"Riverside",0.233
+2021-03-21,"Riverside",0.262
+2021-03-28,"Riverside",0.318
+2021-04-04,"Riverside",0.373
+2021-04-11,"Riverside",0.421
+2021-04-18,"Riverside",0.49
+2021-04-25,"Riverside",0.547
+2021-05-02,"Riverside",0.59
+2021-01-17,"Robbins",0.001
+2021-01-24,"Robbins",0.004
+2021-01-31,"Robbins",0.007
+2021-02-07,"Robbins",0.01
+2021-02-14,"Robbins",0.055
+2021-02-21,"Robbins",0.064
+2021-02-28,"Robbins",0.085
+2021-03-07,"Robbins",0.107
+2021-03-14,"Robbins",0.114
+2021-03-21,"Robbins",0.124
+2021-03-28,"Robbins",0.131
+2021-04-04,"Robbins",0.15
+2021-04-11,"Robbins",0.167
+2021-04-18,"Robbins",0.18
+2021-04-25,"Robbins",0.194
+2021-05-02,"Robbins",0.206
+2021-01-03,"Rolling Meadows",0.005
+2021-01-10,"Rolling Meadows",0.008
+2021-01-17,"Rolling Meadows",0.009
+2021-01-24,"Rolling Meadows",0.019
+2021-01-31,"Rolling Meadows",0.03
+2021-02-07,"Rolling Meadows",0.037
+2021-02-14,"Rolling Meadows",0.045
+2021-02-21,"Rolling Meadows",0.059
+2021-02-28,"Rolling Meadows",0.081
+2021-03-07,"Rolling Meadows",0.116
+2021-03-14,"Rolling Meadows",0.133
+2021-03-21,"Rolling Meadows",0.145
+2021-03-28,"Rolling Meadows",0.163
+2021-04-04,"Rolling Meadows",0.216
+2021-04-11,"Rolling Meadows",0.256
+2021-04-18,"Rolling Meadows",0.293
+2021-04-25,"Rolling Meadows",0.323
+2021-05-02,"Rolling Meadows",0.347
+2021-01-03,"Roselle",0.006
+2021-01-10,"Roselle",0.008
+2021-01-17,"Roselle",0.01
+2021-01-24,"Roselle",0.014
+2021-01-31,"Roselle",0.018
+2021-02-07,"Roselle",0.025
+2021-02-14,"Roselle",0.038
+2021-02-21,"Roselle",0.061
+2021-02-28,"Roselle",0.088
+2021-03-07,"Roselle",0.126
+2021-03-14,"Roselle",0.156
+2021-03-21,"Roselle",0.177
+2021-03-28,"Roselle",0.202
+2021-04-04,"Roselle",0.268
+2021-04-11,"Roselle",0.309
+2021-04-18,"Roselle",0.351
+2021-04-25,"Roselle",0.381
+2021-05-02,"Roselle",0.402
+2021-01-03,"Rosemont",0.002
+2021-01-17,"Rosemont",0.01
+2021-01-24,"Rosemont",0.013
+2021-01-31,"Rosemont",0.016
+2021-02-07,"Rosemont",0.021
+2021-02-14,"Rosemont",0.029
+2021-02-21,"Rosemont",0.04
+2021-02-28,"Rosemont",0.055
+2021-03-07,"Rosemont",0.092
+2021-03-14,"Rosemont",0.117
+2021-03-21,"Rosemont",0.127
+2021-03-28,"Rosemont",0.144
+2021-04-04,"Rosemont",0.177
+2021-04-11,"Rosemont",0.21
+2021-04-18,"Rosemont",0.235
+2021-04-25,"Rosemont",0.267
+2021-05-02,"Rosemont",0.293
+2021-01-03,"Sauk Village",0
+2021-01-10,"Sauk Village",0.001
+2021-01-17,"Sauk Village",0.002
+2021-01-24,"Sauk Village",0.004
+2021-01-31,"Sauk Village",0.006
+2021-02-07,"Sauk Village",0.009
+2021-02-14,"Sauk Village",0.012
+2021-02-21,"Sauk Village",0.02
+2021-02-28,"Sauk Village",0.028
+2021-03-07,"Sauk Village",0.037
+2021-03-14,"Sauk Village",0.048
+2021-03-21,"Sauk Village",0.055
+2021-03-28,"Sauk Village",0.067
+2021-04-04,"Sauk Village",0.085
+2021-04-11,"Sauk Village",0.098
+2021-04-18,"Sauk Village",0.114
+2021-04-25,"Sauk Village",0.135
+2021-05-02,"Sauk Village",0.148
+2021-01-03,"Schaumburg",0.007
+2021-01-10,"Schaumburg",0.009
+2021-01-17,"Schaumburg",0.011
+2021-01-24,"Schaumburg",0.016
+2021-01-31,"Schaumburg",0.023
+2021-02-07,"Schaumburg",0.029
+2021-02-14,"Schaumburg",0.039
+2021-02-21,"Schaumburg",0.062
+2021-02-28,"Schaumburg",0.087
+2021-03-07,"Schaumburg",0.125
+2021-03-14,"Schaumburg",0.154
+2021-03-21,"Schaumburg",0.173
+2021-03-28,"Schaumburg",0.196
+2021-04-04,"Schaumburg",0.257
+2021-04-11,"Schaumburg",0.296
+2021-04-18,"Schaumburg",0.335
+2021-04-25,"Schaumburg",0.373
+2021-05-02,"Schaumburg",0.406
+2021-01-03,"Schiller Park",0.002
+2021-01-10,"Schiller Park",0.003
+2021-01-17,"Schiller Park",0.004
+2021-01-24,"Schiller Park",0.006
+2021-01-31,"Schiller Park",0.009
+2021-02-07,"Schiller Park",0.013
+2021-02-14,"Schiller Park",0.017
+2021-02-21,"Schiller Park",0.027
+2021-02-28,"Schiller Park",0.041
+2021-03-07,"Schiller Park",0.066
+2021-03-14,"Schiller Park",0.089
+2021-03-21,"Schiller Park",0.102
+2021-03-28,"Schiller Park",0.119
+2021-04-04,"Schiller Park",0.149
+2021-04-11,"Schiller Park",0.177
+2021-04-18,"Schiller Park",0.206
+2021-04-25,"Schiller Park",0.229
+2021-05-02,"Schiller Park",0.25
+2021-01-03,"South Barrington",0.026
+2021-01-10,"South Barrington",0.031
+2021-01-17,"South Barrington",0.036
+2021-01-24,"South Barrington",0.043
+2021-01-31,"South Barrington",0.053
+2021-02-07,"South Barrington",0.069
+2021-02-14,"South Barrington",0.094
+2021-02-21,"South Barrington",0.132
+2021-02-28,"South Barrington",0.178
+2021-03-07,"South Barrington",0.23
+2021-03-14,"South Barrington",0.262
+2021-03-21,"South Barrington",0.285
+2021-03-28,"South Barrington",0.313
+2021-04-04,"South Barrington",0.367
+2021-04-11,"South Barrington",0.407
+2021-04-18,"South Barrington",0.444
+2021-04-25,"South Barrington",0.483
+2021-05-02,"South Barrington",0.508
+2021-01-03,"South Chicago Heights",0.002
+2021-01-10,"South Chicago Heights",0.003
+2021-01-24,"South Chicago Heights",0.006
+2021-01-31,"South Chicago Heights",0.022
+2021-02-07,"South Chicago Heights",0.027
+2021-02-14,"South Chicago Heights",0.03
+2021-02-21,"South Chicago Heights",0.044
+2021-02-28,"South Chicago Heights",0.054
+2021-03-07,"South Chicago Heights",0.062
+2021-03-14,"South Chicago Heights",0.07
+2021-03-21,"South Chicago Heights",0.079
+2021-03-28,"South Chicago Heights",0.097
+2021-04-04,"South Chicago Heights",0.116
+2021-04-11,"South Chicago Heights",0.135
+2021-04-18,"South Chicago Heights",0.186
+2021-04-25,"South Chicago Heights",0.198
+2021-05-02,"South Chicago Heights",0.218
+2021-01-03,"South Holland",0.001
+2021-01-10,"South Holland",0.004
+2021-01-17,"South Holland",0.007
+2021-01-24,"South Holland",0.013
+2021-01-31,"South Holland",0.017
+2021-02-07,"South Holland",0.026
+2021-02-14,"South Holland",0.035
+2021-02-21,"South Holland",0.061
+2021-02-28,"South Holland",0.083
+2021-03-07,"South Holland",0.108
+2021-03-14,"South Holland",0.13
+2021-03-21,"South Holland",0.155
+2021-03-28,"South Holland",0.179
+2021-04-04,"South Holland",0.209
+2021-04-11,"South Holland",0.237
+2021-04-18,"South Holland",0.263
+2021-04-25,"South Holland",0.287
+2021-05-02,"South Holland",0.308
+2021-01-03,"Steger",0.002
+2021-01-10,"Steger",0.006
+2021-01-17,"Steger",0.007
+2021-01-31,"Steger",0.009
+2021-02-07,"Steger",0.014
+2021-02-14,"Steger",0.02
+2021-02-21,"Steger",0.039
+2021-02-28,"Steger",0.055
+2021-03-07,"Steger",0.068
+2021-03-14,"Steger",0.083
+2021-03-21,"Steger",0.098
+2021-03-28,"Steger",0.114
+2021-04-04,"Steger",0.14
+2021-04-11,"Steger",0.165
+2021-04-18,"Steger",0.244
+2021-04-25,"Steger",0.258
+2021-05-02,"Steger",0.278
+2021-01-10,"Stone Park",0.002
+2021-01-24,"Stone Park",0.004
+2021-01-31,"Stone Park",0.006
+2021-02-07,"Stone Park",0.01
+2021-02-14,"Stone Park",0.013
+2021-02-21,"Stone Park",0.019
+2021-02-28,"Stone Park",0.028
+2021-03-07,"Stone Park",0.04
+2021-03-14,"Stone Park",0.055
+2021-03-21,"Stone Park",0.063
+2021-03-28,"Stone Park",0.085
+2021-04-04,"Stone Park",0.119
+2021-04-11,"Stone Park",0.148
+2021-04-18,"Stone Park",0.188
+2021-04-25,"Stone Park",0.216
+2021-05-02,"Stone Park",0.233
+2021-01-03,"Streamwood",0.005
+2021-01-10,"Streamwood",0.007
+2021-01-17,"Streamwood",0.011
+2021-01-24,"Streamwood",0.015
+2021-01-31,"Streamwood",0.02
+2021-02-07,"Streamwood",0.026
+2021-02-14,"Streamwood",0.033
+2021-02-21,"Streamwood",0.06
+2021-02-28,"Streamwood",0.073
+2021-03-07,"Streamwood",0.099
+2021-03-14,"Streamwood",0.117
+2021-03-21,"Streamwood",0.132
+2021-03-28,"Streamwood",0.157
+2021-04-04,"Streamwood",0.199
+2021-04-11,"Streamwood",0.236
+2021-04-18,"Streamwood",0.269
+2021-04-25,"Streamwood",0.301
+2021-05-02,"Streamwood",0.329
+2021-01-03,"Summit",0.001
+2021-01-10,"Summit",0.003
+2021-01-17,"Summit",0.005
+2021-01-24,"Summit",0.006
+2021-01-31,"Summit",0.009
+2021-02-07,"Summit",0.012
+2021-02-14,"Summit",0.02
+2021-02-21,"Summit",0.029
+2021-02-28,"Summit",0.04
+2021-03-07,"Summit",0.056
+2021-03-14,"Summit",0.071
+2021-03-21,"Summit",0.084
+2021-03-28,"Summit",0.101
+2021-04-04,"Summit",0.128
+2021-04-11,"Summit",0.15
+2021-04-18,"Summit",0.176
+2021-04-25,"Summit",0.206
+2021-05-02,"Summit",0.251
+2021-01-03,"Thornton",0.002
+2021-01-10,"Thornton",0.007
+2021-01-24,"Thornton",0.011
+2021-01-31,"Thornton",0.013
+2021-02-07,"Thornton",0.018
+2021-02-14,"Thornton",0.022
+2021-02-21,"Thornton",0.046
+2021-02-28,"Thornton",0.069
+2021-03-07,"Thornton",0.092
+2021-03-14,"Thornton",0.115
+2021-03-21,"Thornton",0.136
+2021-03-28,"Thornton",0.158
+2021-04-04,"Thornton",0.195
+2021-04-11,"Thornton",0.221
+2021-04-18,"Thornton",0.252
+2021-04-25,"Thornton",0.287
+2021-05-02,"Thornton",0.311
+2021-01-03,"Tinley Park",0.009
+2021-01-10,"Tinley Park",0.014
+2021-01-17,"Tinley Park",0.018
+2021-01-24,"Tinley Park",0.024
+2021-01-31,"Tinley Park",0.03
+2021-02-07,"Tinley Park",0.043
+2021-02-14,"Tinley Park",0.059
+2021-02-21,"Tinley Park",0.104
+2021-02-28,"Tinley Park",0.135
+2021-03-07,"Tinley Park",0.174
+2021-03-14,"Tinley Park",0.205
+2021-03-21,"Tinley Park",0.231
+2021-03-28,"Tinley Park",0.255
+2021-04-04,"Tinley Park",0.305
+2021-04-11,"Tinley Park",0.345
+2021-04-18,"Tinley Park",0.381
+2021-04-25,"Tinley Park",0.411
+2021-05-02,"Tinley Park",0.442
+2021-01-03,"Westchester",0.007
+2021-01-10,"Westchester",0.013
+2021-01-17,"Westchester",0.017
+2021-01-24,"Westchester",0.025
+2021-01-31,"Westchester",0.033
+2021-02-07,"Westchester",0.043
+2021-02-14,"Westchester",0.059
+2021-02-21,"Westchester",0.092
+2021-02-28,"Westchester",0.124
+2021-03-07,"Westchester",0.176
+2021-03-14,"Westchester",0.205
+2021-03-21,"Westchester",0.231
+2021-03-28,"Westchester",0.276
+2021-04-04,"Westchester",0.323
+2021-04-11,"Westchester",0.369
+2021-04-18,"Westchester",0.41
+2021-04-25,"Westchester",0.441
+2021-05-02,"Westchester",0.465
+2021-01-03,"Western Springs",0.014
+2021-01-10,"Western Springs",0.019
+2021-01-17,"Western Springs",0.023
+2021-01-24,"Western Springs",0.028
+2021-01-31,"Western Springs",0.035
+2021-02-07,"Western Springs",0.047
+2021-02-14,"Western Springs",0.069
+2021-02-21,"Western Springs",0.124
+2021-02-28,"Western Springs",0.16
+2021-03-07,"Western Springs",0.2
+2021-03-14,"Western Springs",0.225
+2021-03-21,"Western Springs",0.243
+2021-03-28,"Western Springs",0.304
+2021-04-04,"Western Springs",0.355
+2021-04-11,"Western Springs",0.398
+2021-04-18,"Western Springs",0.447
+2021-04-25,"Western Springs",0.481
+2021-05-02,"Western Springs",0.51
+2021-01-03,"Wheeling",0.004
+2021-01-10,"Wheeling",0.006
+2021-01-17,"Wheeling",0.01
+2021-01-24,"Wheeling",0.021
+2021-01-31,"Wheeling",0.026
+2021-02-07,"Wheeling",0.032
+2021-02-14,"Wheeling",0.045
+2021-02-21,"Wheeling",0.06
+2021-02-28,"Wheeling",0.079
+2021-03-07,"Wheeling",0.114
+2021-03-14,"Wheeling",0.134
+2021-03-21,"Wheeling",0.148
+2021-03-28,"Wheeling",0.172
+2021-04-04,"Wheeling",0.216
+2021-04-11,"Wheeling",0.256
+2021-04-18,"Wheeling",0.294
+2021-04-25,"Wheeling",0.326
+2021-05-02,"Wheeling",0.353
+2021-01-03,"Willow Springs",0.011
+2021-01-10,"Willow Springs",0.017
+2021-01-17,"Willow Springs",0.02
+2021-01-24,"Willow Springs",0.025
+2021-01-31,"Willow Springs",0.03
+2021-02-07,"Willow Springs",0.038
+2021-02-14,"Willow Springs",0.053
+2021-02-21,"Willow Springs",0.079
+2021-02-28,"Willow Springs",0.112
+2021-03-07,"Willow Springs",0.145
+2021-03-14,"Willow Springs",0.173
+2021-03-21,"Willow Springs",0.188
+2021-03-28,"Willow Springs",0.211
+2021-04-04,"Willow Springs",0.254
+2021-04-11,"Willow Springs",0.289
+2021-04-18,"Willow Springs",0.317
+2021-04-25,"Willow Springs",0.344
+2021-05-02,"Willow Springs",0.365
+2021-01-03,"Wilmette",0.011
+2021-01-10,"Wilmette",0.018
+2021-01-17,"Wilmette",0.021
+2021-01-24,"Wilmette",0.025
+2021-01-31,"Wilmette",0.034
+2021-02-07,"Wilmette",0.048
+2021-02-14,"Wilmette",0.064
+2021-02-21,"Wilmette",0.097
+2021-02-28,"Wilmette",0.136
+2021-03-07,"Wilmette",0.189
+2021-03-14,"Wilmette",0.217
+2021-03-21,"Wilmette",0.241
+2021-03-28,"Wilmette",0.272
+2021-04-04,"Wilmette",0.325
+2021-04-11,"Wilmette",0.379
+2021-04-18,"Wilmette",0.435
+2021-04-25,"Wilmette",0.47
+2021-05-02,"Wilmette",0.503
+2021-01-03,"Winnetka",0.01
+2021-01-10,"Winnetka",0.016
+2021-01-17,"Winnetka",0.018
+2021-01-24,"Winnetka",0.021
+2021-01-31,"Winnetka",0.027
+2021-02-07,"Winnetka",0.037
+2021-02-14,"Winnetka",0.052
+2021-02-21,"Winnetka",0.088
+2021-02-28,"Winnetka",0.123
+2021-03-07,"Winnetka",0.16
+2021-03-14,"Winnetka",0.183
+2021-03-21,"Winnetka",0.2
+2021-03-28,"Winnetka",0.23
+2021-04-04,"Winnetka",0.293
+2021-04-11,"Winnetka",0.354
+2021-04-18,"Winnetka",0.413
+2021-04-25,"Winnetka",0.449
+2021-05-02,"Winnetka",0.485
+2021-01-03,"Worth",0.006
+2021-01-10,"Worth",0.007
+2021-01-17,"Worth",0.009
+2021-01-24,"Worth",0.014
+2021-01-31,"Worth",0.017
+2021-02-07,"Worth",0.024
+2021-02-14,"Worth",0.03
+2021-02-21,"Worth",0.046
+2021-02-28,"Worth",0.062
+2021-03-07,"Worth",0.08
+2021-03-14,"Worth",0.096
+2021-03-21,"Worth",0.11
+2021-03-28,"Worth",0.123
+2021-04-04,"Worth",0.153
+2021-04-11,"Worth",0.18
+2021-04-18,"Worth",0.202
+2021-04-25,"Worth",0.224
+2021-05-02,"Worth",0.248

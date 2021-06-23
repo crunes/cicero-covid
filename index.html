@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title>COVID-19 Vaccinations in Chicago Suburbs</title>
+			<meta charset="utf-8">
+    	<link rel="stylesheet" href="assets/styles/main.css" />
+      <link rel="preconnect" href="https://fonts.gstatic.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com">
+			<link href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Josefin+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+      <script src="https://d3js.org/d3.v6.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+			<script src="https://unpkg.com/enter-view@1.0.0/enter-view.min.js"></script>
+			<script src="https://unpkg.com/topojson@3"></script>
+	</head>
+
+  <body>
+		<section class="filler">
+			<h2 class="hed">
+				HED
+			</h2>
+			<h4>
+				DEK
+			</h4>
+			<p class="byline">
+				<i>A Cicero Independiente and South Side Weekly collaboration for INN</i>
+			</p>
+
+			<div class=spacer></div>
+
+			<p>
+				While much has been documented about inequitable vaccine distribution in
+				Chicago, less has been said about the vaccine rollout at the county level,
+				particularly in the suburbs next to the city which are predominantly
+				communities of color.
+			</p>
+			<p>
+				Using Cicero as a case study, as well as other
+				predominantly Black and brown suburbs of Cook County, South Side Weekly
+				and Cicero Independiente team up to report on the systemic barriers
+				faced by a growing suburban Latinx and Black community. We highlight
+				areas for improvement from the perspective of community residents,
+				social service experts, and government officials.
+			</p>
+
+		</section>
+
+		<div class="spacer"></div>
+
+		<section class="chart-container">
+			<p id="legend-title">Percent of residents with complete vaccine series, as of May 2</p>
+			<img id="legend" src='assets/images/key_with_NA.svg'>
+			<svg id="interactive-map" width="1050px" height="500px"></svg>
+			<div class="pop-up"></div>
+
+			<p class="source">
+				Source: Public record requests to the Cook County Department of Public Health
+			</p>
+		</section>
+
+		<section id="scrolly-overlay">
+
+			<div class="scrolly">
+				<figure class="sticky">
+			    <div class="chart-container">
+						<p class="axis-label">Percent with complete vaccine series</p>
+			        <svg id="line-chart" width="1050px" height="1000px"></svg>
+			    </div>
+				</figure>
+				<article>
+						<div class='step' data-index='0'>
+								<p>
+									As of June 23, 46 percent of all Cook County residents have
+									completed their COVID-19 vaccine series.
+								</p>
+						</div>
+						<div class='step' data-index='1'>
+							<p>
+								But the gap between the average vaccination rates for
+								<span style="color:#c51b7d">predominately Black and brown Chicago
+								suburbs</span> and <span style="color:#4d9221">other
+								municipalities</span> has TK.
+							</p>
+						</div>
+						<div class='step' data-index='2'>
+							<p>
+								Vaccine rates vary widely across municipalities: from
+								<span style="color:#4d9221">74 percent in Barrington</span> to
+								<span style="color:#c51b7d">9 percent in Dixmoor</span>, a largely
+								Black and brown village just south of Chicago.
+							</p>
+						</div>
+				</article>
+			</div>
+		</section>
+
+  </body>
+
+  <script src="scripts/scrolly.js"></script>
+	<script src="scripts/map.js"></script>
+
+</html>
