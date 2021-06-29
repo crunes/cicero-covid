@@ -7,8 +7,10 @@ function updateChart(index) {
     stepSel.classed('is-active', (d, i) => i === index);
 
     if (index == "-1") {
-      container.select('#may2AverageLine').style("stroke-opacity", 0.75);
-      container.select('#may2AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLine').style("stroke-opacity", 0.75);
+      container.select('#june13AverageLabel1').style("opacity", 1);
+      container.select('#june13AverageLabel2').style("opacity", 1);
+      container.select('#june13AverageLabel3').style("opacity", 1);
 
       container.select('#allMunicipalities').style("stroke-opacity", 0);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
@@ -19,12 +21,15 @@ function updateChart(index) {
       container.select("#berwynLabel").style("opacity", 0);
       container.select("#ciceroLabel").style("opacity", 0);
       container.select("#blueIslandLabel").style("opacity", 0);
+      container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
       container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "0") {
-      container.select('#may2AverageLine').style("stroke-opacity", 0.75);
-      container.select('#may2AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLine').style("stroke-opacity", 0.75);
+      container.select('#june13AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLabel2').style("opacity", 1);
+      container.select('#june13AverageLabel3').style("opacity", 1);
 
       container.select('#allMunicipalities').style("stroke-opacity", 0);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
@@ -35,12 +40,15 @@ function updateChart(index) {
       container.select("#berwynLabel").style("opacity", 0);
       container.select("#ciceroLabel").style("opacity", 0);
       container.select("#blueIslandLabel").style("opacity", 0);
+      container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
       container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "1") {
-      container.select('#may2AverageLine').style("stroke-opacity", 0.75);
-      container.select('#may2AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLine').style("stroke-opacity", 0.75);
+      container.select('#june13AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLabel2').style("opacity", 1);
+      container.select('#june13AverageLabel3').style("opacity", 1);
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 1);
@@ -51,12 +59,15 @@ function updateChart(index) {
       container.select("#berwynLabel").style("opacity", 0);
       container.select("#ciceroLabel").style("opacity", 0);
       container.select("#blueIslandLabel").style("opacity", 0);
+      container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
       container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "2") {
-      container.select('#may2AverageLine').style("stroke-opacity", 0.75);
-      container.select('#may2AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLine').style("stroke-opacity", 0.75);
+      container.select('#june13AverageLabel').style("opacity", 1);
+      container.select('#june13AverageLabel2').style("opacity", 1);
+      container.select('#june13AverageLabel3').style("opacity", 1);
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
@@ -67,12 +78,15 @@ function updateChart(index) {
       container.select("#berwynLabel").style("opacity", 1);
       container.select("#ciceroLabel").style("opacity", 1);
       container.select("#blueIslandLabel").style("opacity", 1);
+      container.select("#maywoodLabel").style("opacity", 1);
       container.select("#doltonLabel").style("opacity", 1);
       container.select("#harveyLabel").style("opacity", 1);
 
     } else {
-      container.select('#may2AverageLine').style("stroke-opacity", 0);
-      container.select('#may2AverageLabel').style("opacity", 0);
+      container.select('#june13AverageLine').style("stroke-opacity", 0);
+      container.select('#june13AverageLabel').style("opacity", 0);
+      container.select('#june13AverageLabel2').style("opacity", 0);
+      container.select('#june13AverageLabel3').style("opacity", 0);
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
@@ -83,6 +97,7 @@ function updateChart(index) {
       container.select("#berwynLabel").style("opacity", 0);
       container.select("#ciceroLabel").style("opacity", 0);
       container.select("#blueIslandLabel").style("opacity", 0);
+      container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
       container.select("#harveyLabel").style("opacity", 0);
     }
@@ -109,11 +124,6 @@ function init() {
 
 init();
 
-let width = 800;
-let height = 500;
-let margin = { top: 30, right: 10, bottom: 10, left: 30 };
-let svg = d3.select("body").select("#line-chart")
-
 d3.csv('data/vax_rates.csv')
   .then(function (data) {
 
@@ -128,13 +138,18 @@ d3.csv('data/vax_rates.csv')
       return d3.ascending(a.date, b.date)
     })
 
+    let width = 800;
+    let height = 500;
+    let margin = { top: 30, right: 10, bottom: 10, left: 30 };
+    let svg = d3.select("body").select("#line-chart")
+
     let x = d3.scaleTime()
         .domain(d3.extent(data.map(function (d) { return d.date })))
         .range([margin.left, width - margin.right])
 
     let y = d3.scaleLinear()
-        // .domain([0,1])
-        .domain(d3.extent(data.map(function (d) { return d.fully_vax })))
+        .domain([0,1])
+        // .domain(d3.extent(data.map(function (d) { return d.fully_vax })))
         .range([height - margin.bottom, margin.top])
 
     let yAxisSettings = d3.axisLeft(y)
@@ -237,7 +252,7 @@ d3.csv('data/vax_rates.csv')
       .attr("text-anchor", "left")
       .attr("id", "ciceroLabel")
       .attr("x", 800)
-      .attr("y", 330)
+      .attr("y", 320)
       .style("fill", "#c51b7d")
       .style("font-size", "14px")
       .style("font-weight", "bold")
@@ -247,11 +262,21 @@ d3.csv('data/vax_rates.csv')
       .attr("text-anchor", "left")
       .attr("id", "blueIslandLabel")
       .attr("x", 800)
-      .attr("y", 347)
+      .attr("y", 335)
       .style("fill", "#c51b7d")
       .style("font-size", "14px")
       .style("font-weight", "bold")
-      .text("Blue Island and Maywood")
+      .text("Blue Island")
+
+    let maywoodLabel = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "maywoodLabel")
+      .attr("x", 800)
+      .attr("y", 350)
+      .style("fill", "#c51b7d")
+      .style("font-size", "14px")
+      .style("font-weight", "bold")
+      .text("Maywood")
 
     let doltonLabel = svg.append("text")
       .attr("text-anchor", "left")
@@ -287,30 +312,50 @@ d3.csv('data/vax_rates.csv')
       .attr("text-anchor", "left")
       .attr("id", "barringtonLabel")
       .attr("x", 800)
-      .attr("y", 37)
+      .attr("y", 75)
       .style("fill", "#4d9221")
       .style("font-size", "14px")
       .style("font-weight", "bold")
       .text("Barrington")
 
-    let may2AverageLine = svg.append("line")
-      .attr("id", "may2AverageLine")
+    let june13AverageLine = svg.append("line")
+      .attr("id", "june13AverageLine")
       .attr("x1", margin.left)
       .attr("x2", width - 10)
-      .attr("y1", y(0.34))
-      .attr("y2", y(0.34))
+      .attr("y1", y(0.49))
+      .attr("y2", y(0.49))
       .style("stroke", "#555555")
       .style("stroke-width", "2px")
 
-    let may2AverageLabel = svg.append("text")
+    let june13AverageLabel1 = svg.append("text")
       .attr("text-anchor", "left")
-      .attr("id", "may2AverageLabel")
+      .attr("id", "june13AverageLabel1")
       .attr("x", 800)
-      .attr("y", 285)
+      .attr("y", 250)
       .style("fill", "#555555")
       .style("font-size", "14px")
       .style("font-weight", "bold")
-      .text("Suburban Cook County average as of May 2")
+      .text("Suburban")
+
+    let june13AverageLabel2 = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "june13AverageLabel2")
+      .attr("x", 800)
+      .attr("y", 265)
+      .style("fill", "#555555")
+      .style("font-size", "14px")
+      .style("font-weight", "bold")
+      .text("Cook County")
+
+    let june13AverageLabel3 = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "june13AverageLabel3")
+      .attr("x", 800)
+      .attr("y", 280)
+      .style("fill", "#555555")
+      .style("font-size", "14px")
+      .style("font-weight", "bold")
+      .text("average (June 13)")
 
     let baseline = svg.append("line")
       .attr("x1", margin.left)

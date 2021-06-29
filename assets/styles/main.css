@@ -6,6 +6,7 @@ body {
 
 .chart-container {
   font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
 }
 
 svg {
@@ -39,7 +40,7 @@ svg {
   text-align: center;
 }
 
-#legend-title {
+.legend-title {
   text-align: center;
   margin-bottom: 1rem;;
 }
@@ -102,7 +103,7 @@ hr {
 
 p.axis-label {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 18px;
+  font-size: 14px;
   max-width: 60rem;
   text-align: left;
 }

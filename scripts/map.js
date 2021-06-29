@@ -2,7 +2,7 @@ console.log({ d3 })
 console.log({ topojson })
 
 Promise.all([
-    d3.json('data/municipality_vax_unproj_topo.json'),
+    d3.json('data/municipality_vax_unproj_topo_june.json'),
 ])
     .then(ready)
     .catch((err) => {
@@ -14,7 +14,6 @@ function ready(res) {
     let raw = res[0]
 
     let municipality = topojson.feature(raw, raw.objects.Municipality);
-
     let popup = d3.select(".pop-up");
 
     let width = 1050;
@@ -34,7 +33,8 @@ function ready(res) {
 
     let color = d3.scaleThreshold()
       .domain([10,20,30,40,50,60,70,80,90])
-      .range(['#c51b7d','#de77ae','#f1b6da','#fde0ef','#f7f7f7','#e6f5d0','#b8e186','#7fbc41','#4d9221'])
+      // .range(['#c51b7d','#de77ae','#f1b6da','#fde0ef','#f7f7f7','#e6f5d0','#b8e186','#7fbc41','#4d9221'])
+      .range(['#8e0152','#c51b7d','#de77ae','#f1b6da','#fde0ef','#e6f5d0','#b8e186','#7fbc41','#4d9221','#276419'])
 
     // Color in counties
     let municipalities = svg.append("g")

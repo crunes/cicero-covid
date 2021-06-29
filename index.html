@@ -48,7 +48,7 @@
 		<div class="spacer"></div>
 
 		<section class="chart-container">
-			<p id="legend-title">Percent of residents with complete vaccine series, as of May 2</p>
+			<p class="legend-title">Percent of suburban Cook County residents with complete vaccine series, as of June 13</p>
 			<img id="legend" src='assets/images/key_with_NA.svg'>
 			<svg id="interactive-map" width="1050px" height="500px"></svg>
 			<div class="pop-up"></div>
@@ -61,25 +61,27 @@
 		<section id="scrolly-overlay">
 
 			<div class="scrolly">
+
 				<figure class="sticky">
 			    <div class="chart-container">
 						<p class="axis-label">Percent with complete vaccine series</p>
-			        <svg id="line-chart" width="1050px" height="1000px"></svg>
+			        <svg id="line-chart" width="800px" height="500px"></svg>
 			    </div>
 				</figure>
+
 				<article>
 						<div class='step' data-index='0'>
 								<p>
-									As of May 2, 34 percent of all suburban Cook County residents
+									As of June 13, nearly half of all Cook County residents
 									had completed their COVID-19 vaccine series.
 								</p>
 						</div>
 						<div class='step' data-index='1'>
 							<p>
 								But vaccine rates vary widely across municipalities: from
-								<span style="color:#4d9221">74 percent in Barrington</span>, a
+								<span style="color:#4d9221">ninety-one percent in Barrington</span>, a
 								wealthy northern suburb, to
-								<span style="color:#c51b7d">9 percent in Dixmoor</span>, a largely
+								<span style="color:#c51b7d">twelve percent in Dixmoor</span>, a largely
 								Black and brown suburb just south of Chicago.
 							</p>
 						</div>
@@ -91,12 +93,41 @@
 							</p>
 						</div>
 				</article>
+
 			</div>
+
 		</section>
+
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+
+
+
+		<section class="chart-container">
+			<p class="legend-title">
+				Wealthier suburbs tend to have higher vaccination rates—to an extent
+			</p>
+			<p class="axis-label">Percent with complete vaccine series</p>
+			<svg id="scatterplot" width="1050px" height="500px"></svg>
+
+			<p class="source">
+				Source: Public record requests to the Cook County Department of Public Health; American Community Survey 5-year file (2014-2018)
+			</p>
+		</section>
+
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
+		<div class="spacer"></div>
 
   </body>
 
 	<script src="scripts/map.js"></script>
 	<script src="scripts/scrolly.js"></script>
+	<script src="scripts/scatterplot.js"></script>
 
 </html>
