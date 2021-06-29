@@ -40,7 +40,7 @@ d3.csv("data/recent_demog.csv").then(function (data) {
       row.pct_complete_vax = +row.pct_complete_vax
     });
 
-    let width = 800;
+    let width = 1050;
     let height = 500;
     let margin = { top: 30, right: 10, bottom: 10, left: 10 };
     let svgBubbles = d3.select("body").select("#scatterplot");
@@ -107,14 +107,6 @@ d3.csv("data/recent_demog.csv").then(function (data) {
         .attr("class", "y axis")
         .call(yAxisSettings)
         .attr("transform", `translate(${margin.left},0)`)
-
-    // let average = svgBubbles.append("line")
-    //     .attr("x1", -margin.left)
-    //     .attr("x2", width + margin.left)
-    //     .attr("y1", y(3))
-    //     .attr("y2", y(3))
-    //     .style("stroke", "#353802")
-    //     .style("stroke-width", "5px")
 
     let popup = d3.select("#bubbles");
     let shuffled = d3.shuffle(data);
