@@ -14,8 +14,8 @@ function updateChart(index) {
 
       container.select('#allMunicipalities').style("stroke-opacity", 0);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
-      container.select("#barringtonLabel").style("opacity", 0);
-      container.select("#dixmoorLabel").style("opacity", 0);
+      container.select("#wilmetteLabel").style("opacity", 0);
+      container.select("#harveyLabel").style("opacity", 0);
 
       container.select("#focusMunicipalities").style("stroke-opacity", 0);
       container.select("#berwynLabel").style("opacity", 0);
@@ -23,7 +23,6 @@ function updateChart(index) {
       container.select("#blueIslandLabel").style("opacity", 0);
       container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
-      container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "0") {
       container.select('#june13AverageLine').style("stroke-opacity", 0.75);
@@ -33,8 +32,8 @@ function updateChart(index) {
 
       container.select('#allMunicipalities').style("stroke-opacity", 0);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
-      container.select("#barringtonLabel").style("opacity", 0);
-      container.select("#dixmoorLabel").style("opacity", 0);
+      container.select("#wilmetteLabel").style("opacity", 0);
+      container.select("#harveyLabel").style("opacity", 0);
 
       container.select("#focusMunicipalities").style("stroke-opacity", 0);
       container.select("#berwynLabel").style("opacity", 0);
@@ -42,7 +41,6 @@ function updateChart(index) {
       container.select("#blueIslandLabel").style("opacity", 0);
       container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
-      container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "1") {
       container.select('#june13AverageLine').style("stroke-opacity", 0.75);
@@ -52,8 +50,8 @@ function updateChart(index) {
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 1);
-      container.select("#barringtonLabel").style("opacity", 1);
-      container.select("#dixmoorLabel").style("opacity", 1);
+      container.select("#wilmetteLabel").style("opacity", 1);
+      container.select("#harveyLabel").style("opacity", 1);
 
       container.select("#focusMunicipalities").style("stroke-opacity", 0);
       container.select("#berwynLabel").style("opacity", 0);
@@ -61,7 +59,6 @@ function updateChart(index) {
       container.select("#blueIslandLabel").style("opacity", 0);
       container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
-      container.select("#harveyLabel").style("opacity", 0);
 
     } else if (index == "2") {
       container.select('#june13AverageLine').style("stroke-opacity", 0.75);
@@ -71,8 +68,8 @@ function updateChart(index) {
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
-      container.select("#barringtonLabel").style("opacity", 0);
-      container.select("#dixmoorLabel").style("opacity", 0);
+      container.select("#wilmetteLabel").style("opacity", 0);
+      container.select("#harveyLabel").style("opacity", 1);
 
       container.select("#focusMunicipalities").style("stroke-opacity", 0.75);
       container.select("#berwynLabel").style("opacity", 1);
@@ -80,7 +77,6 @@ function updateChart(index) {
       container.select("#blueIslandLabel").style("opacity", 1);
       container.select("#maywoodLabel").style("opacity", 1);
       container.select("#doltonLabel").style("opacity", 1);
-      container.select("#harveyLabel").style("opacity", 1);
 
     } else {
       container.select('#june13AverageLine').style("stroke-opacity", 0);
@@ -90,8 +86,8 @@ function updateChart(index) {
 
       container.select('#allMunicipalities').style("stroke-opacity", 0.5);
       container.select("#compareMunicipalities").style("stroke-opacity", 0);
-      container.select("#barringtonLabel").style("opacity", 0);
-      container.select("#dixmoorLabel").style("opacity", 0);
+      container.select("#wilmetteLabel").style("opacity", 0);
+      container.select("#harveyLabel").style("opacity", 0);
 
       container.select("#focusMunicipalities").style("stroke-opacity", 0);
       container.select("#berwynLabel").style("opacity", 0);
@@ -99,7 +95,6 @@ function updateChart(index) {
       container.select("#blueIslandLabel").style("opacity", 0);
       container.select("#maywoodLabel").style("opacity", 0);
       container.select("#doltonLabel").style("opacity", 0);
-      container.select("#harveyLabel").style("opacity", 0);
     }
 }
 
@@ -191,7 +186,7 @@ d3.csv('data/vax_rates.csv')
     console.log(grouped_data)
 
     let allFocus = ["Blue Island", "Calumet City", "Cicero", "Dolton", "Harvey", "Maywood", "Berwyn", "Stickney"]
-    let comparison = ["Barrington", "Dixmoor"]
+    let comparison = ["Wilmette", "Harvey"]
 
     let focusVax = d3.filter(grouped_data, d => allFocus.includes(d[0]))
     let compareVax = d3.filter(grouped_data, d => comparison.includes(d[0]))
@@ -230,9 +225,9 @@ d3.csv('data/vax_rates.csv')
       .attr("d", d => line(d[1]))
       .style("fill", "none")
       .style("stroke", function(d) {
-        if (d[0] == "Dixmoor") {
+        if (d[0] == "Harvey") {
           return "#c51b7d"
-        } else if (d[0] == "Barrington") {
+        } else if (d[0] == "Wilmette") {
           return "#4d9221"
         }
       })
@@ -298,25 +293,15 @@ d3.csv('data/vax_rates.csv')
       .style("font-weight", "bold")
       .text("Harvey")
 
-    let dixmoorLabel = svg.append("text")
+    let wilmetteLabel = svg.append("text")
       .attr("text-anchor", "left")
-      .attr("id", "dixmoorLabel")
+      .attr("id", "wilmetteLabel")
       .attr("x", 800)
-      .attr("y", 440)
-      .style("fill", "#c51b7d")
-      .style("font-size", "14px")
-      .style("font-weight", "bold")
-      .text("Dixmoor")
-
-    let barringtonLabel = svg.append("text")
-      .attr("text-anchor", "left")
-      .attr("id", "barringtonLabel")
-      .attr("x", 800)
-      .attr("y", 75)
+      .attr("y", 210)
       .style("fill", "#4d9221")
       .style("font-size", "14px")
       .style("font-weight", "bold")
-      .text("Barrington")
+      .text("Wilmette")
 
     let june13AverageLine = svg.append("line")
       .attr("id", "june13AverageLine")
