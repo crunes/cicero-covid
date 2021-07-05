@@ -1,0 +1,1711 @@
+county,tract,state,placefp14,stab,cntyname,placefp,placenm,placenm14,pop10,afact
+17031,7702.01,17,99999,IL,Cook IL, , , ,75,0.0127
+17031,7702.02,17,99999,IL,Cook IL, , , ,6,0.0012
+17031,7703.00,17,99999,IL,Cook IL, , , ,440,0.0602
+17031,7704.00,17,99999,IL,Cook IL, , , ,16,0.0036
+17031,7705.00,17,99999,IL,Cook IL, , , ,3831,0.9394
+17031,7708.00,17,99999,IL,Cook IL, , , ,2,0.0004
+17031,8007.00,17,99999,IL,Cook IL, , , ,70,0.0136
+17031,8008.00,17,99999,IL,Cook IL, , , ,316,0.1432
+17031,8015.00,17,99999,IL,Cook IL, , , ,845,0.1425
+17031,8016.01,17,99999,IL,Cook IL, , , ,21,0.005
+17031,8016.03,17,99999,IL,Cook IL, , , ,1705,0.4423
+17031,8016.05,17,99999,IL,Cook IL, , , ,231,0.0413
+17031,8016.06,17,99999,IL,Cook IL, , , ,2075,0.3421
+17031,8016.07,17,99999,IL,Cook IL, , , ,1054,0.1994
+17031,8016.08,17,99999,IL,Cook IL, , , ,40,0.0061
+17031,8018.00,17,99999,IL,Cook IL, , , ,39,0.0069
+17031,8020.02,17,99999,IL,Cook IL, , , ,1912,0.377
+17031,8020.03,17,99999,IL,Cook IL, , , ,62,0.0231
+17031,8020.04,17,99999,IL,Cook IL, , , ,4320,0.8028
+17031,8024.02,17,99999,IL,Cook IL, , , ,50,0.0104
+17031,8025.03,17,99999,IL,Cook IL, , , ,78,0.0126
+17031,8027.02,17,99999,IL,Cook IL, , , ,788,0.1752
+17031,8030.05,17,99999,IL,Cook IL, , , ,9,0.0034
+17031,8030.07,17,99999,IL,Cook IL, , , ,158,0.0301
+17031,8030.17,17,99999,IL,Cook IL, , , ,545,0.09
+17031,8036.06,17,99999,IL,Cook IL, , , ,1144,0.138
+17031,8036.08,17,99999,IL,Cook IL, , , ,947,0.1293
+17031,8036.10,17,99999,IL,Cook IL, , , ,281,0.039
+17031,8036.12,17,99999,IL,Cook IL, , , ,2827,0.7995
+17031,8041.02,17,99999,IL,Cook IL, , , ,1,0.0001
+17031,8041.05,17,99999,IL,Cook IL, , , ,110,0.0275
+17031,8041.06,17,99999,IL,Cook IL, , , ,28,0.004
+17031,8041.08,17,99999,IL,Cook IL, , , ,12,0.0031
+17031,8041.09,17,99999,IL,Cook IL, , , ,1072,0.3628
+17031,8042.01,17,99999,IL,Cook IL, , , ,63,0.0077
+17031,8042.02,17,99999,IL,Cook IL, , , ,544,0.0729
+17031,8043.10,17,99999,IL,Cook IL, , , ,252,0.0277
+17031,8043.11,17,99999,IL,Cook IL, , , ,1035,0.127
+17031,8044.03,17,99999,IL,Cook IL, , , ,133,0.0197
+17031,8044.04,17,99999,IL,Cook IL, , , ,52,0.0099
+17031,8044.05,17,99999,IL,Cook IL, , , ,69,0.0186
+17031,8045.06,17,99999,IL,Cook IL, , , ,48,0.0088
+17031,8045.07,17,99999,IL,Cook IL, , , ,486,0.0389
+17031,8046.03,17,99999,IL,Cook IL, , , ,100,0.0179
+17031,8046.06,17,99999,IL,Cook IL, , , ,118,0.0166
+17031,8046.07,17,99999,IL,Cook IL, , , ,118,0.0167
+17031,8048.03,17,99999,IL,Cook IL, , , ,1074,0.1992
+17031,8048.04,17,99999,IL,Cook IL, , , ,487,0.0745
+17031,8050.02,17,99999,IL,Cook IL, , , ,795,0.1145
+17031,8051.05,17,99999,IL,Cook IL, , , ,2,0.0003
+17031,8051.07,17,99999,IL,Cook IL, , , ,79,0.0122
+17031,8051.11,17,99999,IL,Cook IL, , , ,729,0.1037
+17031,8052.01,17,99999,IL,Cook IL, , , ,817,0.2399
+17031,8052.02,17,99999,IL,Cook IL, , , ,1479,0.3672
+17031,8054.01,17,99999,IL,Cook IL, , , ,30,0.0078
+17031,8060.01,17,99999,IL,Cook IL, , , ,4631,0.7968
+17031,8060.02,17,99999,IL,Cook IL, , , ,6857,0.9082
+17031,8060.03,17,99999,IL,Cook IL, , , ,6691,0.8251
+17031,8060.04,17,99999,IL,Cook IL, , , ,2141,0.2816
+17031,8061.04,17,99999,IL,Cook IL, , , ,3829,0.9104
+17031,8104.00,17,99999,IL,Cook IL, , , ,1072,0.2004
+17031,8105.01,17,99999,IL,Cook IL, , , ,2,0.0004
+17031,8106.00,17,99999,IL,Cook IL, , , ,3,0.0006
+17031,8113.01,17,99999,IL,Cook IL, , , ,3311,0.6834
+17031,8113.02,17,99999,IL,Cook IL, , , ,1290,0.3415
+17031,8114.02,17,99999,IL,Cook IL, , , ,118,0.0266
+17031,8117.01,17,99999,IL,Cook IL, , , ,2285,0.5923
+17031,8117.02,17,99999,IL,Cook IL, , , ,2492,0.4863
+17031,8157.02,17,99999,IL,Cook IL, , , ,110,0.0215
+17031,8179.00,17,99999,IL,Cook IL, , , ,224,0.0398
+17031,8180.00,17,99999,IL,Cook IL, , , ,11,0.0026
+17031,8184.01,17,99999,IL,Cook IL, , , ,329,0.0905
+17031,8185.00,17,99999,IL,Cook IL, , , ,6,0.0011
+17031,8186.00,17,99999,IL,Cook IL, , , ,10,0.0021
+17031,8198.02,17,99999,IL,Cook IL, , , ,142,0.053
+17031,8201.01,17,99999,IL,Cook IL, , , ,1083,0.1561
+17031,8201.03,17,99999,IL,Cook IL, , , ,187,0.0466
+17031,8201.04,17,99999,IL,Cook IL, , , ,1623,0.3897
+17031,8202.01,17,99999,IL,Cook IL, , , ,412,0.0526
+17031,8206.03,17,99999,IL,Cook IL, , , ,1503,0.2861
+17031,8208.00,17,99999,IL,Cook IL, , , ,2928,0.8075
+17031,8209.01,17,99999,IL,Cook IL, , , ,1103,0.194
+17031,8214.02,17,99999,IL,Cook IL, , , ,79,0.022
+17031,8232.00,17,99999,IL,Cook IL, , , ,274,0.0562
+17031,8233.02,17,99999,IL,Cook IL, , , ,6,0.001
+17031,8233.04,17,99999,IL,Cook IL, , , ,1106,0.1866
+17031,8234.00,17,99999,IL,Cook IL, , , ,32,0.0063
+17031,8236.02,17,99999,IL,Cook IL, , , ,1154,0.1841
+17031,8236.03,17,99999,IL,Cook IL, , , ,48,0.0178
+17031,8236.05,17,99999,IL,Cook IL, , , ,895,0.1968
+17031,8238.01,17,99999,IL,Cook IL, , , ,4163,0.7283
+17031,8239.01,17,99999,IL,Cook IL, , , ,20,0.0057
+17031,8239.03,17,99999,IL,Cook IL, , , ,1292,0.2745
+17031,8239.04,17,99999,IL,Cook IL, , , ,143,0.0356
+17031,8240.03,17,99999,IL,Cook IL, , , ,33,0.0052
+17031,8240.04,17,99999,IL,Cook IL, , , ,2082,0.3876
+17031,8240.05,17,99999,IL,Cook IL, , , ,689,0.1244
+17031,8240.06,17,99999,IL,Cook IL, , , ,2203,0.5697
+17031,8241.05,17,99999,IL,Cook IL, , , ,8,0.0012
+17031,8241.06,17,99999,IL,Cook IL, , , ,374,0.053
+17031,8241.07,17,99999,IL,Cook IL, , , ,6,0.0009
+17031,8241.13,17,99999,IL,Cook IL, , , ,3265,0.4976
+17031,8241.14,17,99999,IL,Cook IL, , , ,81,0.0172
+17031,8241.15,17,99999,IL,Cook IL, , , ,35,0.0089
+17031,8241.16,17,99999,IL,Cook IL, , , ,45,0.0095
+17031,8241.17,17,99999,IL,Cook IL, , , ,48,0.0049
+17031,8241.19,17,99999,IL,Cook IL, , , ,175,0.0308
+17031,8241.20,17,99999,IL,Cook IL, , , ,807,0.093
+17031,8241.21,17,99999,IL,Cook IL, , , ,13,0.0041
+17031,8241.22,17,99999,IL,Cook IL, , , ,1,0.0002
+17031,8245.03,17,99999,IL,Cook IL, , , ,287,0.0426
+17031,8245.05,17,99999,IL,Cook IL, , , ,9,0.0013
+17031,8245.06,17,99999,IL,Cook IL, , , ,126,0.0165
+17031,8245.07,17,99999,IL,Cook IL, , , ,220,0.0522
+17031,8246.01,17,99999,IL,Cook IL, , , ,163,0.0371
+17031,8246.02,17,99999,IL,Cook IL, , , ,166,0.0254
+17031,8248.00,17,99999,IL,Cook IL, , , ,37,0.0048
+17031,8252.00,17,99999,IL,Cook IL, , , ,7,0.0035
+17031,8253.02,17,99999,IL,Cook IL, , , ,374,0.0596
+17031,8254.00,17,99999,IL,Cook IL, , , ,257,0.0474
+17031,8255.01,17,99999,IL,Cook IL, , , ,82,0.0147
+17031,8255.04,17,99999,IL,Cook IL, , , ,172,0.0461
+17031,8255.05,17,99999,IL,Cook IL, , , ,136,0.0246
+17031,8256.00,17,99999,IL,Cook IL, , , ,39,0.0069
+17031,8262.01,17,99999,IL,Cook IL, , , ,172,0.0478
+17031,8279.01,17,99999,IL,Cook IL, , , ,5,0.0019
+17031,8282.01,17,99999,IL,Cook IL, , , ,373,0.0869
+17031,8282.02,17,99999,IL,Cook IL, , , ,159,0.0347
+17031,8283.00,17,99999,IL,Cook IL, , , ,56,0.0172
+17031,8285.03,17,99999,IL,Cook IL, , , ,27,0.0058
+17031,8285.04,17,99999,IL,Cook IL, , , ,200,0.0335
+17031,8285.05,17,99999,IL,Cook IL, , , ,205,0.0319
+17031,8285.06,17,99999,IL,Cook IL, , , ,557,0.0652
+17031,8286.01,17,99999,IL,Cook IL, , , ,69,0.0165
+17031,8287.01,17,99999,IL,Cook IL, , , ,105,0.0258
+17031,8287.02,17,99999,IL,Cook IL, , , ,99,0.0201
+17031,8288.02,17,99999,IL,Cook IL, , , ,167,0.055
+17031,8293.01,17,99999,IL,Cook IL, , , ,179,0.045
+17031,8293.02,17,99999,IL,Cook IL, , , ,137,0.0344
+17031,8294.02,17,99999,IL,Cook IL, , , ,10,0.003
+17031,8295.00,17,99999,IL,Cook IL, , , ,10,0.0024
+17031,8297.00,17,99999,IL,Cook IL, , , ,35,0.008
+17031,8299.01,17,99999,IL,Cook IL, , , ,99,0.0113
+17031,8299.02,17,99999,IL,Cook IL, , , ,353,0.0557
+17031,8300.01,17,99999,IL,Cook IL, , , ,1251,0.5943
+17031,8300.03,17,99999,IL,Cook IL, , , ,25,0.0031
+17031,8300.04,17,99999,IL,Cook IL, , , ,502,0.0694
+17031,8300.05,17,99999,IL,Cook IL, , , ,3,0.0008
+17031,8300.06,17,99999,IL,Cook IL, , , ,23,0.0092
+17031,8300.07,17,99999,IL,Cook IL, , , ,183,0.0363
+17031,8300.08,17,99999,IL,Cook IL, , , ,98,0.0216
+17031,8232.00,17,1010,IL,Cook IL, , ,"Alsip village, IL",4381,0.8983
+17031,8233.02,17,1010,IL,Cook IL, , ,"Alsip village, IL",5788,0.999
+17031,8233.03,17,1010,IL,Cook IL, , ,"Alsip village, IL",4519,1
+17031,8233.04,17,1010,IL,Cook IL, , ,"Alsip village, IL",2907,0.4905
+17031,8234.00,17,1010,IL,Cook IL, , ,"Alsip village, IL",429,0.0849
+17031,8236.05,17,1010,IL,Cook IL, , ,"Alsip village, IL",1253,0.2756
+17031,8026.08,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",2939,0.4698
+17031,8028.01,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",4242,0.885
+17031,8029.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",5846,0.9615
+17031,8030.05,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",2014,0.7586
+17031,8030.07,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",3299,0.6287
+17031,8030.08,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",4712,1
+17031,8030.10,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",2361,0.4544
+17031,8030.12,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",1101,0.4957
+17031,8030.15,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",1950,0.4373
+17031,8030.16,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",1979,1
+17031,8030.17,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",4073,0.6723
+17031,8031.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",3440,1
+17031,8032.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",5586,1
+17031,8033.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",5543,1
+17031,8034.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",6384,1
+17031,8035.00,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",5686,0.9782
+17031,8036.12,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",709,0.2005
+17031,8039.01,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",25,0.0072
+17031,8051.06,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",2718,1
+17031,8051.07,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",3400,0.5263
+17031,8051.08,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",1412,0.2108
+17031,8051.09,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",2646,0.607
+17031,8051.10,17,2154,IL,Cook IL, , ,"Arlington Heights village, IL",3115,0.7382
+17031,8042.01,17,3883,IL,Cook IL, , ,"Barrington Hills village, IL",2168,0.2653
+17031,8036.08,17,3844,IL,Cook IL, , ,"Barrington village, IL",1090,0.1488
+17031,8042.01,17,3844,IL,Cook IL, , ,"Barrington village, IL",1990,0.2435
+17031,8042.02,17,3844,IL,Cook IL, , ,"Barrington village, IL",2551,0.3418
+17031,8044.06,17,4013,IL,Cook IL, , ,"Bartlett village, IL",1156,0.185
+17031,8045.05,17,4013,IL,Cook IL, , ,"Bartlett village, IL",3740,0.9762
+17031,8045.06,17,4013,IL,Cook IL, , ,"Bartlett village, IL",3126,0.5724
+17031,8045.07,17,4013,IL,Cook IL, , ,"Bartlett village, IL",8285,0.6639
+17031,8045.08,17,4013,IL,Cook IL, , ,"Bartlett village, IL",497,0.2215
+17031,8205.01,17,4572,IL,Cook IL, , ,"Bedford Park village, IL",572,0.0935
+17031,8209.01,17,4572,IL,Cook IL, , ,"Bedford Park village, IL",8,0.0014
+17031,8169.00,17,4975,IL,Cook IL, , ,"Bellwood village, IL",5878,0.9988
+17031,8170.00,17,4975,IL,Cook IL, , ,"Bellwood village, IL",5459,1
+17031,8171.01,17,4975,IL,Cook IL, , ,"Bellwood village, IL",4542,1
+17031,8171.02,17,4975,IL,Cook IL, , ,"Bellwood village, IL",3189,1
+17031,8183.00,17,4975,IL,Cook IL, , ,"Bellwood village, IL",3,0.0005
+17031,8168.00,17,5404,IL,Cook IL, , ,"Berkeley village, IL",5209,0.9704
+17031,8146.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",5723,1
+17031,8147.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",5646,1
+17031,8148.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",6466,1
+17031,8149.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",6181,1
+17031,8150.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",4131,1
+17031,8151.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",4435,1
+17031,8152.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",6967,1
+17031,8153.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",3617,1
+17031,8154.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",5502,1
+17031,8155.00,17,5573,IL,Cook IL, , ,"Berwyn city, IL",7989,1
+17031,8212.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",5003,0.8334
+17031,8213.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",5519,1
+17031,8234.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",4591,0.9087
+17031,8235.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",4545,1
+17031,8236.03,17,6704,IL,Cook IL, , ,"Blue Island city, IL",1359,0.503
+17031,8243.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",1307,0.2715
+17031,8248.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",140,0.0181
+17031,8268.00,17,6704,IL,Cook IL, , ,"Blue Island city, IL",1242,0.2285
+17031,8205.01,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",4733,0.774
+17031,8205.02,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",5150,1
+17031,8206.04,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",109,0.0284
+17031,8209.01,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",3,0.0005
+17031,8210.01,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",321,0.0613
+17031,8229.00,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",1899,0.93
+17031,8237.03,17,8225,IL,Cook IL, , ,"Bridgeview village, IL",4231,0.5329
+17031,8179.00,17,8446,IL,Cook IL, , ,"Broadview village, IL",5408,0.9602
+17031,8180.00,17,8446,IL,Cook IL, , ,"Broadview village, IL",2524,0.5961
+17031,8158.00,17,8576,IL,Cook IL, , ,"Brookfield village, IL",1566,1
+17031,8187.00,17,8576,IL,Cook IL, , ,"Brookfield village, IL",3625,1
+17031,8188.00,17,8576,IL,Cook IL, , ,"Brookfield village, IL",5556,1
+17031,8193.00,17,8576,IL,Cook IL, , ,"Brookfield village, IL",2693,1
+17031,8194.00,17,8576,IL,Cook IL, , ,"Brookfield village, IL",5538,1
+17031,8024.03,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",156,0.1115
+17031,8025.03,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",1662,0.2681
+17031,8030.05,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",632,0.238
+17031,8030.07,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",1790,0.3411
+17031,8030.10,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",2835,0.5456
+17031,8030.12,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",1120,0.5043
+17031,8030.13,17,9447,IL,Cook IL, , ,"Buffalo Grove village, IL",5449,1
+17031,8209.01,17,9642,IL,Cook IL, , ,"Burbank city, IL",4572,0.8041
+17031,8209.02,17,9642,IL,Cook IL, , ,"Burbank city, IL",5017,1
+17031,8210.01,17,9642,IL,Cook IL, , ,"Burbank city, IL",4912,0.9387
+17031,8210.02,17,9642,IL,Cook IL, , ,"Burbank city, IL",5593,1
+17031,8211.01,17,9642,IL,Cook IL, , ,"Burbank city, IL",4784,1
+17031,8211.02,17,9642,IL,Cook IL, , ,"Burbank city, IL",4047,1
+17031,8257.00,17,9798,IL,Cook IL, , ,"Burnham village, IL",4206,1
+17031,8201.01,17,9980,IL,Cook IL, , ,"Burr Ridge village, IL",1383,0.1994
+17031,8202.01,17,9980,IL,Cook IL, , ,"Burr Ridge village, IL",2457,0.3139
+17031,8258.01,17,10487,IL,Cook IL, , ,"Calumet City city, IL",3549,0.9997
+17031,8258.02,17,10487,IL,Cook IL, , ,"Calumet City city, IL",5850,1
+17031,8258.03,17,10487,IL,Cook IL, , ,"Calumet City city, IL",5811,1
+17031,8259.00,17,10487,IL,Cook IL, , ,"Calumet City city, IL",3374,1
+17031,8260.00,17,10487,IL,Cook IL, , ,"Calumet City city, IL",3334,1
+17031,8261.00,17,10487,IL,Cook IL, , ,"Calumet City city, IL",6414,1
+17031,8262.01,17,10487,IL,Cook IL, , ,"Calumet City city, IL",2837,0.7889
+17031,8262.02,17,10487,IL,Cook IL, , ,"Calumet City city, IL",5873,1
+17031,8212.00,17,10513,IL,Cook IL, , ,"Calumet Park village, IL",1000,0.1666
+17031,8214.01,17,10513,IL,Cook IL, , ,"Calumet Park village, IL",3338,1
+17031,8214.02,17,10513,IL,Cook IL, , ,"Calumet Park village, IL",3497,0.9749
+17031,101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4854,1
+17031,102.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",6450,1
+17031,102.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2818,1
+17031,103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6236,1
+17031,104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5042,1
+17031,105.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4091,1
+17031,105.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3101,1
+17031,105.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",2290,1
+17031,106.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6097,1
+17031,107.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3864,1
+17031,107.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5143,1
+17031,201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3965,1
+17031,202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6676,1
+17031,203.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4750,1
+17031,203.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4650,1
+17031,204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4168,1
+17031,205.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6214,1
+17031,206.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",6353,1
+17031,206.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4340,1
+17031,207.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",1704,1
+17031,207.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",7194,1
+17031,208.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5458,1
+17031,208.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",6963,1
+17031,209.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5221,1
+17031,209.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4286,1
+17031,301.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3893,1
+17031,301.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3204,1
+17031,301.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",1928,1
+17031,301.04,17,14000,IL,Cook IL, , ,"Chicago city, IL",3681,1
+17031,302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5369,1
+17031,303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3322,1
+17031,304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2684,1
+17031,305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6395,1
+17031,306.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4012,1
+17031,306.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",2095,1
+17031,306.04,17,14000,IL,Cook IL, , ,"Chicago city, IL",2976,1
+17031,307.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",1549,1
+17031,307.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",1630,1
+17031,307.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",2830,1
+17031,307.06,17,14000,IL,Cook IL, , ,"Chicago city, IL",3599,1
+17031,308.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4326,1
+17031,309.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3028,1
+17031,310.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3656,1
+17031,311.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4402,1
+17031,312.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5648,1
+17031,313.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7076,1
+17031,314.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5150,1
+17031,315.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4083,1
+17031,315.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4354,1
+17031,317.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6570,1
+17031,318.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1820,1
+17031,319.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2304,1
+17031,321.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7052,1
+17031,401.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3985,1
+17031,402.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",6218,1
+17031,402.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",7249,1
+17031,403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3069,1
+17031,404.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3092,1
+17031,404.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4468,1
+17031,406.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2434,1
+17031,407.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3123,1
+17031,408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1514,1
+17031,409.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1950,1
+17031,501.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2290,1
+17031,502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4837,1
+17031,503.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2365,1
+17031,505.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4754,1
+17031,506.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2071,1
+17031,507.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1418,1
+17031,508.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1289,1
+17031,509.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1391,1
+17031,510.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1503,1
+17031,511.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1556,1
+17031,512.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1516,1
+17031,513.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2683,1
+17031,514.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2077,1
+17031,601.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2569,1
+17031,602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2111,1
+17031,603.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2839,1
+17031,604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3370,1
+17031,605.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1309,1
+17031,608.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4837,1
+17031,609.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6867,1
+17031,610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1647,1
+17031,611.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1379,1
+17031,612.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1889,1
+17031,615.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1707,1
+17031,618.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1112,1
+17031,619.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3433,1
+17031,619.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4240,1
+17031,620.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2569,1
+17031,621.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3436,1
+17031,622.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2870,1
+17031,623.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1513,1
+17031,624.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1421,1
+17031,625.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1497,1
+17031,626.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2226,1
+17031,627.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2724,1
+17031,628.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3506,1
+17031,629.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3976,1
+17031,630.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2973,1
+17031,631.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2173,1
+17031,632.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6345,1
+17031,633.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2641,1
+17031,633.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3996,1
+17031,633.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",1201,1
+17031,634.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2180,1
+17031,701.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3796,1
+17031,701.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2413,1
+17031,701.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",1709,1
+17031,702.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3900,1
+17031,703.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3367,1
+17031,704.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2984,1
+17031,705.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2928,1
+17031,706.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2981,1
+17031,707.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3481,1
+17031,710.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4442,1
+17031,711.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2944,1
+17031,712.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1906,1
+17031,713.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3513,1
+17031,714.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4570,1
+17031,715.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5768,1
+17031,716.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1783,1
+17031,717.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1652,1
+17031,718.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2646,1
+17031,801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6013,1
+17031,802.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3287,1
+17031,802.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3498,1
+17031,803.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4315,1
+17031,804.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4317,1
+17031,810.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7546,1
+17031,811.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3640,1
+17031,812.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4059,1
+17031,812.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2995,1
+17031,813.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4884,1
+17031,814.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2279,1
+17031,814.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4243,1
+17031,814.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",6229,1
+17031,815.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4379,1
+17031,816.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3545,1
+17031,817.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3102,1
+17031,818.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6866,1
+17031,819.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1053,1
+17031,901.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3405,1
+17031,902.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6477,0.9867
+17031,903.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1305,0.9512
+17031,1001.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5313,1
+17031,1002.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6749,1
+17031,1003.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6177,1
+17031,1004.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3066,1
+17031,1005.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5779,1
+17031,1006.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4832,1
+17031,1007.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4826,1
+17031,1101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5254,1
+17031,1102.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2828,1
+17031,1103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5161,1
+17031,1104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4352,1
+17031,1105.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4639,1
+17031,1105.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3214,1
+17031,1201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4198,1
+17031,1202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4430,1
+17031,1203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6365,1
+17031,1204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3515,1
+17031,1301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5133,1
+17031,1302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1412,1
+17031,1303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5064,1
+17031,1401.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3729,1
+17031,1402.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5965,1
+17031,1403.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2891,1
+17031,1403.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4345,1
+17031,1404.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6805,1
+17031,1405.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3679,1
+17031,1406.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2786,1
+17031,1406.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5397,1
+17031,1407.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2933,1
+17031,1407.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",6187,1
+17031,1408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6825,1
+17031,1502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7540,1
+17031,1503.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7198,1
+17031,1504.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4793,1
+17031,1504.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3886,1
+17031,1505.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3648,1
+17031,1505.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4205,1
+17031,1506.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4163,1
+17031,1507.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4608,1
+17031,1508.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5280,1
+17031,1510.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2819,1
+17031,1510.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4567,1
+17031,1511.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5458,1
+17031,1512.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3884,1
+17031,1601.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2485,1
+17031,1602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3443,1
+17031,1603.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3785,1
+17031,1604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4768,1
+17031,1605.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4188,1
+17031,1605.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3550,1
+17031,1606.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3490,1
+17031,1606.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3589,1
+17031,1607.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5893,1
+17031,1608.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5148,1
+17031,1609.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2405,1
+17031,1610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1707,1
+17031,1611.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1861,1
+17031,1612.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2930,1
+17031,1613.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4117,1
+17031,1701.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1752,1
+17031,1702.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3892,1
+17031,1703.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5129,1
+17031,1704.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3870,1
+17031,1705.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4980,1
+17031,1706.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2498,1
+17031,1707.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2980,1
+17031,1708.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3721,1
+17031,1709.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1713,1
+17031,1710.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7287,1
+17031,1711.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4110,1
+17031,1801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6156,1
+17031,1901.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2488,1
+17031,1902.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5853,1
+17031,1903.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5794,1
+17031,1904.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4257,1
+17031,1904.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5458,1
+17031,1906.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4545,1
+17031,1906.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5516,1
+17031,1907.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2955,1
+17031,1907.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4869,1
+17031,1908.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6632,1
+17031,1909.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2040,1
+17031,1910.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2559,1
+17031,1911.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7414,1
+17031,1912.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3853,1
+17031,1913.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5397,1
+17031,1913.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5034,1
+17031,2001.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4354,1
+17031,2002.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5427,1
+17031,2003.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2209,1
+17031,2004.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3603,1
+17031,2004.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4396,1
+17031,2101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4028,1
+17031,2104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3035,1
+17031,2105.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3900,1
+17031,2105.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4486,1
+17031,2106.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3104,1
+17031,2106.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4683,1
+17031,2107.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4309,1
+17031,2108.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1196,1
+17031,2109.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3068,1
+17031,2203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2102,1
+17031,2204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2495,1
+17031,2205.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2626,1
+17031,2206.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",1766,1
+17031,2206.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5064,1
+17031,2207.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3437,1
+17031,2207.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4060,1
+17031,2209.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3498,1
+17031,2209.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3371,1
+17031,2210.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2923,1
+17031,2211.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4870,1
+17031,2212.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2860,1
+17031,2213.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3222,1
+17031,2214.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3020,1
+17031,2215.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2829,1
+17031,2216.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2969,1
+17031,2222.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1912,1
+17031,2225.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1410,1
+17031,2226.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1602,1
+17031,2227.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2235,1
+17031,2228.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1074,1
+17031,2229.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1244,1
+17031,2301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1623,1
+17031,2302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2107,1
+17031,2303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1024,1
+17031,2304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2609,1
+17031,2305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3570,1
+17031,2306.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6818,1
+17031,2307.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6364,1
+17031,2308.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1314,1
+17031,2309.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5399,1
+17031,2311.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1236,1
+17031,2312.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6095,1
+17031,2315.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6039,1
+17031,2402.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1452,1
+17031,2403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1317,1
+17031,2405.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2251,1
+17031,2406.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1457,1
+17031,2407.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1535,1
+17031,2408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1617,1
+17031,2409.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1182,1
+17031,2410.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2047,1
+17031,2411.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3682,1
+17031,2412.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1696,1
+17031,2413.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1857,1
+17031,2414.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4595,1
+17031,2415.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2872,1
+17031,2416.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3477,1
+17031,2420.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4565,1
+17031,2421.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3648,1
+17031,2422.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3590,1
+17031,2423.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3240,1
+17031,2424.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2764,1
+17031,2425.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3438,1
+17031,2426.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5831,1
+17031,2427.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2029,1
+17031,2428.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1436,1
+17031,2429.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1670,1
+17031,2430.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2204,1
+17031,2431.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2242,1
+17031,2432.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2170,1
+17031,2433.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2386,1
+17031,2434.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3001,1
+17031,2435.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2937,1
+17031,2502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2669,1
+17031,2503.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4725,1
+17031,2504.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5887,1
+17031,2505.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7538,1
+17031,2506.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4422,1
+17031,2507.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6098,1
+17031,2508.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2488,1
+17031,2510.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1181,1
+17031,2511.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4302,1
+17031,2512.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4196,1
+17031,2513.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4921,1
+17031,2514.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3983,1
+17031,2515.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4784,1
+17031,2516.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3649,1
+17031,2517.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1495,1
+17031,2518.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5112,1
+17031,2519.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5731,1
+17031,2520.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5719,1
+17031,2521.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",1370,1
+17031,2521.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",6438,1
+17031,2522.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",2953,1
+17031,2522.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4609,1
+17031,2601.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1248,1
+17031,2602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1136,1
+17031,2603.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1564,1
+17031,2604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1271,1
+17031,2605.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1934,1
+17031,2606.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2478,1
+17031,2607.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2032,1
+17031,2608.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2539,1
+17031,2609.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1480,1
+17031,2610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2319,1
+17031,2705.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1689,1
+17031,2712.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1170,1
+17031,2713.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1045,1
+17031,2714.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1527,1
+17031,2715.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1397,1
+17031,2718.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",970,1
+17031,2801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4872,1
+17031,2804.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1366,1
+17031,2808.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",755,1
+17031,2809.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",942,1
+17031,2819.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4844,1
+17031,2827.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2349,1
+17031,2828.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1691,1
+17031,2831.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2703,1
+17031,2832.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1664,1
+17031,2838.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3688,1
+17031,2909.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4530,1
+17031,2912.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2240,1
+17031,2916.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1055,1
+17031,2922.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2961,1
+17031,2924.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2268,1
+17031,2925.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4140,1
+17031,3005.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3257,1
+17031,3006.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3212,1
+17031,3007.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5194,1
+17031,3008.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4610,1
+17031,3009.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5050,1
+17031,3011.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2617,1
+17031,3012.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4012,1
+17031,3016.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4654,1
+17031,3017.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4381,1
+17031,3017.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4045,1
+17031,3018.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4005,1
+17031,3018.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3518,1
+17031,3018.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",5357,1
+17031,3102.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1336,1
+17031,3103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1697,1
+17031,3104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1332,1
+17031,3105.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1700,1
+17031,3106.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5868,1
+17031,3107.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1692,1
+17031,3108.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4516,1
+17031,3109.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5123,1
+17031,3201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",10848,1
+17031,3204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2518,1
+17031,3206.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4256,1
+17031,3301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",16735,1
+17031,3302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3806,1
+17031,3403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1786,1
+17031,3404.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1900,1
+17031,3405.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1544,1
+17031,3406.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",907,1
+17031,3501.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2144,1
+17031,3504.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",389,1
+17031,3510.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3267,1
+17031,3511.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1960,1
+17031,3514.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1437,1
+17031,3515.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",255,1
+17031,3602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1443,1
+17031,3801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1924,1
+17031,3802.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1680,1
+17031,3805.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",752,1
+17031,3807.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1243,1
+17031,3812.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2167,1
+17031,3814.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1612,1
+17031,3815.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",237,1
+17031,3818.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1188,1
+17031,3819.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1295,1
+17031,3901.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1268,1
+17031,3902.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1840,1
+17031,3903.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2743,1
+17031,3904.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2934,1
+17031,3905.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1598,1
+17031,3906.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1866,1
+17031,3907.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5592,1
+17031,4003.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1567,1
+17031,4004.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1955,1
+17031,4005.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2258,1
+17031,4008.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2701,1
+17031,4101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1802,1
+17031,4102.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1443,1
+17031,4105.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2557,1
+17031,4106.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2327,1
+17031,4107.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2154,1
+17031,4108.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2662,1
+17031,4109.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2838,1
+17031,4110.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3309,1
+17031,4111.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2132,1
+17031,4112.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1640,1
+17031,4201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1441,1
+17031,4202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1723,1
+17031,4203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2488,1
+17031,4204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1329,1
+17031,4205.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2624,1
+17031,4206.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2219,1
+17031,4207.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3261,1
+17031,4208.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2213,1
+17031,4212.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1380,1
+17031,4301.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3689,1
+17031,4301.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2963,1
+17031,4302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4680,1
+17031,4303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2336,1
+17031,4304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2892,1
+17031,4305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3604,1
+17031,4306.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1665,1
+17031,4307.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2210,1
+17031,4308.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1763,1
+17031,4309.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1814,1
+17031,4312.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3078,1
+17031,4313.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3545,1
+17031,4313.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4166,1
+17031,4314.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6418,1
+17031,4401.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3746,1
+17031,4401.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3127,1
+17031,4402.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5060,1
+17031,4402.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2999,1
+17031,4403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4757,1
+17031,4406.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2080,1
+17031,4407.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1545,1
+17031,4408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1800,1
+17031,4409.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2610,1
+17031,4503.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3615,1
+17031,4601.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3405,1
+17031,4602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2385,1
+17031,4603.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3404,1
+17031,4603.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3803,1
+17031,4604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3705,1
+17031,4605.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5789,1
+17031,4606.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1183,1
+17031,4607.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3314,1
+17031,4610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1496,1
+17031,4701.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2916,1
+17031,4801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2033,1
+17031,4802.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1229,1
+17031,4803.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1468,1
+17031,4804.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5876,1
+17031,4805.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3206,1
+17031,4903.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2033,1
+17031,4904.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1059,1
+17031,4905.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2242,1
+17031,4906.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1562,1
+17031,4907.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3085,1
+17031,4908.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4007,1
+17031,4909.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3891,1
+17031,4909.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5086,1
+17031,4910.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5247,1
+17031,4911.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4514,1
+17031,4912.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2444,1
+17031,4913.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2886,1
+17031,4914.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2931,1
+17031,5001.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3644,1
+17031,5002.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2015,1
+17031,5003.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1666,1
+17031,5101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3530,1
+17031,5102.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2986,1
+17031,5103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5360,1
+17031,5201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2075,1
+17031,5202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3817,1
+17031,5203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6215,1
+17031,5204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4090,1
+17031,5205.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4301,1
+17031,5206.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2544,1
+17031,5301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2371,1
+17031,5302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5152,1
+17031,5303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4273,1
+17031,5304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2223,1
+17031,5305.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5402,1
+17031,5305.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",1667,1
+17031,5305.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",5345,1
+17031,5306.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3207,1
+17031,5401.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",3373,1
+17031,5401.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3109,1
+17031,5501.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6628,1
+17031,5502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2798,1
+17031,5601.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1473,1
+17031,5602.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1721,1
+17031,5603.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3187,1
+17031,5604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1516,1
+17031,5607.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3484,1
+17031,5608.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5411,1
+17031,5609.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5093,1
+17031,5610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5161,1
+17031,5611.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5407,1
+17031,5701.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1257,1
+17031,5702.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1943,1
+17031,5703.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6116,1
+17031,5704.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1615,1
+17031,5705.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2462,1
+17031,5801.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2989,1
+17031,5802.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3515,1
+17031,5803.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2426,1
+17031,5804.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4795,1
+17031,5805.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5067,1
+17031,5805.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5349,1
+17031,5806.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5531,1
+17031,5807.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6137,1
+17031,5808.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2061,1
+17031,5905.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1672,1
+17031,5906.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3564,1
+17031,5907.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3100,1
+17031,6004.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3891,1
+17031,6006.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2738,1
+17031,6007.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2545,1
+17031,6009.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3699,1
+17031,6103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5658,1
+17031,6104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2213,1
+17031,6108.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1393,1
+17031,6110.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1098,1
+17031,6111.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2922,1
+17031,6112.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2824,1
+17031,6113.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3556,1
+17031,6114.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4105,1
+17031,6115.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3567,1
+17031,6116.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1609,1
+17031,6117.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1990,1
+17031,6118.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2139,1
+17031,6119.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2045,1
+17031,6120.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1545,1
+17031,6121.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1470,1
+17031,6201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4289,1
+17031,6202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2223,1
+17031,6203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6399,1
+17031,6204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5198,1
+17031,6301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1156,1
+17031,6302.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1931,1
+17031,6303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5521,1
+17031,6304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7083,1
+17031,6305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6364,1
+17031,6308.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7107,1
+17031,6309.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5363,1
+17031,6401.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1211,1
+17031,6403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6463,1
+17031,6404.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3190,1
+17031,6405.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3491,1
+17031,6406.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3912,1
+17031,6407.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3156,1
+17031,6408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1716,1
+17031,6501.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4816,1
+17031,6502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7320,1
+17031,6503.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5711,1
+17031,6503.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",4344,1
+17031,6504.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6743,1
+17031,6505.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4421,1
+17031,6603.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",1785,1
+17031,6603.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5527,1
+17031,6604.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5960,1
+17031,6605.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5534,1
+17031,6606.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6333,1
+17031,6607.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2366,1
+17031,6608.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5865,1
+17031,6609.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4232,1
+17031,6610.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5706,1
+17031,6611.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6542,1
+17031,6701.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1516,1
+17031,6702.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1380,1
+17031,6703.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1411,1
+17031,6704.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1956,1
+17031,6705.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1321,1
+17031,6706.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1650,1
+17031,6707.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1491,1
+17031,6708.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1635,1
+17031,6709.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1351,1
+17031,6711.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1259,1
+17031,6712.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1252,1
+17031,6713.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2688,1
+17031,6714.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2072,1
+17031,6715.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3221,1
+17031,6716.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2495,1
+17031,6718.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1422,1
+17031,6719.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1378,1
+17031,6720.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3735,1
+17031,6805.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1481,1
+17031,6806.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1431,1
+17031,6809.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4019,1
+17031,6810.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3498,1
+17031,6811.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3517,1
+17031,6812.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2716,1
+17031,6813.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2936,1
+17031,6814.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3247,1
+17031,6903.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2191,1
+17031,6904.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3464,1
+17031,6905.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",877,1
+17031,6909.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4520,1
+17031,6910.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2492,1
+17031,6911.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3266,1
+17031,6912.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2847,1
+17031,6913.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2448,1
+17031,6914.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3611,1
+17031,6915.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1930,1
+17031,7001.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3427,1
+17031,7002.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6609,1
+17031,7003.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5728,1
+17031,7003.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",5319,1
+17031,7004.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5923,1
+17031,7004.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3914,1
+17031,7005.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",7125,1
+17031,7005.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3036,1
+17031,7101.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1275,1
+17031,7102.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5049,1
+17031,7103.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1414,1
+17031,7104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5651,1
+17031,7105.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4123,1
+17031,7106.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1838,1
+17031,7107.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3583,1
+17031,7108.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5338,1
+17031,7109.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2198,1
+17031,7110.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3475,1
+17031,7111.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2835,1
+17031,7112.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5145,1
+17031,7113.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1626,1
+17031,7114.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2654,1
+17031,7115.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2539,1
+17031,7201.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3300,1
+17031,7202.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4016,1
+17031,7203.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3723,1
+17031,7204.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1924,1
+17031,7205.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2166,1
+17031,7206.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1756,1
+17031,7207.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3149,1
+17031,7301.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2424,1
+17031,7302.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",5941,1
+17031,7302.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",3115,1
+17031,7303.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1166,1
+17031,7304.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3514,1
+17031,7305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4388,1
+17031,7306.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3614,1
+17031,7307.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2331,1
+17031,7401.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3048,1
+17031,7402.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6547,1
+17031,7403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4713,1
+17031,7404.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4785,1
+17031,7501.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4147,1
+17031,7502.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3227,1
+17031,7503.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2530,1
+17031,7504.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3009,1
+17031,7505.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5936,1
+17031,7506.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3681,1
+17031,7608.01,17,14000,IL,Cook IL, , ,"Chicago city, IL",4047,1
+17031,7608.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",2276,1
+17031,7608.03,17,14000,IL,Cook IL, , ,"Chicago city, IL",6236,1
+17031,7706.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",1,0.0002
+17031,7709.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",196,0.0557
+17031,8104.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",281,0.0525
+17031,8214.02,17,14000,IL,Cook IL, , ,"Chicago city, IL",11,0.0031
+17031,8233.04,17,14000,IL,Cook IL, , ,"Chicago city, IL",14,0.0024
+17031,8305.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4660,1
+17031,8306.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5005,1
+17031,8307.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4247,1
+17031,8308.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2391,1
+17031,8309.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2877,1
+17031,8310.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2138,1
+17031,8311.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7453,1
+17031,8312.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5021,1
+17031,8313.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1280,1
+17031,8314.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2964,1
+17031,8315.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4079,1
+17031,8316.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7270,1
+17031,8317.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2075,1
+17031,8318.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6322,1
+17031,8319.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2717,1
+17031,8320.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1798,1
+17031,8321.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3297,1
+17031,8322.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2940,1
+17031,8323.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1870,1
+17031,8324.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3181,1
+17031,8325.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3606,1
+17031,8326.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3727,1
+17031,8329.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2212,1
+17031,8330.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2768,1
+17031,8331.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6895,1
+17031,8333.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2278,1
+17031,8339.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2714,1
+17031,8340.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3632,1
+17031,8342.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4944,1
+17031,8343.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6570,1
+17031,8344.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3772,1
+17031,8345.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1475,1
+17031,8346.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3778,1
+17031,8347.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2078,1
+17031,8348.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1953,1
+17031,8349.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2272,1
+17031,8350.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5778,1
+17031,8351.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5369,1
+17031,8352.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2060,1
+17031,8355.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1677,1
+17031,8356.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1199,1
+17031,8358.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1576,1
+17031,8359.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3271,1
+17031,8360.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2177,1
+17031,8361.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1761,1
+17031,8362.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1529,1
+17031,8363.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1288,1
+17031,8364.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2979,1
+17031,8365.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1496,1
+17031,8366.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2997,1
+17031,8367.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2397,1
+17031,8368.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2661,1
+17031,8369.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1442,1
+17031,8370.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2085,1
+17031,8371.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1819,1
+17031,8373.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2483,1
+17031,8374.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2279,1
+17031,8378.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2796,1
+17031,8380.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2561,1
+17031,8381.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1713,1
+17031,8382.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1578,1
+17031,8383.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1631,1
+17031,8386.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1598,1
+17031,8387.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4484,1
+17031,8388.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3233,1
+17031,8390.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7311,1
+17031,8391.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4350,1
+17031,8392.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2545,1
+17031,8395.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1545,1
+17031,8396.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1952,1
+17031,8397.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4326,1
+17031,8398.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2730,1
+17031,8399.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4080,1
+17031,8400.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2695,1
+17031,8401.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2935,1
+17031,8402.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2338,1
+17031,8403.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3950,1
+17031,8404.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3326,1
+17031,8407.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4249,1
+17031,8408.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3716,1
+17031,8410.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",849,1
+17031,8411.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7254,1
+17031,8412.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",5262,1
+17031,8413.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4463,1
+17031,8414.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1559,1
+17031,8415.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2962,1
+17031,8416.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1166,1
+17031,8417.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1442,1
+17031,8418.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2505,1
+17031,8419.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4865,1
+17031,8420.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2744,1
+17031,8421.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",6731,1
+17031,8422.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2603,1
+17031,8423.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3244,1
+17031,8424.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3304,1
+17031,8425.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2451,1
+17031,8426.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",4133,1
+17031,8428.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",7498,1
+17031,8429.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2341,1
+17031,8430.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2378,1
+17031,8431.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1892,1
+17031,8432.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2780,1
+17031,8433.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1228,1
+17031,8434.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",1451,1
+17031,8435.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",11309,1
+17031,8436.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2807,1
+17031,8437.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2117,1
+17031,8438.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",2110,1
+17031,8439.00,17,14000,IL,Cook IL, , ,"Chicago city, IL",3533,1
+17031,8286.01,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",54,0.0129
+17031,8287.01,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",643,0.1579
+17031,8288.01,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",2766,0.5567
+17031,8288.02,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",2871,0.945
+17031,8289.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",3920,1
+17031,8290.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",1327,1
+17031,8291.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",4144,1
+17031,8292.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",5951,1
+17031,8293.01,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",3286,0.8252
+17031,8293.02,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",3845,0.9656
+17031,8294.01,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",1394,1
+17031,8295.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",31,0.0075
+17031,8297.00,17,14026,IL,Cook IL, , ,"Chicago Heights city, IL",89,0.0205
+17031,8224.00,17,14065,IL,Cook IL, , ,"Chicago Ridge village, IL",1698,0.2727
+17031,8230.01,17,14065,IL,Cook IL, , ,"Chicago Ridge village, IL",6443,0.9989
+17031,8230.02,17,14065,IL,Cook IL, , ,"Chicago Ridge village, IL",6077,1
+17031,8231.01,17,14065,IL,Cook IL, , ,"Chicago Ridge village, IL",87,0.0197
+17031,8133.01,17,14351,IL,Cook IL, , ,"Cicero town, IL",3502,1
+17031,8133.02,17,14351,IL,Cook IL, , ,"Cicero town, IL",3934,1
+17031,8134.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",7551,1
+17031,8135.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",6994,1
+17031,8136.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",5334,1
+17031,8137.01,17,14351,IL,Cook IL, , ,"Cicero town, IL",3780,1
+17031,8137.02,17,14351,IL,Cook IL, , ,"Cicero town, IL",4263,1
+17031,8138.01,17,14351,IL,Cook IL, , ,"Cicero town, IL",2893,1
+17031,8138.02,17,14351,IL,Cook IL, , ,"Cicero town, IL",5130,1
+17031,8139.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",6329,1
+17031,8140.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",4746,1
+17031,8141.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",4544,1
+17031,8142.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",7375,1
+17031,8143.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",4884,1
+17031,8144.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",7654,1
+17031,8145.00,17,14351,IL,Cook IL, , ,"Cicero town, IL",4978,1
+17031,8255.01,17,16691,IL,Cook IL, , ,"Country Club Hills city, IL",2191,0.3924
+17031,8255.04,17,16691,IL,Cook IL, , ,"Country Club Hills city, IL",1913,0.5123
+17031,8255.05,17,16691,IL,Cook IL, , ,"Country Club Hills city, IL",5389,0.9754
+17031,8299.01,17,16691,IL,Cook IL, , ,"Country Club Hills city, IL",5885,0.673
+17031,8299.02,17,16691,IL,Cook IL, , ,"Country Club Hills city, IL",1165,0.1837
+17031,8198.02,17,16873,IL,Cook IL, , ,"Countryside city, IL",7,0.0026
+17031,8201.03,17,16873,IL,Cook IL, , ,"Countryside city, IL",1418,0.3531
+17031,8201.04,17,16873,IL,Cook IL, , ,"Countryside city, IL",2542,0.6103
+17031,8202.01,17,16873,IL,Cook IL, , ,"Countryside city, IL",1324,0.1692
+17031,8202.02,17,16873,IL,Cook IL, , ,"Countryside city, IL",604,0.1708
+17031,8236.02,17,17497,IL,Cook IL, , ,"Crestwood village, IL",4472,0.7136
+17031,8236.05,17,17497,IL,Cook IL, , ,"Crestwood village, IL",1,0.0002
+17031,8244.00,17,17497,IL,Cook IL, , ,"Crestwood village, IL",1782,0.7691
+17031,8245.03,17,17497,IL,Cook IL, , ,"Crestwood village, IL",4356,0.6463
+17031,8246.01,17,17497,IL,Cook IL, , ,"Crestwood village, IL",338,0.0769
+17031,8247.01,17,17497,IL,Cook IL, , ,"Crestwood village, IL",1,0.0003
+17031,8036.08,17,19083,IL,Cook IL, , ,"Deer Park village, IL",17,0.0023
+17031,8016.01,17,18992,IL,Cook IL, , ,"Deerfield village, IL",172,0.0406
+17031,7705.00,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",5,0.0012
+17031,7706.01,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3232,1
+17031,7706.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3434,0.6929
+17031,8027.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",1274,0.2832
+17031,8049.01,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",166,0.025
+17031,8049.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",4197,0.7599
+17031,8051.11,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3962,0.5638
+17031,8051.12,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3558,1
+17031,8059.01,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",1594,0.4158
+17031,8060.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",686,0.0909
+17031,8061.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3973,1
+17031,8061.03,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",5238,1
+17031,8061.04,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",377,0.0896
+17031,8062.01,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",4196,1
+17031,8062.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",4550,1
+17031,8063.00,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",4960,1
+17031,8064.00,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",2494,1
+17031,8065.01,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",2773,1
+17031,8065.02,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",4205,1
+17031,8066.00,17,19642,IL,Cook IL, , ,"Des Plaines city, IL",3490,1
+17031,8268.00,17,20149,IL,Cook IL, , ,"Dixmoor village, IL",3644,0.6703
+17031,8258.01,17,20292,IL,Cook IL, , ,"Dolton village, IL",1,0.0003
+17031,8262.01,17,20292,IL,Cook IL, , ,"Dolton village, IL",587,0.1632
+17031,8263.01,17,20292,IL,Cook IL, , ,"Dolton village, IL",1742,0.4403
+17031,8263.03,17,20292,IL,Cook IL, , ,"Dolton village, IL",2480,0.5959
+17031,8263.04,17,20292,IL,Cook IL, , ,"Dolton village, IL",3203,1
+17031,8264.01,17,20292,IL,Cook IL, , ,"Dolton village, IL",4072,1
+17031,8264.02,17,20292,IL,Cook IL, , ,"Dolton village, IL",5132,1
+17031,8265.00,17,20292,IL,Cook IL, , ,"Dolton village, IL",5936,1
+17031,8284.01,17,21904,IL,Cook IL, , ,"East Hazel Crest village, IL",381,0.1046
+17031,8284.02,17,21904,IL,Cook IL, , ,"East Hazel Crest village, IL",1162,0.3024
+17031,8043.11,17,23074,IL,Cook IL, , ,"Elgin city, IL",3524,0.4325
+17031,8044.03,17,23074,IL,Cook IL, , ,"Elgin city, IL",5159,0.7632
+17031,8044.04,17,23074,IL,Cook IL, , ,"Elgin city, IL",5181,0.9901
+17031,8044.05,17,23074,IL,Cook IL, , ,"Elgin city, IL",3632,0.9814
+17031,8044.06,17,23074,IL,Cook IL, , ,"Elgin city, IL",5091,0.815
+17031,8045.07,17,23074,IL,Cook IL, , ,"Elgin city, IL",1453,0.1164
+17031,7702.01,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",5819,0.9873
+17031,7702.02,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",4906,0.9988
+17031,7703.00,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",6873,0.9398
+17031,7704.00,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",4489,0.9964
+17031,7705.00,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",242,0.0593
+17031,8046.06,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",6467,0.9085
+17031,8046.07,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",3916,0.5555
+17031,8046.10,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",640,0.2759
+17031,8051.11,17,23256,IL,Cook IL, , ,"Elk Grove Village village, IL",1,0.0001
+17031,8107.01,17,23724,IL,Cook IL, , ,"Elmwood Park village, IL",4916,1
+17031,8107.02,17,23724,IL,Cook IL, , ,"Elmwood Park village, IL",3918,1
+17031,8108.00,17,23724,IL,Cook IL, , ,"Elmwood Park village, IL",5324,1
+17031,8109.00,17,23724,IL,Cook IL, , ,"Elmwood Park village, IL",6429,1
+17031,8110.00,17,23724,IL,Cook IL, , ,"Elmwood Park village, IL",4296,1
+17031,8087.02,17,24582,IL,Cook IL, , ,"Evanston city, IL",5504,1
+17031,8088.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3955,1
+17031,8089.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",4101,1
+17031,8090.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3976,1
+17031,8091.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3387,1
+17031,8092.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",4611,1
+17031,8093.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",4816,1
+17031,8094.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",5804,1
+17031,8095.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3670,1
+17031,8096.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3301,1
+17031,8097.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",3649,1
+17031,8098.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",2717,1
+17031,8099.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",2855,1
+17031,8100.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",4896,1
+17031,8101.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",4253,1
+17031,8102.00,17,24582,IL,Cook IL, , ,"Evanston city, IL",5739,1
+17031,8103.01,17,24582,IL,Cook IL, , ,"Evanston city, IL",4002,1
+17031,8103.02,17,24582,IL,Cook IL, , ,"Evanston city, IL",3250,1
+17031,8216.00,17,24634,IL,Cook IL, , ,"Evergreen Park village, IL",4393,1
+17031,8217.00,17,24634,IL,Cook IL, , ,"Evergreen Park village, IL",4889,1
+17031,8218.00,17,24634,IL,Cook IL, , ,"Evergreen Park village, IL",5337,1
+17031,8219.00,17,24634,IL,Cook IL, , ,"Evergreen Park village, IL",5233,1
+17031,8286.01,17,26571,IL,Cook IL, , ,"Flossmoor village, IL",2,0.0005
+17031,8288.01,17,26571,IL,Cook IL, , ,"Flossmoor village, IL",2203,0.4433
+17031,8298.00,17,26571,IL,Cook IL, , ,"Flossmoor village, IL",4814,0.7059
+17031,8299.02,17,26571,IL,Cook IL, , ,"Flossmoor village, IL",2445,0.3855
+17031,8285.03,17,26710,IL,Cook IL, , ,"Ford Heights village, IL",17,0.0037
+17031,8285.06,17,26710,IL,Cook IL, , ,"Ford Heights village, IL",2,0.0002
+17031,8297.00,17,26710,IL,Cook IL, , ,"Ford Heights village, IL",2744,0.6309
+17031,8159.00,17,26935,IL,Cook IL, , ,"Forest Park village, IL",4392,1
+17031,8160.00,17,26935,IL,Cook IL, , ,"Forest Park village, IL",3330,1
+17031,8161.00,17,26935,IL,Cook IL, , ,"Forest Park village, IL",6445,1
+17031,8208.00,17,26987,IL,Cook IL, , ,"Forest View village, IL",698,0.1925
+17031,8112.00,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",1563,0.2966
+17031,8113.02,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",19,0.005
+17031,8114.01,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",4842,1
+17031,8114.02,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",4315,0.9734
+17031,8115.00,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",5895,1
+17031,8117.01,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",1573,0.4077
+17031,8117.02,17,27702,IL,Cook IL, , ,"Franklin Park village, IL",126,0.0246
+17031,8001.00,17,29652,IL,Cook IL, , ,"Glencoe village, IL",2411,0.9967
+17031,8002.00,17,29652,IL,Cook IL, , ,"Glencoe village, IL",6312,1
+17031,8009.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",70,0.0159
+17031,8014.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",2832,0.9702
+17031,8016.03,17,29938,IL,Cook IL, , ,"Glenview village, IL",2102,0.5453
+17031,8016.06,17,29938,IL,Cook IL, , ,"Glenview village, IL",9,0.0015
+17031,8016.07,17,29938,IL,Cook IL, , ,"Glenview village, IL",4233,0.8006
+17031,8016.08,17,29938,IL,Cook IL, , ,"Glenview village, IL",2833,0.4316
+17031,8019.01,17,29938,IL,Cook IL, , ,"Glenview village, IL",4369,1
+17031,8019.02,17,29938,IL,Cook IL, , ,"Glenview village, IL",2879,0.8933
+17031,8020.02,17,29938,IL,Cook IL, , ,"Glenview village, IL",3159,0.623
+17031,8020.03,17,29938,IL,Cook IL, , ,"Glenview village, IL",2622,0.9769
+17031,8020.04,17,29938,IL,Cook IL, , ,"Glenview village, IL",1061,0.1972
+17031,8021.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",3573,1
+17031,8022.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",4410,1
+17031,8023.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",4832,0.9983
+17031,8052.01,17,29938,IL,Cook IL, , ,"Glenview village, IL",1655,0.4859
+17031,8052.02,17,29938,IL,Cook IL, , ,"Glenview village, IL",2549,0.6328
+17031,8060.01,17,29938,IL,Cook IL, , ,"Glenview village, IL",1,0.0002
+17031,8086.00,17,29938,IL,Cook IL, , ,"Glenview village, IL",1515,0.7519
+17031,8283.00,17,30029,IL,Cook IL, , ,"Glenwood village, IL",866,0.2653
+17031,8287.01,17,30029,IL,Cook IL, , ,"Glenwood village, IL",3323,0.8163
+17031,8287.02,17,30029,IL,Cook IL, , ,"Glenwood village, IL",4817,0.9799
+17031,8086.00,17,30328,IL,Cook IL, , ,"Golf village, IL",500,0.2481
+17031,8043.09,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",115,0.0356
+17031,8045.05,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",9,0.0023
+17031,8045.09,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",2061,0.3278
+17031,8045.10,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",6145,1
+17031,8045.11,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",2414,1
+17031,8048.04,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",2866,0.4384
+17031,8048.05,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",2029,0.2936
+17031,8048.06,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",3726,0.9933
+17031,8048.07,17,32746,IL,Cook IL, , ,"Hanover Park village, IL",1271,0.2457
+17031,8248.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",2031,0.2619
+17031,8269.01,17,33383,IL,Cook IL, , ,"Harvey city, IL",1894,1
+17031,8269.02,17,33383,IL,Cook IL, , ,"Harvey city, IL",1643,1
+17031,8270.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",3624,1
+17031,8271.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",2716,1
+17031,8272.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",1220,0.2947
+17031,8273.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",2947,1
+17031,8274.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",3909,0.9095
+17031,8275.00,17,33383,IL,Cook IL, , ,"Harvey city, IL",5298,0.9844
+17031,7709.01,17,33435,IL,Cook IL, , ,"Harwood Heights village, IL",3013,0.6107
+17031,8105.02,17,33435,IL,Cook IL, , ,"Harwood Heights village, IL",885,0.1714
+17031,8106.00,17,33435,IL,Cook IL, , ,"Harwood Heights village, IL",4714,0.9994
+17031,8255.01,17,33695,IL,Cook IL, , ,"Hazel Crest village, IL",3310,0.5929
+17031,8255.03,17,33695,IL,Cook IL, , ,"Hazel Crest village, IL",4431,0.6706
+17031,8255.04,17,33695,IL,Cook IL, , ,"Hazel Crest village, IL",1649,0.4416
+17031,8277.00,17,33695,IL,Cook IL, , ,"Hazel Crest village, IL",2902,1
+17031,8299.02,17,33695,IL,Cook IL, , ,"Hazel Crest village, IL",1808,0.285
+17031,8206.05,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",1196,0.2598
+17031,8206.06,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",737,0.2019
+17031,8237.02,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",336,0.0505
+17031,8237.03,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",3142,0.3957
+17031,8237.04,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",4020,1
+17031,8237.05,17,34514,IL,Cook IL, , ,"Hickory Hills city, IL",4618,1
+17031,8169.00,17,35086,IL,Cook IL, , ,"Hillside village, IL",7,0.0012
+17031,8183.00,17,35086,IL,Cook IL, , ,"Hillside village, IL",5823,0.9995
+17031,8184.01,17,35086,IL,Cook IL, , ,"Hillside village, IL",1729,0.4758
+17031,8184.02,17,35086,IL,Cook IL, , ,"Hillside village, IL",445,0.1459
+17031,8185.00,17,35086,IL,Cook IL, , ,"Hillside village, IL",153,0.0269
+17031,8200.00,17,35307,IL,Cook IL, , ,"Hinsdale village, IL",2158,1
+17031,8201.01,17,35307,IL,Cook IL, , ,"Hinsdale village, IL",69,0.0099
+17031,8202.02,17,35385,IL,Cook IL, , ,"Hodgkins village, IL",1897,0.5365
+17031,8036.03,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",2239,0.3317
+17031,8041.02,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",386,0.0552
+17031,8041.04,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",4612,0.9261
+17031,8041.05,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",3500,0.875
+17031,8042.02,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",2182,0.2924
+17031,8043.05,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",2,0.0003
+17031,8043.11,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",3589,0.4405
+17031,8044.03,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",1468,0.2172
+17031,8046.03,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",745,0.1335
+17031,8046.08,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",1586,0.4188
+17031,8047.01,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",6837,1
+17031,8047.05,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",3976,1
+17031,8047.06,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",1760,0.712
+17031,8047.09,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",5500,0.8449
+17031,8047.10,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",999,0.2297
+17031,8047.11,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",1473,0.1979
+17031,8047.13,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",1556,0.3315
+17031,8047.14,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",2671,0.7675
+17031,8047.15,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",2881,0.8752
+17031,8047.16,17,35411,IL,Cook IL, , ,"Hoffman Estates village, IL",3933,0.7164
+17031,8220.00,17,35866,IL,Cook IL, , ,"Hometown city, IL",4349,1
+17031,8255.03,17,35879,IL,Cook IL, , ,"Homewood village, IL",2177,0.3294
+17031,8284.01,17,35879,IL,Cook IL, , ,"Homewood village, IL",3263,0.8954
+17031,8284.02,17,35879,IL,Cook IL, , ,"Homewood village, IL",2681,0.6976
+17031,8286.01,17,35879,IL,Cook IL, , ,"Homewood village, IL",4062,0.9701
+17031,8286.02,17,35879,IL,Cook IL, , ,"Homewood village, IL",4562,1
+17031,8298.00,17,35879,IL,Cook IL, , ,"Homewood village, IL",2006,0.2941
+17031,8299.02,17,35879,IL,Cook IL, , ,"Homewood village, IL",572,0.0902
+17031,8201.01,17,37257,IL,Cook IL, , ,"Indian Head Park village, IL",3174,0.4575
+17031,8202.01,17,37257,IL,Cook IL, , ,"Indian Head Park village, IL",635,0.0811
+17031,8036.03,17,37608,IL,Cook IL, , ,"Inverness village, IL",3076,0.4556
+17031,8036.08,17,37608,IL,Cook IL, , ,"Inverness village, IL",380,0.0519
+17031,8041.02,17,37608,IL,Cook IL, , ,"Inverness village, IL",1618,0.2314
+17031,8041.04,17,37608,IL,Cook IL, , ,"Inverness village, IL",368,0.0739
+17031,8041.05,17,37608,IL,Cook IL, , ,"Inverness village, IL",269,0.0672
+17031,8042.02,17,37608,IL,Cook IL, , ,"Inverness village, IL",1688,0.2262
+17031,8205.01,17,38830,IL,Cook IL, , ,"Justice village, IL",810,0.1325
+17031,8206.03,17,38830,IL,Cook IL, , ,"Justice village, IL",3745,0.7128
+17031,8206.04,17,38830,IL,Cook IL, , ,"Justice village, IL",3730,0.9716
+17031,8206.05,17,38830,IL,Cook IL, , ,"Justice village, IL",3408,0.7402
+17031,8206.06,17,38830,IL,Cook IL, , ,"Justice village, IL",1233,0.3378
+17031,8005.00,17,39519,IL,Cook IL, , ,"Kenilworth village, IL",113,0.0231
+17031,8006.00,17,39519,IL,Cook IL, , ,"Kenilworth village, IL",2400,1
+17031,8186.00,17,40793,IL,Cook IL, , ,"La Grange Park village, IL",4705,0.9979
+17031,8189.00,17,40793,IL,Cook IL, , ,"La Grange Park village, IL",4299,1
+17031,8190.00,17,40793,IL,Cook IL, , ,"La Grange Park village, IL",4575,0.8941
+17031,8195.00,17,40767,IL,Cook IL, , ,"La Grange village, IL",3212,1
+17031,8196.00,17,40767,IL,Cook IL, , ,"La Grange village, IL",4010,1
+17031,8197.00,17,40767,IL,Cook IL, , ,"La Grange village, IL",5917,1
+17031,8201.03,17,40767,IL,Cook IL, , ,"La Grange village, IL",2411,0.6003
+17031,8279.01,17,42028,IL,Cook IL, , ,"Lansing village, IL",67,0.0257
+17031,8279.02,17,42028,IL,Cook IL, , ,"Lansing village, IL",4524,1
+17031,8280.00,17,42028,IL,Cook IL, , ,"Lansing village, IL",5147,1
+17031,8281.00,17,42028,IL,Cook IL, , ,"Lansing village, IL",4844,1
+17031,8282.01,17,42028,IL,Cook IL, , ,"Lansing village, IL",3917,0.9131
+17031,8282.02,17,42028,IL,Cook IL, , ,"Lansing village, IL",4426,0.9653
+17031,8285.05,17,42028,IL,Cook IL, , ,"Lansing village, IL",5049,0.7855
+17031,8285.06,17,42028,IL,Cook IL, , ,"Lansing village, IL",357,0.0418
+17031,8240.03,17,42795,IL,Cook IL, , ,"Lemont village, IL",6303,0.9948
+17031,8240.04,17,42795,IL,Cook IL, , ,"Lemont village, IL",3089,0.5751
+17031,8240.05,17,42795,IL,Cook IL, , ,"Lemont village, IL",4850,0.8756
+17031,8240.06,17,42795,IL,Cook IL, , ,"Lemont village, IL",1664,0.4303
+17031,8079.00,17,43744,IL,Cook IL, , ,"Lincolnwood village, IL",4074,1
+17031,8080.01,17,43744,IL,Cook IL, , ,"Lincolnwood village, IL",3646,1
+17031,8080.02,17,43744,IL,Cook IL, , ,"Lincolnwood village, IL",4870,1
+17031,8285.03,17,45421,IL,Cook IL, , ,"Lynwood village, IL",269,0.0581
+17031,8285.05,17,45421,IL,Cook IL, , ,"Lynwood village, IL",1174,0.1826
+17031,8285.06,17,45421,IL,Cook IL, , ,"Lynwood village, IL",7619,0.8917
+17031,8157.01,17,45434,IL,Cook IL, , ,"Lyons village, IL",116,0.0295
+17031,8157.02,17,45434,IL,Cook IL, , ,"Lyons village, IL",69,0.0135
+17031,8191.00,17,45434,IL,Cook IL, , ,"Lyons village, IL",4437,0.9747
+17031,8192.00,17,45434,IL,Cook IL, , ,"Lyons village, IL",6107,1
+17031,8248.00,17,47007,IL,Cook IL, , ,"Markham city, IL",12,0.0015
+17031,8249.00,17,47007,IL,Cook IL, , ,"Markham city, IL",3079,1
+17031,8256.00,17,47007,IL,Cook IL, , ,"Markham city, IL",5565,0.989
+17031,8274.00,17,47007,IL,Cook IL, , ,"Markham city, IL",389,0.0905
+17031,8276.00,17,47007,IL,Cook IL, , ,"Markham city, IL",3463,1
+17031,8300.01,17,47540,IL,Cook IL, , ,"Matteson village, IL",854,0.4057
+17031,8300.03,17,47540,IL,Cook IL, , ,"Matteson village, IL",7960,0.9969
+17031,8300.04,17,47540,IL,Cook IL, , ,"Matteson village, IL",6214,0.8591
+17031,8300.06,17,47540,IL,Cook IL, , ,"Matteson village, IL",2464,0.9908
+17031,8301.00,17,47540,IL,Cook IL, , ,"Matteson village, IL",45,0.0134
+17031,8302.01,17,47540,IL,Cook IL, , ,"Matteson village, IL",727,0.1359
+17031,8302.02,17,47540,IL,Cook IL, , ,"Matteson village, IL",745,0.2087
+17031,8172.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",4684,1
+17031,8173.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",2653,1
+17031,8174.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",4204,1
+17031,8175.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",3623,1
+17031,8176.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",3997,1
+17031,8177.00,17,47774,IL,Cook IL, , ,"Maywood village, IL",4929,1
+17031,8202.02,17,45564,IL,Cook IL, , ,"McCook village, IL",228,0.0645
+17031,8113.01,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",84,0.0173
+17031,8113.02,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",2469,0.6535
+17031,8162.00,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",4192,1
+17031,8163.00,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",4800,1
+17031,8164.01,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",5142,1
+17031,8164.02,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",4404,1
+17031,8165.00,17,48242,IL,Cook IL, , ,"Melrose Park village, IL",4320,0.9734
+17031,8233.04,17,48554,IL,Cook IL, , ,"Merrionette Park village, IL",1900,0.3206
+17031,8246.01,17,48892,IL,Cook IL, , ,"Midlothian village, IL",2388,0.5435
+17031,8246.02,17,48892,IL,Cook IL, , ,"Midlothian village, IL",2804,0.4284
+17031,8247.01,17,48892,IL,Cook IL, , ,"Midlothian village, IL",3961,0.9997
+17031,8247.02,17,48892,IL,Cook IL, , ,"Midlothian village, IL",5607,1
+17031,8250.00,17,48892,IL,Cook IL, , ,"Midlothian village, IL",59,0.0116
+17031,8053.01,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",2302,0.6585
+17031,8053.02,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",3602,1
+17031,8083.01,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",5625,1
+17031,8083.02,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",3257,0.8279
+17031,8084.00,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",4411,1
+17031,8085.00,17,50647,IL,Cook IL, , ,"Morton Grove village, IL",4073,1
+17031,8026.05,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",2521,0.3708
+17031,8026.08,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",1457,0.2329
+17031,8026.10,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",1587,0.9179
+17031,8027.01,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",6952,1
+17031,8027.02,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",2436,0.5416
+17031,8028.01,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",551,0.115
+17031,8028.02,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",6594,1
+17031,8049.01,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",6482,0.975
+17031,8049.02,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",1326,0.2401
+17031,8050.01,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",4694,1
+17031,8050.02,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",6146,0.8855
+17031,8051.07,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",2981,0.4615
+17031,8051.08,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",5287,0.7892
+17031,8051.09,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",1713,0.393
+17031,8051.10,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",1105,0.2618
+17031,8051.11,17,51089,IL,Cook IL, , ,"Mount Prospect village, IL",2335,0.3323
+17031,8052.01,17,53000,IL,Cook IL, , ,"Niles village, IL",934,0.2742
+17031,8053.01,17,53000,IL,Cook IL, , ,"Niles village, IL",1194,0.3415
+17031,8054.01,17,53000,IL,Cook IL, , ,"Niles village, IL",3811,0.9922
+17031,8054.02,17,53000,IL,Cook IL, , ,"Niles village, IL",5095,1
+17031,8059.02,17,53000,IL,Cook IL, , ,"Niles village, IL",2312,0.3585
+17031,8060.01,17,53000,IL,Cook IL, , ,"Niles village, IL",1180,0.203
+17031,8060.03,17,53000,IL,Cook IL, , ,"Niles village, IL",833,0.1027
+17031,8060.04,17,53000,IL,Cook IL, , ,"Niles village, IL",5317,0.6992
+17031,8081.00,17,53000,IL,Cook IL, , ,"Niles village, IL",3931,1
+17031,8082.00,17,53000,IL,Cook IL, , ,"Niles village, IL",5196,1
+17031,7709.01,17,53377,IL,Cook IL, , ,"Norridge village, IL",1921,0.3893
+17031,7709.02,17,53377,IL,Cook IL, , ,"Norridge village, IL",3325,0.9443
+17031,8105.01,17,53377,IL,Cook IL, , ,"Norridge village, IL",5047,0.9996
+17031,8105.02,17,53377,IL,Cook IL, , ,"Norridge village, IL",4279,0.8286
+17031,8156.00,17,54144,IL,Cook IL, , ,"North Riverside village, IL",4973,1
+17031,8180.00,17,54144,IL,Cook IL, , ,"North Riverside village, IL",1699,0.4013
+17031,8015.00,17,53481,IL,Cook IL, , ,"Northbrook village, IL",5083,0.8575
+17031,8016.01,17,53481,IL,Cook IL, , ,"Northbrook village, IL",4041,0.9544
+17031,8016.05,17,53481,IL,Cook IL, , ,"Northbrook village, IL",5368,0.9587
+17031,8016.06,17,53481,IL,Cook IL, , ,"Northbrook village, IL",3982,0.6564
+17031,8016.08,17,53481,IL,Cook IL, , ,"Northbrook village, IL",3691,0.5623
+17031,8017.01,17,53481,IL,Cook IL, , ,"Northbrook village, IL",3728,1
+17031,8017.02,17,53481,IL,Cook IL, , ,"Northbrook village, IL",4671,1
+17031,8018.00,17,53481,IL,Cook IL, , ,"Northbrook village, IL",2130,0.3791
+17031,8023.00,17,53481,IL,Cook IL, , ,"Northbrook village, IL",8,0.0017
+17031,8024.02,17,53481,IL,Cook IL, , ,"Northbrook village, IL",478,0.0991
+17031,8008.00,17,53663,IL,Cook IL, , ,"Northfield village, IL",1745,0.791
+17031,8018.00,17,53663,IL,Cook IL, , ,"Northfield village, IL",3450,0.614
+17031,8019.02,17,53663,IL,Cook IL, , ,"Northfield village, IL",225,0.0698
+17031,8113.01,17,53871,IL,Cook IL, , ,"Northlake city, IL",1450,0.2993
+17031,8117.02,17,53871,IL,Cook IL, , ,"Northlake city, IL",2506,0.4891
+17031,8118.00,17,53871,IL,Cook IL, , ,"Northlake city, IL",5399,1
+17031,8167.00,17,53871,IL,Cook IL, , ,"Northlake city, IL",2809,1
+17031,8168.00,17,53871,IL,Cook IL, , ,"Northlake city, IL",159,0.0296
+17031,8184.01,17,54534,IL,Cook IL, , ,"Oak Brook village, IL",7,0.0019
+17031,8245.03,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",171,0.0254
+17031,8245.05,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",6860,0.9987
+17031,8245.06,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",5925,0.7779
+17031,8246.01,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",1505,0.3425
+17031,8246.02,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",3575,0.5462
+17031,8250.00,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",5044,0.9884
+17031,8252.00,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",2002,0.9965
+17031,8253.02,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",2857,0.4552
+17031,8256.00,17,54638,IL,Cook IL, , ,"Oak Forest city, IL",23,0.0041
+17031,8221.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4480,1
+17031,8221.02,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4414,1
+17031,8222.00,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",3703,1
+17031,8223.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",3836,1
+17031,8223.02,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4484,1
+17031,8224.00,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4528,0.7273
+17031,8225.00,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4455,1
+17031,8226.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4470,1
+17031,8226.02,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",7061,1
+17031,8227.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",4181,1
+17031,8227.02,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",3745,1
+17031,8228.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",3345,1
+17031,8228.02,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",3616,1
+17031,8229.00,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",143,0.07
+17031,8230.01,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",7,0.0011
+17031,8232.00,17,54820,IL,Cook IL, , ,"Oak Lawn village, IL",222,0.0455
+17031,8121.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",4560,1
+17031,8122.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3942,1
+17031,8123.01,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3972,1
+17031,8123.02,17,54885,IL,Cook IL, , ,"Oak Park village, IL",2818,1
+17031,8124.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3491,1
+17031,8125.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3375,1
+17031,8126.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3706,1
+17031,8127.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3216,1
+17031,8128.01,17,54885,IL,Cook IL, , ,"Oak Park village, IL",2943,1
+17031,8128.02,17,54885,IL,Cook IL, , ,"Oak Park village, IL",2444,1
+17031,8129.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",4749,1
+17031,8130.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",3873,1
+17031,8131.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",4538,1
+17031,8132.00,17,54885,IL,Cook IL, , ,"Oak Park village, IL",4251,1
+17031,8293.01,17,55938,IL,Cook IL, , ,"Olympia Fields village, IL",517,0.1298
+17031,8300.04,17,55938,IL,Cook IL, , ,"Olympia Fields village, IL",517,0.0715
+17031,8300.05,17,55938,IL,Cook IL, , ,"Olympia Fields village, IL",3954,0.9992
+17031,8241.08,17,56627,IL,Cook IL, , ,"Orland Hills village, IL",6918,0.858
+17031,8241.17,17,56627,IL,Cook IL, , ,"Orland Hills village, IL",60,0.0061
+17031,8241.20,17,56627,IL,Cook IL, , ,"Orland Hills village, IL",171,0.0197
+17031,8238.01,17,56640,IL,Cook IL, , ,"Orland Park village, IL",149,0.0261
+17031,8239.01,17,56640,IL,Cook IL, , ,"Orland Park village, IL",636,0.1807
+17031,8239.03,17,56640,IL,Cook IL, , ,"Orland Park village, IL",843,0.1791
+17031,8241.05,17,56640,IL,Cook IL, , ,"Orland Park village, IL",6837,0.9988
+17031,8241.06,17,56640,IL,Cook IL, , ,"Orland Park village, IL",6689,0.947
+17031,8241.07,17,56640,IL,Cook IL, , ,"Orland Park village, IL",6487,0.9991
+17031,8241.08,17,56640,IL,Cook IL, , ,"Orland Park village, IL",1145,0.142
+17031,8241.13,17,56640,IL,Cook IL, , ,"Orland Park village, IL",3297,0.5024
+17031,8241.14,17,56640,IL,Cook IL, , ,"Orland Park village, IL",4628,0.9828
+17031,8241.15,17,56640,IL,Cook IL, , ,"Orland Park village, IL",3885,0.9911
+17031,8241.16,17,56640,IL,Cook IL, , ,"Orland Park village, IL",4673,0.9905
+17031,8241.19,17,56640,IL,Cook IL, , ,"Orland Park village, IL",5500,0.9692
+17031,8241.20,17,56640,IL,Cook IL, , ,"Orland Park village, IL",7702,0.8873
+17031,8241.21,17,56640,IL,Cook IL, , ,"Orland Park village, IL",751,0.2366
+17031,8245.03,17,56640,IL,Cook IL, , ,"Orland Park village, IL",1926,0.2858
+17031,8245.06,17,56640,IL,Cook IL, , ,"Orland Park village, IL",1566,0.2056
+17031,8030.17,17,57225,IL,Cook IL, , ,"Palatine village, IL",1440,0.2377
+17031,8036.03,17,57225,IL,Cook IL, , ,"Palatine village, IL",1436,0.2127
+17031,8036.04,17,57225,IL,Cook IL, , ,"Palatine village, IL",4314,1
+17031,8036.05,17,57225,IL,Cook IL, , ,"Palatine village, IL",7253,1
+17031,8036.06,17,57225,IL,Cook IL, , ,"Palatine village, IL",7143,0.862
+17031,8036.07,17,57225,IL,Cook IL, , ,"Palatine village, IL",5164,1
+17031,8036.08,17,57225,IL,Cook IL, , ,"Palatine village, IL",4892,0.6678
+17031,8036.10,17,57225,IL,Cook IL, , ,"Palatine village, IL",6917,0.961
+17031,8036.11,17,57225,IL,Cook IL, , ,"Palatine village, IL",6112,1
+17031,8037.01,17,57225,IL,Cook IL, , ,"Palatine village, IL",2705,1
+17031,8037.02,17,57225,IL,Cook IL, , ,"Palatine village, IL",6255,1
+17031,8038.00,17,57225,IL,Cook IL, , ,"Palatine village, IL",4725,1
+17031,8039.01,17,57225,IL,Cook IL, , ,"Palatine village, IL",2997,0.8682
+17031,8041.02,17,57225,IL,Cook IL, , ,"Palatine village, IL",4250,0.6078
+17031,8041.06,17,57225,IL,Cook IL, , ,"Palatine village, IL",2954,0.4206
+17031,8236.02,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",641,0.1023
+17031,8236.04,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",3578,1
+17031,8236.05,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",2398,0.5274
+17031,8238.06,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",3,0.0008
+17031,8239.01,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",300,0.0853
+17031,8239.03,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",1722,0.3658
+17031,8239.04,17,57381,IL,Cook IL, , ,"Palos Heights city, IL",3873,0.9644
+17031,8237.02,17,57394,IL,Cook IL, , ,"Palos Hills city, IL",6314,0.9495
+17031,8237.03,17,57394,IL,Cook IL, , ,"Palos Hills city, IL",567,0.0714
+17031,8238.03,17,57394,IL,Cook IL, , ,"Palos Hills city, IL",6760,1
+17031,8238.05,17,57394,IL,Cook IL, , ,"Palos Hills city, IL",2953,1
+17031,8238.06,17,57394,IL,Cook IL, , ,"Palos Hills city, IL",890,0.2395
+17031,8238.01,17,57407,IL,Cook IL, , ,"Palos Park village, IL",1234,0.2159
+17031,8239.01,17,57407,IL,Cook IL, , ,"Palos Park village, IL",2563,0.7283
+17031,8239.03,17,57407,IL,Cook IL, , ,"Palos Park village, IL",850,0.1806
+17031,8240.04,17,57407,IL,Cook IL, , ,"Palos Park village, IL",200,0.0372
+17031,8294.02,17,57732,IL,Cook IL, , ,"Park Forest village, IL",3336,0.997
+17031,8301.00,17,57732,IL,Cook IL, , ,"Park Forest village, IL",3311,0.9866
+17031,8302.02,17,57732,IL,Cook IL, , ,"Park Forest village, IL",2824,0.7913
+17031,8303.00,17,57732,IL,Cook IL, , ,"Park Forest village, IL",4748,1
+17031,8304.00,17,57732,IL,Cook IL, , ,"Park Forest village, IL",4453,1
+17031,902.00,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",87,0.0133
+17031,903.00,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",67,0.0488
+17031,8055.01,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",3400,1
+17031,8055.02,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",3888,1
+17031,8056.00,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",4511,1
+17031,8057.01,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",5074,1
+17031,8057.02,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",2015,1
+17031,8058.01,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",2400,1
+17031,8058.02,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",4926,1
+17031,8059.01,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",2240,0.5842
+17031,8059.02,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",4137,0.6415
+17031,8060.02,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",7,0.0009
+17031,8060.03,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",585,0.0721
+17031,8060.04,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",146,0.0192
+17031,8104.00,17,57875,IL,Cook IL, , ,"Park Ridge city, IL",3997,0.7471
+17031,8272.00,17,59572,IL,Cook IL, , ,"Phoenix village, IL",1964,0.4744
+17031,8248.00,17,61314,IL,Cook IL, , ,"Posen village, IL",5536,0.7138
+17031,8268.00,17,61314,IL,Cook IL, , ,"Posen village, IL",451,0.083
+17031,8016.03,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",48,0.0125
+17031,8025.05,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",1918,0.2802
+17031,8026.05,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",2275,0.3346
+17031,8026.07,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",1444,1
+17031,8026.08,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",1860,0.2973
+17031,8026.09,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",6699,1
+17031,8026.10,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",137,0.0792
+17031,8029.00,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",234,0.0385
+17031,8030.14,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",362,0.1055
+17031,8030.15,17,62016,IL,Cook IL, , ,"Prospect Heights city, IL",1279,0.2868
+17031,8300.07,17,63706,IL,Cook IL, , ,"Richton Park village, IL",4583,0.9095
+17031,8300.08,17,63706,IL,Cook IL, , ,"Richton Park village, IL",4439,0.9784
+17031,8302.01,17,63706,IL,Cook IL, , ,"Richton Park village, IL",4624,0.8641
+17031,8119.00,17,64304,IL,Cook IL, , ,"River Forest village, IL",5738,1
+17031,8120.00,17,64304,IL,Cook IL, , ,"River Forest village, IL",5434,1
+17031,8111.00,17,64343,IL,Cook IL, , ,"River Grove village, IL",6520,1
+17031,8112.00,17,64343,IL,Cook IL, , ,"River Grove village, IL",3707,0.7034
+17031,8215.00,17,64278,IL,Cook IL, , ,"Riverdale village, IL",2341,1
+17031,8266.00,17,64278,IL,Cook IL, , ,"Riverdale village, IL",5540,1
+17031,8267.00,17,64278,IL,Cook IL, , ,"Riverdale village, IL",5569,1
+17031,8268.00,17,64278,IL,Cook IL, , ,"Riverdale village, IL",99,0.0182
+17031,8157.01,17,64421,IL,Cook IL, , ,"Riverside village, IL",3811,0.9705
+17031,8157.02,17,64421,IL,Cook IL, , ,"Riverside village, IL",4949,0.9651
+17031,8191.00,17,64421,IL,Cook IL, , ,"Riverside village, IL",115,0.0253
+17031,8236.03,17,64616,IL,Cook IL, , ,"Robbins village, IL",1295,0.4793
+17031,8243.00,17,64616,IL,Cook IL, , ,"Robbins village, IL",3507,0.7285
+17031,8244.00,17,64616,IL,Cook IL, , ,"Robbins village, IL",535,0.2309
+17031,8035.00,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",127,0.0218
+17031,8039.01,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",430,0.1246
+17031,8039.02,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",3513,1
+17031,8040.00,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",4587,1
+17031,8041.02,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",383,0.0548
+17031,8041.06,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",4042,0.5755
+17031,8041.08,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",198,0.051
+17031,8041.09,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",1883,0.6372
+17031,8046.03,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",1582,0.2835
+17031,8051.05,17,65338,IL,Cook IL, , ,"Rolling Meadows city, IL",7354,0.9997
+17031,8046.07,17,65806,IL,Cook IL, , ,"Roselle village, IL",3015,0.4277
+17031,8048.03,17,65806,IL,Cook IL, , ,"Roselle village, IL",717,0.133
+17031,7706.02,17,65819,IL,Cook IL, , ,"Rosemont village, IL",1521,0.3069
+17031,7707.00,17,65819,IL,Cook IL, , ,"Rosemont village, IL",2681,1
+17031,8285.03,17,67769,IL,Cook IL, , ,"Sauk Village village, IL",4314,0.9324
+17031,8285.04,17,67769,IL,Cook IL, , ,"Sauk Village village, IL",5777,0.9665
+17031,8285.06,17,67769,IL,Cook IL, , ,"Sauk Village village, IL",9,0.0011
+17031,8297.00,17,67769,IL,Cook IL, , ,"Sauk Village village, IL",406,0.0934
+17031,8041.02,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",355,0.0508
+17031,8041.08,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3669,0.9459
+17031,8043.08,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",2425,0.442
+17031,8046.03,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3154,0.5651
+17031,8046.06,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",533,0.0749
+17031,8046.08,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",2201,0.5812
+17031,8046.09,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",5672,1
+17031,8046.10,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",1680,0.7241
+17031,8046.11,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",4359,1
+17031,8047.06,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",712,0.288
+17031,8047.09,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",1010,0.1551
+17031,8047.10,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3351,0.7703
+17031,8047.11,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",4500,0.6047
+17031,8047.12,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",5392,1
+17031,8047.13,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3138,0.6685
+17031,8047.14,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",809,0.2325
+17031,8047.15,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",411,0.1248
+17031,8047.16,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",1557,0.2836
+17031,8048.03,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3601,0.6678
+17031,8048.04,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3184,0.4871
+17031,8048.05,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",4882,0.7064
+17031,8048.06,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",25,0.0067
+17031,8048.07,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",3901,0.7543
+17031,8048.08,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",2533,1
+17031,8048.09,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",4224,1
+17031,8048.10,17,68003,IL,Cook IL, , ,"Schaumburg village, IL",6949,1
+17031,7708.00,17,68081,IL,Cook IL, , ,"Schiller Park village, IL",5580,0.9996
+17031,8116.00,17,68081,IL,Cook IL, , ,"Schiller Park village, IL",6213,1
+17031,8067.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",4409,1
+17031,8068.01,17,70122,IL,Cook IL, , ,"Skokie village, IL",4225,1
+17031,8068.02,17,70122,IL,Cook IL, , ,"Skokie village, IL",3300,1
+17031,8069.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",4713,1
+17031,8070.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",5736,1
+17031,8071.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",3817,1
+17031,8072.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",5912,1
+17031,8073.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",7191,1
+17031,8074.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",6518,1
+17031,8075.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",3189,1
+17031,8076.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",6540,1
+17031,8077.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",5933,1
+17031,8078.00,17,70122,IL,Cook IL, , ,"Skokie village, IL",2624,1
+17031,8083.02,17,70122,IL,Cook IL, , ,"Skokie village, IL",677,0.1721
+17031,8041.05,17,70564,IL,Cook IL, , ,"South Barrington village, IL",121,0.0302
+17031,8042.01,17,70564,IL,Cook IL, , ,"South Barrington village, IL",3952,0.4835
+17031,8042.02,17,70564,IL,Cook IL, , ,"South Barrington village, IL",498,0.0667
+17031,8295.00,17,70629,IL,Cook IL, , ,"South Chicago Heights village, IL",4105,0.9901
+17031,8297.00,17,70629,IL,Cook IL, , ,"South Chicago Heights village, IL",34,0.0078
+17031,8263.01,17,70850,IL,Cook IL, , ,"South Holland village, IL",2214,0.5597
+17031,8263.03,17,70850,IL,Cook IL, , ,"South Holland village, IL",1682,0.4041
+17031,8272.00,17,70850,IL,Cook IL, , ,"South Holland village, IL",956,0.2309
+17031,8275.00,17,70850,IL,Cook IL, , ,"South Holland village, IL",84,0.0156
+17031,8278.01,17,70850,IL,Cook IL, , ,"South Holland village, IL",4998,1
+17031,8278.02,17,70850,IL,Cook IL, , ,"South Holland village, IL",3385,1
+17031,8278.04,17,70850,IL,Cook IL, , ,"South Holland village, IL",3308,1
+17031,8278.05,17,70850,IL,Cook IL, , ,"South Holland village, IL",2866,1
+17031,8279.01,17,70850,IL,Cook IL, , ,"South Holland village, IL",2533,0.9724
+17031,8283.00,17,70850,IL,Cook IL, , ,"South Holland village, IL",4,0.0012
+17031,8296.00,17,72520,IL,Cook IL, , ,"Steger village, IL",3062,1
+17031,8297.00,17,72520,IL,Cook IL, , ,"Steger village, IL",1041,0.2394
+17031,8207.00,17,72676,IL,Cook IL, , ,"Stickney village, IL",6786,1
+17031,8165.00,17,72923,IL,Cook IL, , ,"Stone Park village, IL",118,0.0266
+17031,8166.00,17,72923,IL,Cook IL, , ,"Stone Park village, IL",4828,1
+17031,8043.05,17,73157,IL,Cook IL, , ,"Streamwood village, IL",7214,0.9997
+17031,8043.06,17,73157,IL,Cook IL, , ,"Streamwood village, IL",5564,1
+17031,8043.08,17,73157,IL,Cook IL, , ,"Streamwood village, IL",3061,0.558
+17031,8043.09,17,73157,IL,Cook IL, , ,"Streamwood village, IL",3115,0.9644
+17031,8043.10,17,73157,IL,Cook IL, , ,"Streamwood village, IL",8836,0.9723
+17031,8045.05,17,73157,IL,Cook IL, , ,"Streamwood village, IL",82,0.0214
+17031,8045.06,17,73157,IL,Cook IL, , ,"Streamwood village, IL",2287,0.4188
+17031,8045.07,17,73157,IL,Cook IL, , ,"Streamwood village, IL",2256,0.1808
+17031,8045.08,17,73157,IL,Cook IL, , ,"Streamwood village, IL",1747,0.7785
+17031,8045.09,17,73157,IL,Cook IL, , ,"Streamwood village, IL",4227,0.6722
+17031,8047.11,17,73157,IL,Cook IL, , ,"Streamwood village, IL",1469,0.1974
+17031,8203.00,17,73638,IL,Cook IL, , ,"Summit village, IL",5353,1
+17031,8204.00,17,73638,IL,Cook IL, , ,"Summit village, IL",5701,1
+17031,8283.00,17,75185,IL,Cook IL, , ,"Thornton village, IL",2338,0.7163
+17031,8241.17,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",9760,0.9891
+17031,8241.21,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",2410,0.7593
+17031,8241.22,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",6422,0.9998
+17031,8241.23,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",7756,1
+17031,8245.07,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",3994,0.9478
+17031,8253.02,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",3046,0.4853
+17031,8253.03,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",3872,1
+17031,8253.04,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",4056,1
+17031,8254.00,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",5162,0.9526
+17031,8299.01,17,75484,IL,Cook IL, , ,"Tinley Park village, IL",2760,0.3156
+17031,8300.07,17,76935,IL,Cook IL, , ,"University Park village, IL",273,0.0542
+17031,8181.00,17,80047,IL,Cook IL, , ,"Westchester village, IL",2318,1
+17031,8182.00,17,80047,IL,Cook IL, , ,"Westchester village, IL",4702,1
+17031,8184.01,17,80047,IL,Cook IL, , ,"Westchester village, IL",1569,0.4318
+17031,8184.02,17,80047,IL,Cook IL, , ,"Westchester village, IL",2606,0.8541
+17031,8185.00,17,80047,IL,Cook IL, , ,"Westchester village, IL",5523,0.972
+17031,8190.00,17,80242,IL,Cook IL, , ,"Western Springs village, IL",542,0.1059
+17031,8198.01,17,80242,IL,Cook IL, , ,"Western Springs village, IL",5278,1
+17031,8198.02,17,80242,IL,Cook IL, , ,"Western Springs village, IL",2529,0.9444
+17031,8199.00,17,80242,IL,Cook IL, , ,"Western Springs village, IL",3398,1
+17031,8201.01,17,80242,IL,Cook IL, , ,"Western Springs village, IL",1228,0.177
+17031,8024.02,17,81087,IL,Cook IL, , ,"Wheeling village, IL",4293,0.8905
+17031,8024.03,17,81087,IL,Cook IL, , ,"Wheeling village, IL",1243,0.8885
+17031,8024.04,17,81087,IL,Cook IL, , ,"Wheeling village, IL",7226,1
+17031,8025.03,17,81087,IL,Cook IL, , ,"Wheeling village, IL",4460,0.7194
+17031,8025.04,17,81087,IL,Cook IL, , ,"Wheeling village, IL",6601,1
+17031,8025.05,17,81087,IL,Cook IL, , ,"Wheeling village, IL",4926,0.7198
+17031,8025.06,17,81087,IL,Cook IL, , ,"Wheeling village, IL",2508,1
+17031,8026.05,17,81087,IL,Cook IL, , ,"Wheeling village, IL",2003,0.2946
+17031,8026.10,17,81087,IL,Cook IL, , ,"Wheeling village, IL",5,0.0029
+17031,8030.14,17,81087,IL,Cook IL, , ,"Wheeling village, IL",3068,0.8945
+17031,8030.15,17,81087,IL,Cook IL, , ,"Wheeling village, IL",1230,0.2758
+17031,8202.01,17,82049,IL,Cook IL, , ,"Willow Springs village, IL",2999,0.3832
+17031,8202.02,17,82049,IL,Cook IL, , ,"Willow Springs village, IL",807,0.2282
+17031,8206.03,17,82049,IL,Cook IL, , ,"Willow Springs village, IL",6,0.0011
+17031,8206.06,17,82049,IL,Cook IL, , ,"Willow Springs village, IL",1680,0.4603
+17031,8238.01,17,82049,IL,Cook IL, , ,"Willow Springs village, IL",170,0.0297
+17031,8007.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",4937,0.9614
+17031,8008.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",145,0.0657
+17031,8009.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",4346,0.9841
+17031,8010.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",4908,1
+17031,8011.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",4715,1
+17031,8012.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",3547,1
+17031,8013.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",4283,1
+17031,8014.00,17,82075,IL,Cook IL, , ,"Wilmette village, IL",87,0.0298
+17031,8019.02,17,82075,IL,Cook IL, , ,"Wilmette village, IL",119,0.0369
+17031,8001.00,17,82530,IL,Cook IL, , ,"Winnetka village, IL",8,0.0033
+17031,8003.00,17,82530,IL,Cook IL, , ,"Winnetka village, IL",3501,1
+17031,8004.00,17,82530,IL,Cook IL, , ,"Winnetka village, IL",3762,1
+17031,8005.00,17,82530,IL,Cook IL, , ,"Winnetka village, IL",4788,0.9769
+17031,8007.00,17,82530,IL,Cook IL, , ,"Winnetka village, IL",128,0.0249
+17031,8231.01,17,83518,IL,Cook IL, , ,"Worth village, IL",4325,0.9803
+17031,8231.02,17,83518,IL,Cook IL, , ,"Worth village, IL",3641,1
+17031,8238.06,17,83518,IL,Cook IL, , ,"Worth village, IL",2823,0.7597

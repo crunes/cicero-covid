@@ -8,3 +8,11 @@
 ```
 classify pct_complete_vax color-scheme=PiYG breaks=0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9 key-style=simple
 ```
+
+
+For essential workers:
+
+1. ```each GEOID=GEOID.toString()```
+2. ```join essential-workers keys=GEOID,GEOID```
+3. ```classify essential colors=Greens breaks=.25,.5,.75```
+4. ```proj merc```

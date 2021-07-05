@@ -35,6 +35,7 @@ all_municipalities.clean <- all_municipalities %>%
          pct_complete_vax = as.numeric(percent_with_complete_vaccine_series)/100,
          pct_first_vax = as.numeric(percent_with_at_least_one_vaccine_dose)/100) %>% 
   filter(date >= as.Date("2021-01-01", "%Y-%m-%d"),
+         date <= as.Date("2021-05-01", "%Y-%m-%d"),
          as.numeric(pct_complete_vax) <= 1)
 
 may_june.clean <- may_june %>% 
@@ -44,9 +45,8 @@ may_june.clean <- may_june %>%
          date = as.Date(str_c(year, month, day, sep="-"), "%Y-%m-%d"),
          pct_complete_vax = as.numeric(percent_with_complete_vaccine_series)/100,
          pct_first_vax = as.numeric(percent_with_at_least_one_vaccine_dose)/100)
-  filter(date > as.Date("2021-05-02", "%Y-%m-%d")) 
+  filter(date > as.Date("2021-05-01", "%Y-%m-%d")) 
   
-
 updated_data <- rbind(all_municipalities.clean, may_june.clean) %>% 
   filter(as.numeric(pct_complete_vax) <= 1)
 
@@ -61,6 +61,19 @@ ggplot(data=updated_data,
   geom_line(data=highlighted, color="#d01c8b", alpha=0.7) +
   xlab("Date") + ylab("Percent of pop. received complete vaccine series") +
   scale_y_continuous(labels = scales::label_percent(accuracy=1), breaks=seq(0, 1, 0.1)) +
+  theme(
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_rect(fill = "white", colour = "white"))
+
+ggplot(data=updated_data %>% filter(city == "Harvey"), 
+       aes(date, pct_complete_vax)) +
+  geom_line(color="#d01c8b") +
+  xlab("Date") + ylab("Percent of pop. received complete vaccine series") +
+  scale_y_continuous(labels = scales::label_percent(accuracy=1), breaks=seq(0, 0.25, 0.05)) +
   theme(
     axis.ticks = element_blank(),
     panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
@@ -128,8 +141,8 @@ ggplot(data=recent_demog,
     panel.border = element_blank(),
     panel.background = element_rect(fill = "white", colour = "white"))
 
-sswFocus <- c("Blue Island", "Calumet City", "Harvey")
-ciceroFocus <- c("Berwyn", "Cicero", "Dolton", "Maywood", "Stickney")
+sswFocus <- c("Blue Island", "Calumet City", "Harvey", "Dolton")
+ciceroFocus <- c("Berwyn", "Cicero", "Maywood", "Stickney")
 
 sswCities <- recent_demog %>% 
   filter(city %in% sswFocus)
@@ -155,3 +168,83 @@ ggplot(data=recent_demog,
 # Look at highlighted and most recent
 highlighted_recent <- most_recent %>% 
   filter(city %in% cities)
+
+# Load CARES Act funding data
+funding <- read_csv(here("data","municipal-funding-total-allocation.csv"),
+         col_types = cols(.default = "c"))
+
+funding.clean <- funding %>% 
+  mutate(city = municipality) %>% 
+  select(-municipality)
+
+funding_vax <- merge(funding.clean, most_recent, by="city") %>% 
+  mutate(final_allocation = as.numeric(gsub('\\$|,', '', final_allocation)))
+  
+# CARES Act funding vs. pct vaccinated
+ggplot(data=funding_vax, 
+       aes(final_allocation, pct_complete_vax)) +
+  geom_point(alpha=0.7) +
+  xlab("CARES Act allocation") + ylab("Percent received complete vaccine series") +
+  scale_y_continuous(labels = scales::label_percent(accuracy=1), breaks=seq(0, 1, 0.1)) +
+  scale_x_continuous(labels = scales::label_dollar(accuracy=1)) +
+  theme(
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_rect(fill = "white", colour = "white"))
+
+# Compare average of other counties to highlighted
+towns_demog <- merge(updated_data, demographics.clean, by="city") %>% 
+  mutate(manual_vaxpct = as.numeric(total_with_complete_vaccine_series) * 100 / as.numeric(TOT_POP))
+
+highlighted_demog <- towns_demog %>% 
+  filter(city %in% cities) %>% 
+  group_by(date) %>% 
+  summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
+
+`%notin%` <- Negate(`%in%`)
+other_demog <- towns_demog %>% 
+  filter(city %notin% cities) %>% 
+  group_by(date) %>% 
+  summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
+
+all_pct <- towns_demog %>% 
+  group_by(date) %>% 
+  summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
+
+# Check visually (highlighted vs non) - maybe bar chart?
+ggplot(data=other_demog, aes(date, as.numeric(avg_pct))) +
+  geom_line(color="black", alpha=0.5) +
+  geom_line(data=highlighted_demog, color="#d01c8b") +
+  geom_line(data=all_pct, color="green") +
+  xlab("Date") + ylab("Percent of pop. received complete vaccine") +
+  scale_y_continuous(labels = scales::label_percent(accuracy=1), breaks=seq(0, 1, 0.1)) +
+  theme(
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_rect(fill = "white", colour = "white"))   
+
+# Look just at the gap
+diff_vax <- other_demog %>% 
+  rename(avg_pct_other = avg_pct) %>% 
+  cbind(highlighted_demog %>% select(-date)) %>% 
+  rename(avg_pct_highlighted = avg_pct) %>% 
+  mutate(diff = avg_pct_other - avg_pct_highlighted) 
+
+# Check visually (highlighted vs non)
+ggplot(data=diff_vax, aes(date, diff)) +
+  geom_line(color="black", alpha=0.5) +
+  xlab("Date") + ylab("Percent of pop. received complete vaccine") +
+  scale_y_continuous(labels = scales::label_percent(accuracy=1), breaks=seq(0, .1, 0.01)) +
+  theme(
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_line(size=0.5, linetype="dotted", colour ="lightgrey"),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_rect(fill = "white", colour = "white"))   
