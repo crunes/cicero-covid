@@ -27,7 +27,6 @@ function ready(res) {
         .rotate([88 + 20 / 60, -36 - 40 / 60])
         .fitSize([width, height], municipality);
 
-    //path function
     let path = d3.geoPath()
         .projection(myProjection)
 
@@ -36,7 +35,6 @@ function ready(res) {
       // .range(['#c51b7d','#de77ae','#f1b6da','#fde0ef','#f7f7f7','#e6f5d0','#b8e186','#7fbc41','#4d9221'])
       .range(['#8e0152','#c51b7d','#de77ae','#f1b6da','#fde0ef','#e6f5d0','#b8e186','#7fbc41','#4d9221','#276419'])
 
-    // Color in counties
     let municipalities = svg.append("g")
       .selectAll(".municipality")
       .data(municipality.features)
