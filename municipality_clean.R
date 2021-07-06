@@ -201,12 +201,14 @@ towns_demog <- merge(updated_data, demographics.clean, by="city") %>%
 
 highlighted_demog <- towns_demog %>% 
   filter(city %in% cities) %>% 
+  #filter(city %in% c("Blue Island", "Calumet City", "Harvey", "Dolton")) %>% 
   group_by(date) %>% 
   summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
 
 `%notin%` <- Negate(`%in%`)
 other_demog <- towns_demog %>% 
   filter(city %notin% cities) %>% 
+  #filter(city %notin% c("Blue Island", "Calumet City", "Harvey", "Dolton")) %>% 
   group_by(date) %>% 
   summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
 
@@ -235,6 +237,12 @@ diff_vax <- other_demog %>%
   cbind(highlighted_demog %>% select(-date)) %>% 
   rename(avg_pct_highlighted = avg_pct) %>% 
   mutate(diff = avg_pct_other - avg_pct_highlighted) 
+
+diff_vax_js <- other_demog %>% 
+  mutate(group = "Other") %>% 
+  rbind(highlighted_demog %>% mutate(group = "Highlighted"))
+
+write.csv(diff_vax_js, './data/diff_vax.csv', row.names = FALSE)
 
 # Check visually (highlighted vs non)
 ggplot(data=diff_vax, aes(date, diff)) +
