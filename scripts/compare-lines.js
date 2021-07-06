@@ -80,8 +80,20 @@ d3.csv("data/vax_rates.csv").then(function (data) {
           return "#eeee"
         }
       })
-      .style("stroke-width", "1px")
-      .style("stroke-opacity", "0.1px")
+      .style("stroke-width", function(d) {
+        if (d[0] == "Harvey" | d[0] == "Wilmette") {
+          return "2px"
+        } else {
+          return "1px"
+        }
+      })
+      .style("stroke-opacity", function(d) {
+        if (d[0] == "Harvey" | d[0] == "Wilmette") {
+          return 1
+        } else {
+          return 0.5
+        }
+      })
 
       let harveyLabel = svg.append("text")
         .attr("text-anchor", "left")
@@ -97,7 +109,7 @@ d3.csv("data/vax_rates.csv").then(function (data) {
         .attr("text-anchor", "left")
         .attr("id", "wilmetteLabel")
         .attr("x", 800)
-        .attr("y", 210)
+        .attr("y", 200)
         .style("fill", "#4d9221")
         .style("font-size", "14px")
         .style("font-weight", "bold")

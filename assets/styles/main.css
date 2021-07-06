@@ -5,7 +5,7 @@ body {
 }
 
 .chart-container {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'News Cycle', sans-serif;
   align-items: center;
 }
 
@@ -52,7 +52,7 @@ p.source {
 }
 
 .filler h2, #hed {
-  font-family: 'Baskervville', serif;
+  font-family: 'Lusitana', serif;
   font-weight: 400;
   font-size: 48px;
   margin-bottom: 0;
@@ -60,7 +60,7 @@ p.source {
 }
 
 .filler h4 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'News Cycle', sans-serif;
   font-weight: 400;
   font-size: 18px;
   margin: 3rem auto 1rem auto;
@@ -69,7 +69,7 @@ p.source {
 }
 
 .filler p {
-  font-family: 'Baskervville', serif;
+  font-family: 'Lusitana', serif;
   font-size: 16px;
   text-align: justify;
   margin: 20px auto;
@@ -102,7 +102,7 @@ hr {
 }
 
 p.axis-label {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'News Cycle', sans-serif;
   font-size: 14px;
   max-width: 60rem;
   text-align: left;
@@ -122,7 +122,7 @@ p.chart-label {
 }
 
 #scrolly-overlay .scrolly {
-    font-family: 'Baskervville', serif;
+    font-family: 'Lusitana', serif;
     font-size: 18px;
     max-width: 60rem;
     margin: 1rem auto;
@@ -190,11 +190,13 @@ p.chart-label {
 
 .y .tick text {
     font-size: 14px;
+    font-family:'News Cycle', sans-serif;
     fill: #aaa;
 }
 
 .x .tick text {
     font-size: 14px;
+    font-family:'News Cycle', sans-serif;
     fill: #aaa;
 }
 
