@@ -239,7 +239,7 @@ a {
   .filler h2, #hed {
     font-family: 'Lusitana', serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     margin: 1rem auto 1rem auto;
     text-align: center;
   }
@@ -247,19 +247,19 @@ a {
   .filler h4 {
     font-family: 'Lusitana', sans-serif;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 24px;
     margin: 1rem auto 1rem auto;
     line-height: 1.5;
-    max-width: 600px;
+    max-width: 80%;
   }
 
   .filler p {
     font-family: 'Lusitana', serif;
-    font-size: 14px;
+    font-size: 16px;
     text-align: justify;
     margin: 0 auto;
     line-height: 1.5;
-    max-width: 600px;
+    max-width: 80%;
     color: #161616;
   }
 
@@ -268,7 +268,7 @@ a {
     font-family: 'News Cycle', sans-serif;
     text-transform: uppercase;
     color: #dd3333;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
   }
 
@@ -281,7 +281,7 @@ a {
     font-family: 'News Cycle', sans-serif;
     text-transform: uppercase;
     color: #999999;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .spacer {
