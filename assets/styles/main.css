@@ -98,6 +98,7 @@ img {
 }
 
 hr {
+  color: #eee;
   max-width: 800px;
 }
 
@@ -105,10 +106,6 @@ hr {
   max-width: 30%;
   display: block;
   margin: 2rem auto;
-}
-
-hr {
-  color: #eee;
 }
 
 p.axis-label {
@@ -210,23 +207,6 @@ p.chart-label {
     fill: #aaa;
 }
 
-.pop-up {
-  position: absolute;
-  border: 1px solid black;
-  border-radius: 1px;
-  line-height: 1.2;
-  width: 200px;
-  /* height: 100px; */
-  pointer-events: none;
-  background-color: white;
-  padding: 10px;
+@media (max-width: 768px) {
+	
 }
-
-.topo path {
-  stroke: #fff;
-  stroke-width: .5px;
-  transition: fill 0.2s ease;
-}
-
-.topo path:hover {
-  fill: #ff6961;

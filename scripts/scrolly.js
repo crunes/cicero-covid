@@ -350,6 +350,16 @@ d3.csv('data/vax_rates.csv')
       .style("stroke", "#aaa")
       .style("stroke-width", "2px")
 
+    let credit = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "credit")
+      .attr("x", 0)
+      .attr("y", 550)
+      .style("fill", "#777")
+      .style("font-size", "12px")
+      .style("font-weight", "400")
+      .text("Source: Public records requests to Cook County Department of Public Health. Data visualization by Charmaine Runes")
+
     updateChart("-1") // Remove most labels to start
 
   })

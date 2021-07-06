@@ -13,7 +13,7 @@ d3.csv("data/vax_rates.csv").then(function (data) {
 
     let width = 800;
     let height = 500;
-    let margin = { top: 30, right: 0, bottom: 10, left: 00 };
+    let margin = { top: 40, right: 0, bottom: 10, left: 00 };
     let svg = d3.select("body").select("#wilmette-harvey")
 
     let x = d3.scaleTime()
@@ -77,7 +77,7 @@ d3.csv("data/vax_rates.csv").then(function (data) {
         } else if (d[0] == "Wilmette") {
           return "#4d9221"
         } else {
-          return "#eeee"
+          return "#ddd"
         }
       })
       .style("stroke-width", function(d) {
@@ -98,7 +98,7 @@ d3.csv("data/vax_rates.csv").then(function (data) {
       let harveyLabel = svg.append("text")
         .attr("text-anchor", "left")
         .attr("id", "harveyLabel")
-        .attr("x", 800)
+        .attr("x", 805)
         .attr("y", 400)
         .style("fill", "#c51b7d")
         .style("font-size", "14px")
@@ -108,11 +108,41 @@ d3.csv("data/vax_rates.csv").then(function (data) {
       let wilmetteLabel = svg.append("text")
         .attr("text-anchor", "left")
         .attr("id", "wilmetteLabel")
-        .attr("x", 800)
-        .attr("y", 200)
+        .attr("x", 805)
+        .attr("y", 210)
         .style("fill", "#4d9221")
         .style("font-size", "14px")
         .style("font-weight", "bold")
         .text("Wilmette")
+
+      let credit = svg.append("text")
+        .attr("text-anchor", "left")
+        .attr("id", "credit")
+        .attr("x", 0)
+        .attr("y", 550)
+        .style("fill", "#777")
+        .style("font-size", "12px")
+        .style("font-weight", "400")
+        .text("Source: Public records requests to Cook County Department of Public Health. Data visualization by Charmaine Runes")
+
+      let title = svg.append("text")
+        .attr("text-anchor", "left")
+        .attr("id", "title")
+        .attr("x", 0)
+        .attr("y", 0)
+        .style("fill", "#555555")
+        .style("font-size", "18px")
+        .style("font-weight", "bold")
+        .text("Despite similar population sizes, Wilmette and Harvey have significantly different vaccination rates")
+
+      let subtitle = svg.append("text")
+        .attr("text-anchor", "left")
+        .attr("id", "subtitle")
+        .attr("x", 0)
+        .attr("y", 20)
+        .style("fill", "#555555")
+        .style("font-size", "14px")
+        .style("font-weight", "regular")
+        .text("Percent of residents fully vaccinated, by municipality")
 
   })

@@ -13,7 +13,7 @@ d3.csv("data/diff_vax.csv").then(function (data) {
 
     let width = 800;
     let height = 500;
-    let margin = { top: 30, right: 0, bottom: 10, left: 00 };
+    let margin = { top: 40, right: 0, bottom: 10, left: 00 };
     let svg = d3.select("body").select("#compare-avgs")
 
     let x = d3.scaleTime()
@@ -104,10 +104,10 @@ d3.csv("data/diff_vax.csv").then(function (data) {
     let gapSizeLabel = svg.append("text")
       .attr("id", "gapSizeLabel")
       .attr("text-anchor", "left")
-      .attr("x", 780)
-      .attr("y", 150)
+      .attr("x", 800)
+      .attr("y", 155)
       .style("fill", "lightgrey")
-      .style("font-size", "75px")
+      .style("font-size", "70px")
       .style("font-weight", "100")
       .style("opacity", 0.7)
       .text("}")
@@ -115,11 +115,41 @@ d3.csv("data/diff_vax.csv").then(function (data) {
     let gapTextLabel = svg.append("text")
       .attr("id", "gapTextLabel")
       .attr("text-anchor", "left")
-      .attr("x", 810)
-      .attr("y", 130)
+      .attr("x", 830)
+      .attr("y", 135)
       .style("fill", "black")
       .style("font-size", "14px")
       .style("font-weight", "100")
       .text("Gap")
+
+    let credit = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "credit")
+      .attr("x", 0)
+      .attr("y", 550)
+      .style("fill", "#777")
+      .style("font-size", "12px")
+      .style("font-weight", "400")
+      .text("Source: Public records requests to Cook County Department of Public Health. Data visualization by Charmaine Runes")
+
+    let title = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "title")
+      .attr("x", 0)
+      .attr("y", 0)
+      .style("fill", "#555555")
+      .style("font-size", "18px")
+      .style("font-weight", "bold")
+      .text("Vaccine disparity between Black and brown suburbs and the rest of suburban Cook County remains")
+
+    let subtitle = svg.append("text")
+      .attr("text-anchor", "left")
+      .attr("id", "subtitle")
+      .attr("x", 0)
+      .attr("y", 20)
+      .style("fill", "#555555")
+      .style("font-size", "14px")
+      .style("font-weight", "regular")
+      .text("Percent of residents fully vaccinated")
 
   })
