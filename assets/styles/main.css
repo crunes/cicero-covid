@@ -20,18 +20,6 @@ svg {
     transform: translateX(-20%);
 }
 
-.pop-up {
-    position: absolute;
-    border: 1px solid black;
-    border-radius: 1px;
-    line-height: 1.2;
-    width: 200px;
-    pointer-events: none;
-    background-color: white;
-    padding: 10px;
-    opacity: 0;
-}
-
 .spacer {
     height: 50px;
 }
@@ -235,7 +223,6 @@ a {
 }
 
 @media (max-width: 768px) {
-
   .filler h2, #hed {
     font-family: 'Lusitana', serif;
     font-weight: 400;
@@ -287,5 +274,4 @@ a {
   .spacer {
     height: 10px;
   }
-
 }
