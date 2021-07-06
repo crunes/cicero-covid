@@ -60,7 +60,7 @@ p.source {
 }
 
 .filler h4 {
-  font-family: 'News Cycle', sans-serif;
+  font-family: 'Lusitana', sans-serif;
   font-weight: 400;
   font-size: 18px;
   margin: 1rem auto 1rem auto;
@@ -117,6 +117,11 @@ p.axis-label {
 
 p.byline {
   text-align: center;
+  font-family: 'News Cycle', sans-serif;
+  text-transform: uppercase;
+  color: #dd3333;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 p.title {
@@ -129,6 +134,14 @@ p.title {
   margin: 1.5rem auto;
 }
 
+p.date {
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+  text-transform: uppercase;
+  color: #999999;
+  font-size: 16px;
+}
+
 p.dek {
   color: #888;
   text-align: center;
@@ -136,6 +149,10 @@ p.dek {
 
 p.chart-label {
   color: #696969;
+}
+
+a {
+  color: #dd3333;
 }
 
 #scrolly-overlay .scrolly {
