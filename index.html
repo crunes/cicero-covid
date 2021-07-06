@@ -38,7 +38,6 @@
 
 					<figure class="sticky">
 				    <div class="chart-container">
-							<p class="axis-label">Percent with complete vaccine series</p>
 				        <svg id="line-chart" width="800px" height="500px" alt="A line chart showing percent fully vaccinated over time that changes when triggered by a scroll. The first iteration shows a grey horizontal line at 49 percent, labeled 'Suburban Cook County average (June 13)'. The second iteration adds multiple slightly transparent grey lines to the chart, representing different municipalities. Two lines stand out: one is in green, labeled 'Wilmette', and the other is in pink, labeled 'Harvey'. The pink line representing Harvey is always below the one representing Wilmette. In the third iteration, the line representing Wilmette disappears and more pink lines and labels appear close to Harvey. These represent Cicero, Calumet City, Blue Island, Berwyn, Maywood, and Dolton."></svg>
 				    </div>
 					</figure>
@@ -133,6 +132,7 @@
 
 			<div class="spacer"></div>
 
+			<p class="title">Many Black and brown suburbs have higher percentage of residents as essential workers, lower vaccination rates</p>
 			<div class="grid">
 				<img id="essential-workers-map" src="assets/images/tracts_town_overlay.svg" alt="A choropleth map of suburban Cook County in three shades of green showing where essential workers live: darker shades of green mean higher percent of residents are essential workers. There are seven labels with black text and black dots, highlighting Berwyn, Blue Island, Calumet City, Cicero, Dolton, Harvey, and Maywood."></img>
 				<img id="vaccinations" src="assets/images/vax.png" alt="A choropleth map of suburban Cook County in a diverging color scale from pink to green. This map shows the percent of residents that are fully vaccinated."></img>
@@ -198,25 +198,14 @@
 			</i>
 		</p>
 
+		<!-- add links to other two stories here -->
+
 		<div class="spacer"></div>
-
-		<!-- <div class="spacer"></div>
-
-		<section class="chart-container">
-			<p class="legend-title">Percent of suburban Cook County residents with complete vaccine series, as of June 13</p>
-			<img id="legend" src='assets/images/key_with_NA.svg'>
-			<svg id="interactive-map" width="1050px" height="500px"></svg>
-			<div class="pop-up"></div>
-			<p class="source">
-				Source: Public record requests to the Cook County Department of Public Health
-			</p>
-		</section> -->
 
   </body>
 
 	<script src="scripts/scrolly.js"></script>
 	<script src="scripts/line-chart.js"></script>
 	<script src="scripts/compare-lines.js"></script>
-	<!-- <script src="scripts/map.js"></script> -->
 
 </html>

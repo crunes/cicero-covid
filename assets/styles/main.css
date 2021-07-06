@@ -119,6 +119,16 @@ p.byline {
   text-align: center;
 }
 
+p.title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #555555;
+  font-family: 'News Cycle', sans-serif;
+  max-width: 1050px;
+  margin: 1.5rem auto;
+}
+
 p.dek {
   color: #888;
   text-align: center;
@@ -208,5 +218,5 @@ p.chart-label {
 }
 
 @media (max-width: 768px) {
-	
+
 }
