@@ -207,7 +207,7 @@ highlighted_demog <- towns_demog %>%
 
 `%notin%` <- Negate(`%in%`)
 other_demog <- towns_demog %>% 
-  filter(city %notin% cities) %>% 
+  #filter(city %notin% cities) %>% 
   #filter(city %notin% c("Blue Island", "Calumet City", "Harvey", "Dolton")) %>% 
   group_by(date) %>% 
   summarise(avg_pct = sum(as.numeric(total_with_complete_vaccine_series)) / sum(TOT_POP))
