@@ -81,15 +81,25 @@ d3.csv("data/diff_vax.csv").then(function (data) {
       .style("stroke-width", "2px")
 
     // Average vaccination rate of 7 south and west suburbs
-    let highlightLabel = svg.append("text")
-      .attr("id", "highlightLabel")
+    let highlightLabel1 = svg.append("text")
+      .attr("id", "highlightLabel1")
       .attr("text-anchor", "left")
       .attr("x", 805)
       .attr("y", 180)
       .style("fill", "#c51b7d")
       .style("font-size", "14px")
       .style("font-weight", "bold")
-      .text("Seven south and west suburbs")
+      .text("Seven south and")
+
+    let highlightLabel2 = svg.append("text")
+      .attr("id", "highlightLabel2")
+      .attr("text-anchor", "left")
+      .attr("x", 805)
+      .attr("y", 195)
+      .style("fill", "#c51b7d")
+      .style("font-size", "14px")
+      .style("font-weight", "bold")
+      .text("west suburbs")
 
     let otherLabel = svg.append("text")
       .attr("id", "otherLabel")
