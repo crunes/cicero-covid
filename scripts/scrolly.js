@@ -239,7 +239,7 @@ d3.csv('data/vax_rates.csv')
       .attr("x", 800)
       .attr("y", 300)
       .style("fill", "#c51b7d")
-      .style("font-size", "14px")
+      .style("font-size", "12px")
       .style("font-weight", "bold")
       .text("Berwyn")
 
