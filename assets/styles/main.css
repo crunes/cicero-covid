@@ -80,6 +80,29 @@ img {
   max-width: 400px;
 }
 
+p.small-hed {
+  text-align: left;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+small-dek {
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Lusitana', serif;
+}
+
+.article-banner {
+  background: black;
+  font-family: 'News Cycle', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 20px;
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
 #logo {
   width: 100%;
   margin: 2rem auto;
