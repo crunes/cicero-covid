@@ -39,6 +39,12 @@ p.source {
   text-align: center;
 }
 
+#art-credit {
+  margin: 0 auto;
+  font-size: 14px;
+  text-align: center;
+}
+
 .filler h1, #hed {
   font-family: 'Lusitana', serif;
   font-weight: 400;
@@ -105,7 +111,7 @@ small-dek {
 
 #logo {
   width: 100%;
-  margin: 2rem auto;
+  margin: 2rem auto 0 auto;
   display: block;
 }
 
