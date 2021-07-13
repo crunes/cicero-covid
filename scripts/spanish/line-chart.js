@@ -99,7 +99,7 @@ d3.csv("data/diff_vax.csv").then(function (data) {
       .style("fill", "#c51b7d")
       .style("font-size", "14px")
       .style("font-weight", "bold")
-      .text("del sur y oest")
+      .text("del sur y oeste")
 
     let otherLabel1 = svg.append("text")
       .attr("id", "otherLabel1")
