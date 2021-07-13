@@ -39,6 +39,19 @@ p.source {
   text-align: center;
 }
 
+#language-version {
+  background: #dd3333;
+  font-family: 'News Cycle', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 16px;
+  display: block;
+  width: 150px;
+  margin: 2rem auto;
+  text-align: center;
+  padding: .5rem;
+}
+
 #art-credit {
   margin: 0 auto;
   font-size: 14px;
