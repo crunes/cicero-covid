@@ -105,7 +105,7 @@ p.small-hed {
   font-weight: bold;
 }
 
-small-dek {
+small-dek, p.small-dek {
   text-align: left;
   font-size: 18px;
   font-family: 'Lusitana', serif;
